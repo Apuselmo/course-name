@@ -39,24 +39,24 @@
 ### **Slide 4: Sakramen Baptisa (KGK 1213-1284)**  
 - **Materi:** Ai  
 - **Forma:** "Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus."  
-- **Ti Ngelaksanakan:** Uskup, Imam, Diakon. Enti dalam bahaya, sapa-sapa ulih ngebaptisa enti bisi niat ti betul.  
+- **Ti Ngelaksanakan:** Biskop, Imam, Diakon. Enti dalam bahaya, sapa-sapa ulih ngebaptisa enti bisi niat ti betul.  
 - **Nimet (Pengasih):**  
   - Dosa Asal & semua dosa diri diampun.  
-  - Dilahirka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.  
+  - Diadaka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.  
   - Diberi tanda rohani ti enda lenyau.  
   - Diberi pengasih kena idup nyadi murid Kristus.  
 - **KGK Penting:** 1279-1280.  
 
 ---
 
-### **Slide 5: Sakramen Krisma / Penguatan (KGK 1285-1321)**  
-- **Materi:** Minyak Krisma (minyak dikuduska Uskup).  
+### **Slide 5: Sakramen Krisma / Pengentap (KGK 1285-1321)**  
+- **Materi:** Minyak Krisma (minyak dikuduska Biskop).  
 - **Forma:** "Awakka diberi tanda pengasih Allah, Roh Kudus."  
-- **Ti Ngelaksanakan:** Uskup (tauka Imam ti diberi kuasa).  
+- **Ti Ngelaksanakan:** Biskop (tauka Imam ti diberi kuasa).  
 - **Nimet (Pengasih):**  
-  - Ngukuhka pengasih Baptisa.  
-  - Mri Roh Kudus kena ngeringka pengarap.  
-  - Mri tanda rohani ti enda ilang.  
+  - Ngukuhka pengasi nimet Baptisa.  
+  - Meri Roh Kudus kena ngeringka pengarap.  
+  - Meri tanda rohani ti enda ilang.  
   - Ngikat lebih rapat enggau Gereja.  
   - Ngering kena nyadi saksi Kristus.  
 - **KGK Penting:** 1302-1305.  
@@ -66,7 +66,7 @@
 ### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**  
 - **Materi:** Roti gandum & Anggur.  
 - **Forma:** Jako Konsekrasi ari Imam: "Tu Tubuh-Ku... Tu Darah-Ku..."  
-- **Ti Ngelaksanakan:** Imam (tauka Uskup).  
+- **Ti Ngelaksanakan:** Imam (tauka Biskop).  
 - **Nimet (Pengasih):**  
   - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.  
   - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.  
@@ -80,7 +80,7 @@
 ### **Slide 7: Sakramen Tobat / Pengakuan Dosa (KGK 1422-1498)**  
 - **Materi:** Tindakan orang ti bechara (sesal, ngaku dosa, penitensi).  
 - **Forma:** Jako Pengampun ari Imam: "Awakka Allah Taala ampun dosa nuan..."  
-- **Ti Ngelaksanakan:** Uskup tauka Imam.  
+- **Ti Ngelaksanakan:** Biskop tauka Imam.  
 - **Nimet (Pengasih):**  
   - Dosa berat & ringan diampun.  
   - Dikembalika pengelikun enggau Allah & Gereja.  
@@ -92,9 +92,9 @@
 ---
 
 ### **Slide 8: Sakramen Pengurapan Orang Sakit (KGK 1499-1532)**  
-- **Materi:** Minyak Orang Sakit (dikuduska Uskup).  
+- **Materi:** Minyak Orang Sakit (dikuduska Biskop).  
 - **Forma:** Doa Gereja kena minta pengasih ngagai orang sakit.  
-- **Ti Ngelaksanakan:** Imam tauka Uskup.  
+- **Ti Ngelaksanakan:** Imam tauka Biskop.  
 - **Nimet (Pengasih):**  
   - Mri semengat, pemaik, & berani kena ngalahka penyait.  
   - Nyerakup enggau Penderitaan Kristus.  
@@ -107,16 +107,16 @@
 ---
 
 ### **Slide 9: Sakramen Imamat / Tahbisan (KGK 1536-1600)**  
-- **Materi:** Penumpang tangan Uskup.  
-- **Forma:** Doa Tahbisan kena tiap darjat (Diakon, Imam, Uskup).  
-- **Ti Ngelaksanakan:** Uskup.  
+- **Materi:** Penumpang tangan Biskop.  
+- **Forma:** Doa Tahbisan kena tiap darjat (Diakon, Imam, Biskop).  
+- **Ti Ngelaksanakan:** Biskop.  
 - **Nimet (Pengasih):**  
   - Mri tanda rohani ti enda ilang kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).  
   - Mri pengasih Roh Kudus kena ngibun.  
   - Kuasa nguduska: Meri Sakramen, meraya Ekaristi, ngaku dosa.  
 - **Tiga Darjat:**  
-  - **Uskup:** Imam ti penuh; pengganti Rasul; pengibun keuskupan.  
-  - **Imam:** Pembantu Uskup; pengajar & pemberi Sakramen.  
+  - **Biskop:** Imam ti penuh; pengganti Rasul; pengibun keBiskopan.  
+  - **Imam:** Pembantu Biskop; pengajar & pemberi Sakramen.  
   - **Diakon:** Pembantu Imam; pengajar & pengibun pengidup.  
 - **KGK Penting:** 1547-1553, 1592.  
 
@@ -124,7 +124,7 @@
 
 ### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**  
 - **Materi & Forma:** Sepakat pengantin (lelaki & indu).  
-- **Ti Ngelaksanakan:** Pengantin empu (saling mri & nerima). Imam/Uskup/Diakon nyadi saksi resmi Gereja.  
+- **Ti Ngelaksanakan:** Pengantin empu (saling mri & nerima). Imam/Biskop/Diakon nyadi saksi resmi Gereja.  
 - **Nimet (Pengasih):**  
   - Ngaga ikatan kudus & enda putus.  
   - Mri pengasih kena rindu baka Kristus, setia, & besemengatka anak.  
