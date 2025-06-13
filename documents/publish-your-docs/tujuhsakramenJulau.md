@@ -18,7 +18,7 @@
 
 ### **Slide 3: Tiga Bagi Sakramen (KGK 1211)**  
 1. **Sakramen Masuk Kristen:**  
-   - Baptisa  
+   - Baptisa/Basu Pala 
    - Krisma (Penguatan)  
    - Ekaristi  
 2. **Sakramen Penyembuh:**  
