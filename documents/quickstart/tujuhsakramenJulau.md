@@ -1,14 +1,10 @@
 # **Presentasi: Tujuh Sakramen dalam Gereja Katolik**  
 *(Berdasarka Katekismus Gereja Katolik - KGK)*  
 
----
-
 ### **Slide 1: Judul**  
 - **Judul:** Tujuh Sakramen: Pengasih Allah ti Negu Pengidup Mensia  
 - **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik  
 - **Gambar:** Gambar Jesus Christ tauka simbol tujuh sakramen.  
-
----
 
 ### **Slide 2: Pengantar: Nama Sakramen? (KGK 1131)**  
 - **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka pengasih ti enda dipeda, ti ditetapka Jesus Kristus kena nguduska kitai."  
@@ -19,8 +15,6 @@
   - **Meri Pengasih:** Ngasilka utai ti ditandaka (pengasih sakramen) enti diterima enggau ati ti terbuka.  
 - **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.  
 - **KGK Penting:** 774, 1084, 1113-1134.  
-
----
 
 ### **Slide 3: Tiga Kumpul Sakramen (KGK 1211)**  
 1. **Sakramen Masuk Kristen:**  
@@ -34,8 +28,6 @@
    - Imamat (Tahbisan)  
    - Perkawinan  
 
----
-
 ### **Slide 4: Sakramen Baptisa (KGK 1213-1284)**  
 - **Materi:** Ai  
 - **Forma:** "Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus."  
@@ -46,8 +38,6 @@
   - Diberi tanda rohani ti enda lenyau.  
   - Diberi pengasih kena idup nyadi murid Kristus.  
 - **KGK Penting:** 1279-1280.  
-
----
 
 ### **Slide 5: Sakramen Krisma / Pengentap (KGK 1285-1321)**  
 - **Materi:** Minyak Krisma (minyak dikuduska Biskop).  
@@ -61,8 +51,6 @@
   - Ngering kena nyadi saksi Kristus.  
 - **KGK Penting:** 1302-1305.  
 
----
-
 ### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**  
 - **Materi:** Roti gandum & Anggur.  
 - **Forma:** Jako Konsekrasi ari Imam: "Tu Tubuh-Ku... Tu Darah-Ku..."  
@@ -74,8 +62,6 @@
   - **Jamin Pengidup Selama-lama:** Bekal pengidup ti meruan.  
 - **Kristus Betul-betul Ada:** Roti & anggur betul-betul nyadi Tubuh & Darah Kristus (Transubstansiasi - KGK 1376).  
 - **KGK Penting:** 1324, 1356-1372, 1407.  
-
----
 
 ### **Slide 7: Sakramen Tobat / Pengakuan Dosa (KGK 1422-1498)**  
 - **Materi:** Tindakan orang ti bechara (sesal, ngaku dosa, penitensi).  
@@ -89,8 +75,6 @@
   - Ngering kena ngalahka penguji.  
 - **KGK Penting:** 1440-1442, 1450, 1496.  
 
----
-
 ### **Slide 8: Sakramen Pengurapan Orang Sakit (KGK 1499-1532)**  
 - **Materi:** Minyak Orang Sakit (dikuduska Biskop).  
 - **Forma:** Doa Gereja kena minta pengasih ngagai orang sakit.  
@@ -103,8 +87,6 @@
   - Nyadi bekengau kematian.  
 - **Enda Sakramen "Pengujung" Saja:** Bisi diterima mayuh kali enti sakit berat.  
 - **KGK Penting:** 1520-1523.  
-
----
 
 ### **Slide 9: Sakramen Imamat / Tahbisan (KGK 1536-1600)**  
 - **Materi:** Penumpang tangan Biskop.  
@@ -120,8 +102,6 @@
   - **Diakon:** Pembantu Imam; pengajar & pengibun pengidup.  
 - **KGK Penting:** 1547-1553, 1592.  
 
----
-
 ### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**  
 - **Materi & Forma:** Sepakat pengantin (lelaki & indu).  
 - **Ti Ngelaksanakan:** Pengantin empu (saling mri & nerima). Imam/Biskop/Diakon nyadi saksi resmi Gereja.  
@@ -133,8 +113,6 @@
 - **Sifat:** Satu, setia, terbuka kena besemengatka anak, saling sayau.  
 - **KGK Penting:** 1638-1642, 1659-1660.  
 
----
-
 ### **Slide 11: Kesimpulan: Sakramen dalam Pengidup (KGK 1113, 1131)**  
 - Sakramen jako pengawa Kristus Empu ti bekereja dalam Gereja.  
 - Iya sebagai punca pengidup ilahi & pengasih ti diperluka.  
@@ -142,22 +120,16 @@
 - Iya ngeringka Gereja & ngukuhka pengelikun enggau Allah Taala.  
 - Kena ngasaika sakramen, kitai perlu pengarap & ati ti terbuka.  
 
----
-
 ### **Slide 12: Tanya & Bicara**  
 - Nama utai ti enda terang?  
 - Kongsi pengalaman pasal sakramen.  
 - Bicarka pemayuh sakramen dalam pengidup sehari-hari.  
 - Sumber: Katekismus Gereja Katolik (Bahagian II: Perayaan Misteri Kristen, Art. 1210 dst).  
 
----
-
 ### **Slide 13: Terima Kasih**  
 - "Sakramen sebagai kuasa ti datai ari Tubuh Kristus ti idup & ngidupka; iya sebagai pengawa Roh Kudus dalam Gereja." (KGK 1116)  
 - **Referensi:** Katekismus Gereja Katolik (KGK)  
 - **Gambar:** Gereja tauka simbol Roh Kudus.  
-
----  
 
 ### **Tips Penyajian:**  
 1. **Visual:** Guna gambar/ikon sakramen (contoh: Baptisa - ai, Krisma - burung ruai, Ekaristi - roti-anggur).  
@@ -166,8 +138,6 @@
 4. **Referensi:** Sedia salinan KGK enti deka ditanya.  
 5. **Fokus Rohani:** Sakramen ukai jako magic, tang perjumpaan enggau Kristus.  
 6. **Masa:** Lebih mayuh agi kena Ekaristi & Pengakuan Dosa.  
-
----
 
 **Materi Tambah (Enti Dipeda):**  
 - **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.  
