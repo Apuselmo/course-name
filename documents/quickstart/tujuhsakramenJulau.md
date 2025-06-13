@@ -1,5 +1,5 @@
 # **Presentasi: Tujuh Sakramen dalam Gereja Katolik**  
-**(Berdasarka Katekismus Gereja Katolik - KGK)** 
+**(Ngitihka Katekismus Gereja Katolik - KGK)** 
 
 ### **Slide 1: Judul**  
 - **Judul:** Tujuh Sakramen: Pengasih Allah ti Negu Pengidup Mensia  
