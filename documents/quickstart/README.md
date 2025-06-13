@@ -8,16 +8,6 @@ Teks Katekismus ini saya kutip dari laman _**katekese.id**_ (_https://katekese.i
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../../time-to-learn/editor.md) section to learn more.
-{% endhint %}
+_**GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.**_
 
-### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+<div data-full-width="false"><figure><img src="https://images.unsplash.com/photo-1633963792796-8e35bb51675a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjYXRlY2hpc218ZW58MHx8fHwxNzQ5NTMyODU3fDA&#x26;ixlib=rb-4.1.0&#x26;q=85" alt=""><figcaption></figcaption></figure></div>
