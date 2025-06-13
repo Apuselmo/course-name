@@ -16,7 +16,7 @@
 - **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.  
 - **KGK Penting:** 774, 1084, 1113-1134.  
 
-### **Slide 3: Tiga Kumpul Sakramen (KGK 1211)**  
+### **Slide 3: Tiga Bagi Sakramen (KGK 1211)**  
 1. **Sakramen Masuk Kristen:**  
    - Baptisa  
    - Krisma (Penguatan)  
