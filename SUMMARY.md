@@ -7,6 +7,7 @@
 * [Katekismus Gereja Katolik - Catechism of the Catholic Church](documents/quickstart/README.md)
   * [Pengantar Katekismus - Introduction](documents/quickstart/pengantar-katekismus-introduction.md)
   * [Pengakuan Iman Katolik - Seksi 1](documents/quickstart/pengakuan-iman-katolik-seksi-1.md)
+  * [Presentasi: Tujuh Sakramen dalam Gereja Katolik](documents/quickstart/presentasi-tujuh-sakramen-dalam-gereja-katolik.md)
 * [Encyclical](documents/publish-your-docs.md)
 
 ## Time to Learn
