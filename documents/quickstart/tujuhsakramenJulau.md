@@ -4,8 +4,8 @@
 ---
 
 ### **Slide 1: Judul**  
-- **Judul:** Tujuh Sakramen: Pengasih Allah ti Nyentuh Pengidup Mensia  
-- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik bedasarka Katekismus Gereja Katolik  
+- **Judul:** Tujuh Sakramen: Pengasih Allah ti Negu Pengidup Mensia  
+- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik  
 - **Gambar:** Gambar Jesus Christ tauka simbol tujuh sakramen.  
 
 ---
@@ -40,7 +40,7 @@
 - **Materi:** Ai  
 - **Forma:** "Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus."  
 - **Ti Ngelaksanakan:** Uskup, Imam, Diakon. Enti dalam bahaya, sapa-sapa ulih ngebaptisa enti bisi niat ti betul.  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Dosa Asal & semua dosa diri diampun.  
   - Dilahirka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.  
   - Diberi tanda rohani ti enda ilang.  
@@ -53,7 +53,7 @@
 - **Materi:** Minyak Krisma (minyak dikuduska Uskup).  
 - **Forma:** "Awakka diberi tanda pengasih Allah, Roh Kudus."  
 - **Ti Ngelaksanakan:** Uskup (tauka Imam ti diberi kuasa).  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Ngukuhka pengasih Baptisa.  
   - Mri Roh Kudus kena ngeringka pengarap.  
   - Mri tanda rohani ti enda ilang.  
@@ -67,7 +67,7 @@
 - **Materi:** Roti gandum & Anggur.  
 - **Forma:** Jako Konsekrasi ari Imam: "Tu Tubuh-Ku... Tu Darah-Ku..."  
 - **Ti Ngelaksanakan:** Imam (tauka Uskup).  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.  
   - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.  
   - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun Umat Allah.  
@@ -81,7 +81,7 @@
 - **Materi:** Tindakan orang ti bechara (sesal, ngaku dosa, penitensi).  
 - **Forma:** Jako Pengampun ari Imam: "Awakka Allah Taala ampun dosa nuan..."  
 - **Ti Ngelaksanakan:** Uskup tauka Imam.  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Dosa berat & ringan diampun.  
   - Dikembalika pengelikun enggau Allah & Gereja.  
   - Mri pengasih pengudusan baru enti udah ilang laban dosa berat.  
@@ -95,7 +95,7 @@
 - **Materi:** Minyak Orang Sakit (dikuduska Uskup).  
 - **Forma:** Doa Gereja kena minta pengasih ngagai orang sakit.  
 - **Ti Ngelaksanakan:** Imam tauka Uskup.  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Mri semengat, pemaik, & berani kena ngalahka penyait.  
   - Nyerakup enggau Penderitaan Kristus.  
   - Ngampun dosa enti orang sakit enda ulih ngaku.  
@@ -110,7 +110,7 @@
 - **Materi:** Penumpang tangan Uskup.  
 - **Forma:** Doa Tahbisan kena tiap darjat (Diakon, Imam, Uskup).  
 - **Ti Ngelaksanakan:** Uskup.  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Mri tanda rohani ti enda ilang kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).  
   - Mri pengasih Roh Kudus kena ngibun.  
   - Kuasa nguduska: Meri Sakramen, meraya Ekaristi, ngaku dosa.  
@@ -125,7 +125,7 @@
 ### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**  
 - **Materi & Forma:** Sepakat pengantin (lelaki & indu).  
 - **Ti Ngelaksanakan:** Pengantin empu (saling mri & nerima). Imam/Uskup/Diakon nyadi saksi resmi Gereja.  
-- **Kebaik (Pengasih):**  
+- **Nimet (Pengasih):**  
   - Ngaga ikatan kudus & enda putus.  
   - Mri pengasih kena rindu baka Kristus, setia, & besemengatka anak.  
   - Nunjukka pengelikun Kristus & Gereja.  
@@ -170,8 +170,8 @@
 ---
 
 **Materi Tambah (Enti Dipeda):**  
-- **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngelaksanakan, Kebaik, KGK.  
+- **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.  
 - **Ayat Kitab Kudus:** Ayat pendukung tiap sakramen.  
-- **Dokumen Gereja:** Sebut dokumen ti lain baka Sacrosanctum Concilium.  
+- **Dokumen Gereja:** Sebut dokumen ti bukai baka Sacrosanctum Concilium.  
 
 **Presentasi tu meri penemu teologi ti kukuh. Kena penemu lebih dalam, guna teks KGK ti asal.**
