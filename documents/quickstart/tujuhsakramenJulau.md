@@ -13,11 +13,11 @@
 ### **Slide 2: Pengantar: Nama Sakramen? (KGK 1131)**  
 - **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka pengasih ti enda dipeda, ti ditetapka Jesus Kristus kena nguduska kitai."  
 - **Inti Sakramen:**  
-  - **Tanda Kudus:** Nguna utai ti dipeda (ai, minyak, roti, anggur) enggau jako (forma).  
+  - **Tanda Kudus:** Ngena utai ti dipeda (ai, minyak, roti, anggur) enggau jako (forma).  
   - **Ditentuk Jesus Kristus:** Datai ari Jesus Empu.  
-  - **Dilaksanakan Gereja:** Diberi ngagai Gereja kena dilaksanakan kena selamatka mensia.  
+  - **Digaga Gereja:** Diberi ngagai Gereja kena digaga ketegal nyelamatka mensia.  
   - **Meri Pengasih:** Ngasilka utai ti ditandaka (pengasih sakramen) enti diterima enggau ati ti terbuka.  
-- **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), mri puji ngagai Allah Taala.  
+- **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.  
 - **KGK Penting:** 774, 1084, 1113-1134.  
 
 ---
@@ -43,7 +43,7 @@
 - **Nimet (Pengasih):**  
   - Dosa Asal & semua dosa diri diampun.  
   - Dilahirka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.  
-  - Diberi tanda rohani ti enda ilang.  
+  - Diberi tanda rohani ti enda lenyau.  
   - Diberi pengasih kena idup nyadi murid Kristus.  
 - **KGK Penting:** 1279-1280.  
 
