@@ -9,6 +9,7 @@
   * [Pengakuan Iman Katolik - Seksi 1](documents/quickstart/pengakuan-iman-katolik-seksi-1.md)
 * [Writings](documents/publish-your-docs/README.md)
   * [Tujuh Sakramen dalam Gereja Katolik](documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md)
+  * [Nyadi Lektor](documents/publish-your-docs/nyadi-lektor.md)
 
 ## Time to Learn
 
