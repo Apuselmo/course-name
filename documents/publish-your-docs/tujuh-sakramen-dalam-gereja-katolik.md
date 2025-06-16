@@ -5,19 +5,18 @@
 
 ### **Slide 1: Judul**  
 - **Judul:** Tujuh Sakramen: Pengasi Allah ti Negu Pengidup Mensia  
-- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik  
-- **Gambar:** Gambar Jesus Christ tauka simbol tujuh sakramen.  
+- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik   
 
 ---
 
-### **Slide 2: Pengantar: Nama Sakramen? (KGK 1131)**  
-- **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka Pengasi ti enda dipeda, ti ditetapka Jesus Kristus kena nguduska kitai."  
+### **Slide 2: Pengelalu: Nama Sakramen? (KGK 1131)**  
+- **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka Pengasi ti enda dipeda, ti diberi Jesus Kristus kena nguduska kitai."  
 
 ---
 
 - **Inti Sakramen:**  
-  - **Tanda Kudus:** Ngena utai ti dipeda (ai, minyak, roti, anggur) enggau jako (forma).  
-  - **Ditentuk Jesus Kristus:** Datai ari Jesus Empu.  
+  - **Tanda Kudus:** Ngena utai ti dipeda (ai, minyak, roti, anggur [Materia])  enggau jako (forma).  
+  - **Diberi Jesus Kristus:** Datai ari Jesus Empu.  
   - **Digaga Gereja:** Diberi ngagai Gereja kena digaga ketegal nyelamatka mensia.  
   - **Meri Pengasi:** Ngasilka utai ti ditandaka (Pengasi sakramen) enti diterima enggau ati ti terbuka.  
 - **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.  
@@ -26,16 +25,16 @@
 ---
 
 ### **Slide 3: Tiga Bagi Sakramen (KGK 1211)**  
-1. **Sakramen Masuk Kristen:**  
+1. **Sakramen Inisiasi:**  
    - Baptisa/Basu Pala 
-   - Krisma (Penguatan)  
-   - Ekaristi  
-2. **Sakramen Penyembuh:**  
-   - Pengakuan Dosa  
-   - Pengurapan Orang Sakit  
-3. **Sakramen Panggilan & Pengibun:**  
-   - Imamat (Tahbisan)  
-   - Perkawinan  
+   - Pengentap (Penguatan)  
+   - Ekaristia  
+2. **Sakramen Pengerao:**  
+   - Ngaku Dosa  
+   - Ngunsut orang ti tabin  
+3. **Sakramen Pemela & Pengibun:**  
+   - Dichiri nyadi Paderi (Tahbisan)  
+   - Sabung Jadi  
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop, Imam, Diakon. Enti dalam bahaya, sapa-sapa ulih ngebaptisa enti bisi niat ti betul.  
+- **Ti Mela/Ngulu:** Biskop, Paderi, Diakon. Enti dalam bahaya, sapa-sapa ulih maptisa enti bisi niat ti betul.  
 
 ---
 
@@ -67,7 +66,7 @@
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop (tauka Imam ti diberi kuasa).  
+- **Ti Mela/Ngulu:** Biskop (tauka Paderi ti diberi kuasa).  
 
 ---
 
@@ -75,7 +74,7 @@
   - Ngukuhka pengasi nimet Baptisa.  
   - Meri Roh Kudus kena ngeringka pengarap.  
   - Meri tanda rohani ti enda ilang.  
-  - Ngikat lebih rapat enggau Gereja.  
+  - Ngikat agi rapit enggau Gereja.  
   - Ngering kena nyadi saksi Kristus.  
 
 ---
@@ -86,18 +85,18 @@
 
 ### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**  
 - **Materi:** Roti gandum & Anggur.  
-- **Forma:** Jako Konsekrasi ari Imam: "Tu Tubuh-Ku... Tu Darah-Ku..."  
+- **Forma:** Jako Konsekrasi ari Paderi: "Tu Tubuh-Ku... Tu Darah-Ku..."  
 
 ---
 
-- **Ti Mela/Ngulu:** Imam (tauka Biskop).  
+- **Ti Mela/Ngulu:** Paderi (tauka Biskop).  
 
 ---
 
 - **Nimet (Pengasi):**  
   - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.  
   - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.  
-  - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun Umat Allah.  
+  - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun nembiak Allah Taala.  
   - **Jamin Pengidup Selama-lama:** Bekal pengidup ti meruan.  
 - **Kristus Betul-betul Ada:** Roti & anggur betul-betul nyadi Tubuh & Darah Kristus (Transubstansiasi - KGK 1376).  
 
@@ -107,21 +106,21 @@
 
 ---
 
-### **Slide 7: Sakramen Tobat / Pengakuan Dosa (KGK 1422-1498)**  
-- **Materi:** Tindakan orang ti bechara (sesal, ngaku dosa, penitensi).  
-- **Forma:** Jako Pengampun ari Imam: "Awakka Allah Taala ampun dosa nuan..."  
+### **Slide 7: Sakramen Tobat / Ngaku Dosa (KGK 1422-1498)**  
+- **Materi:** Pengawa orang ti bechara (sesal, ngaku dosa, penitensi).  
+- **Forma:** Jako Pengampun ari Paderi: "Awakka Allah Taala ngampun penyalah nuan..."  
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop tauka Imam.  
+- **Ti Mela/Ngulu:** Biskop tauka Paderi.  
 
 ---
 
 - **Nimet (Pengasi):**  
   - Dosa berat & ringan diampun.  
-  - Dikembalika pengelikun enggau Allah & Gereja.  
-  - Mri Pengasi pengudusan baru enti udah ilang laban dosa berat.  
-  - Mri pemadu & pemaik ati.  
+  - Pulai baru pengelikun enggau kaul ti manah enggau Allah Taala & Gereja.  
+  - Meri Pengasi pengudus baru enti udah lenyau laban dosa ti udu balat.  
+  - Meri pemadu & pemaik ati.  
   - Ngering kena ngalahka penguji.  
 
 ---
@@ -130,18 +129,18 @@
 
 ---
 
-### **Slide 8: Sakramen Pengurapan Orang Sakit (KGK 1499-1532)**  
-- **Materi:** Minyak Orang Sakit (dikuduska Biskop).  
-- **Forma:** Doa Gereja kena minta Pengasi ngagai orang sakit.  
+### **Slide 8: Sakramen Pengunsut orang ti tabin (KGK 1499-1532)**  
+- **Materi:** Minyak Orang Tabin (dikuduska Biskop).  
+- **Forma:** Sampi Gereja kena minta Pengasi ngagai orang ti tabin.  
 
 ---
 
-- **Ti Mela/Ngulu:** Imam tauka Biskop.  
+- **Ti Mela/Ngulu:** Paderi tauka Biskop.  
 
 ---
 
 - **Nimet (Pengasi):**  
-  - Mri semengat, pemaik, & berani kena ngalahka penyait.  
+  - Meri semengat, pemaik, & berani kena ngalahka penyait.  
   - Nyerakup enggau Penderitaan Kristus.  
   - Ngampun dosa enti orang sakit enda ulih ngaku.  
   - Ngeringka tubuh enti tu peneka Allah.  
@@ -157,9 +156,9 @@
 
 ---
 
-### **Slide 9: Sakramen Imamat / Tahbisan (KGK 1536-1600)**  
-- **Materi:** Penumpang tangan Biskop.  
-- **Forma:** Doa Tahbisan kena tiap darjat (Diakon, Imam, Biskop).  
+### **Slide 9: Sakramen Paderiat / Tahbisan (KGK 1536-1600)**  
+- **Materi:** Jari ti diengkah Biskop atas pala.  
+- **Forma:** Sampi Penyiri kena tiap darjat (Diakon, Paderi, Biskop).  
 
 ---
 
@@ -168,16 +167,16 @@
 ---
 
 - **Nimet (Pengasi):**  
-  - Mri tanda rohani ti enda ilang kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).  
-  - Mri Pengasi Roh Kudus kena ngibun.  
-  - Kuasa nguduska: Meri Sakramen, meraya Ekaristi, ngaku dosa.  
+  - Meri tanda rohani ti enda lenyau kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).  
+  - Meri Pengasi Roh Kudus kena ngibun.  
+  - Kuasa nguduska: Meri Sakramen, ngeraika Ekaristi, ngaku dosa.  
 
 ---
 
 - **Tiga Darjat:**  
-  - **Biskop:** Imam ti penuh; pengganti Rasul; pengibun keBiskopan.  
-  - **Imam:** Pembantu Biskop; pengajar & pemberi Sakramen.  
-  - **Diakon:** Pembantu Imam; pengajar & pengibun pengidup.  
+  - **Biskop:** Paderi ti penuh; pengganti Rasul; pengibun keBiskopan.  
+  - **Paderi:** Penulung Biskop; pengajar & pemberi Sakramen.  
+  - **Diakon:** Penulung Paderi; pengajar & pengibun pengidup.  
 
 ---
 
@@ -186,23 +185,23 @@
 ---
 
 ### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**  
-- **Materi & Forma:** Sepakat pengantin (lelaki & indu).  
+- **Materi & Forma:** Sempekat seduai pengantin (lelaki & indu).  
 
 ---
 
-- **Ti Mela/Ngulu:** Pengantin empu (saling mri & nerima). Imam/Biskop/Diakon nyadi saksi resmi Gereja.  
+- **Ti Mela/Ngulu:** Pengantin empu (saling Meri & nerima). Paderi/Biskop/Diakon nyadi saksi resmi Gereja.  
 
 ---
 
 - **Nimet (Pengasi):**  
   - Ngaga ikatan kudus & enda putus.  
-  - Mri Pengasi kena rindu baka Kristus, setia, & besemengatka anak.  
+  - Meri Pengasi kena rindu baka Kristus, setia, & besemengatka anak.  
   - Nunjukka pengelikun Kristus & Gereja.  
-  - Ngeringka "Gereja Kecik" (keluarga).  
+  - Ngeringka "Gereja ti Mit" (keluarga).  
 
 ---
 
-- **Sifat:** Satu, setia, terbuka kena besemengatka anak, saling rindu.  
+- **Sifat:** Siti, setia, terbuka kena besemengatka anak, saling rindu.  
 
 ---
 
@@ -212,39 +211,39 @@
 
 ### **Slide 11: Penyimpul: Sakramen dalam Pengidup (KGK 1113, 1131)**  
 - Sakramen jako pengawa Kristus Empu ti bekereja dalam Gereja.  
-- Iya sebagai punca pengidup ilahi & Pengasi ti diperluka.  
+- Iya nyadi punca pengidup ilahi & Pengasi ti diperluka.  
 
 ---
 
-- Tiap sakramen nyentuh tahap penting pengidup mensia (dilahirka, besai, makai, sakit, ngibun, rindu, deka mati).  
+- Tiap sakramen negu tahap penting pengidup mensia (didiadaka, mansang besai, bulih pemakai, maya sakit/tabin, ngibun, rindu, deka parai).  
 - Iya ngeringka Gereja & ngukuhka pengelikun enggau Allah Taala.  
-- Kena ngasaika sakramen, kitai perlu pengarap & ati ti terbuka.  
+- Kena ngasaika sakramen, kitai perlu bisi pengarap & ati ti terbuka.  
 
 ---
 
 ### **Slide 12: Tanya & Bicara**  
 - Nama utai ti enda terang?  
-- Kongsi pengalaman pasal sakramen.  
-- Bicarka pemayuh sakramen dalam pengidup sehari-hari.  
+- Kongsi pengasai pasal sakramen.  
+- Kerandauka pemayuh sakramen dalam pengidup sehari-hari.  
 - Sumber: Katekismus Gereja Katolik (Bahagian II: Perayaan Misteri Kristen, Art. 1210 dst).  
 
 ---
 
 ### **Slide 13: Terima Kasih**  
-- "Sakramen sebagai kuasa ti datai ari Tubuh Kristus ti idup & ngidupka; iya sebagai pengawa Roh Kudus dalam Gereja." (KGK 1116)  
+- "Sakramen baka kuasa ti datai ari Tubuh Kristus ti idup & ngidupka; iya baka pengawa Roh Kudus dalam Gereja." (KGK 1116)  
 - **Referensi:** Katekismus Gereja Katolik (KGK)  
 
 ---
 
 ### **Tips Penyajian:**  
 1. **Visual:** Guna gambar/ikon sakramen (contoh: Baptisa - ai, Krisma - burung ruai, Ekaristi - roti-anggur).  
-2. **Interaktif:** Ajak orang bejako pasal sakramen ti udah diterima.  
+2. **Interaktif:** Kangau orang bejako pasal sakramen ti udah diterima.  
 
 ---
 
-3. **Jako:** Guna jako ti mudah dipahami.  
-4. **Referensi:** Sedia salinan KGK enti deka ditanya.  
-5. **Fokus Rohani:** Sakramen ukai jako magic, tang perjumpaan enggau Kristus.  
+3. **Jako:** Guna jako ti mudah dimeretika.  
+4. **Referensi:** Nyendia ayat-ayat KGK enti deka ditanya.  
+5. **Fokus Rohani:** Sakramen ukai jako sihir, tang perjumpaan enggau Kristus.  
 6. **Masa:** Lebih mayuh agi kena Ekaristi & Pengakuan Dosa.  
 
 ---
@@ -252,7 +251,7 @@
 **Materi Tambah (Enti Dipeda):**  
 - **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.  
 - **Ayat Kitab Kudus:** Ayat pendukung tiap sakramen.  
-- **Dokumen Gereja:** Sebut dokumen ti bukai baka Sacrosanctum Concilium.  
+- **Dokumen Gerija:** Sebut dokumen ti bukai baka Sacrosanctum Concilium.  
 
 ---
 
