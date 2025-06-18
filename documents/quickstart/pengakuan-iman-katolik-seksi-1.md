@@ -1,15 +1,25 @@
 # Pengakuan Iman Katolik - Seksi 1
 
+**“AKU PERCAYA” – “KAMI PERCAYA”**
+
 {% tabs %}
 {% tab title="Teks dalam Bahasa Indonesia" %}
-“AKU PERCAYA” – “KAMI PERCAYA”
 26 Apabila kita mengakui iman kita, kita mulai dengan kata-kata: “Aku percaya” atau “kami percaya”. Sebelum kita menguraikan kepercayaan Gereja seperti yang diakui dalam syahadat, dirayakan dalam liturgi, dihayati dalam pelaksanaan perintah-perintah dan dalam doa, kita menanyakan kepada diri sendiri, apa artinya “percaya”. Kepercayaan adalah jawaban manusia kepada Allah yang mewahyukan dan memberikan Diri kepada manusia dan dengan demikian memberikan kepenuhan sinar kepada dia yang sedang mencari arti terakhir kehidupannya. Secara berturut-turut kita merenungkan pertama sekali mengenai manusia yang sedang mencari (Bab I), lalu mengenai wahyu ilahi, yang dengannya Allah menyongsong manusia (Bab II), dan akhirnya mengenai jawaban kepercayaan (Bab III).
 
-BAB I :
-MANUSIA
-SANGGUP MENEMUKAN ALLAH
+{% endtab %}
 
-I. Kerinduan akan Allah
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
+
+{% endtab %}
+{% endtabs %}
+
+**BAB I :**
+**MANUSIA SANGGUP MENEMUKAN ALLAH**
+
+**I. Kerinduan akan Allah**
+
+{% tabs %}
+{% tab title="Teks dalam Bahasa Indonesia" %}
 
 27 Kerinduan akan Allah sudah terukir dalam hati manusia karena manusia diciptakan oleh Allah dan untuk Allah. Allah tidak henti-hentinya menarik dia kepada diri-Nya. Hanya dalam Allah manusia dapat menemukan kebenaran dan kebahagiaan yang dicarinya terus-menerus:
 “Makna paling luhur martabat manusia terletak pada panggilannya untuk memasuki persekutuan dengan Allah. Sudah sejak asal mulanya manusia diundang untuk berwawancara dengan Allah. Sebab manusia hanyalah hidup, karena ia diciptakan oleh Allah dalam cinta kasih-Nya, dan lestari hidup berkat cinta kasih-Nya. Dan manusia tidak sepenuhnya hidup menurut kebenaran, bila ia tidak dengan sukarela mengakui cinta kasih itu, serta menyerahkan diri kepada Penciptanya” (GS 19,1).
@@ -29,9 +39,10 @@ I. Kerinduan akan Allah
 {% endtab %}
 {% endtabs %}
 
+**II. Jalan-jalan untuk Mengenal Allah**
+
 {% tabs %}
 {% tab title="Teks dalam Bahasa Indonesia" %}
-II. Jalan-jalan untuk Mengenal Allah
 
 31 Karena manusia diciptakan menurut citra Allah dan dipanggil untuk mengenal dan mencintai Allah, ia menemukan “jalan jalan” tertentu dalam pencarian Allah agar mencapai pengenalan akan Allah. Orang menamakan jalan jalan ini juga “pembuktian Allah”, bukan dalam arti ihnu pengetahuan alam, melainkan dalam arti argumen-argumen yang cocok dan meyakinkan, yang dapat menghantar kepada kepastian yang sungguh. “Jalan-jalan” menuju Allah ini mempergunakan ciptaan – dunia material dan pribadi manusia – sebagai titik tolak.
 
