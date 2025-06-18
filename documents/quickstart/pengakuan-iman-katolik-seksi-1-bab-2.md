@@ -19,25 +19,25 @@
 **53** Keputusan wahyu ilahi itu diwujudkan “dalam perbuatan dan perkataan yang bertalian batin satu sama lain” (DV2). Di dalamnya tercakup “kebijaksanaan mendidik” ilahi yang khas: Allah menyatakan Diri secara bertahap kepada manusia; Ia mempersiapkan manusia secara bertahap untuk menerima wahyu diri-Nya yang adikodrati, yang mencapai puncaknya dalam pribadi dan perutusan Yesus Kristus, Sabda yang menjadi manusia.\
 Dengan menggunakan kiasan bahwa Allah dan manusia seakan-akan saling membiasakan diri satu sama lain, santo Ireneus dari Lyon berbicara berulang kali tentang pedagogi ilahi ini. “Sabda Allah berdiam dalam manusia dan menjadi putera manusia, supaya manusia membiasakan diri untuk menerima Allah, dan Allah membiasakan diri untuk tinggal dalam manusia seturut perkenanan Bapa” (haer. 3,20,2).
 
-II. Tahap-tahap Wahyu
+**II. Tahap-tahap Wahyu**
 
-Allah Membiarkan Diri Dikenal sejak Awal Mula
+**Allah Membiarkan Diri Dikenal sejak Awal Mula**
 
-54 “Allah, yang menciptakan segala sesuatu melalui Sabda-Nya (lih. Yoh 1:3) serta melestarikannya dalam makhluk-makhluk, senantiasa memberikan kesaksian tentang diri-Nya kepada manusia (lih. Rm 1:19-20). Lagi pula karena Ia bermaksud membuka jalan menuju keselamatan di surga, Ia sejak awal mula telah menampakkan Diri kepada manusia pertama” (DV3). Ia menghimpun mereka dalam suatu persatuan yang erat dengan diri-Nya, sambil menghiasi mereka dengan rahmat dan keadilan yang gemilang.
+**54** “Allah, yang menciptakan segala sesuatu melalui Sabda-Nya (lih. Yoh 1:3) serta melestarikannya dalam makhluk-makhluk, senantiasa memberikan kesaksian tentang diri-Nya kepada manusia (lih. Rm 1:19-20). Lagi pula karena Ia bermaksud membuka jalan menuju keselamatan di surga, Ia sejak awal mula telah menampakkan Diri kepada manusia pertama” (DV3). Ia menghimpun mereka dalam suatu persatuan yang erat dengan diri-Nya, sambil menghiasi mereka dengan rahmat dan keadilan yang gemilang.
 
-55 Wahyu ini tidak diputuskan oleh dosa leluhur kita. “Karena sesudah mereka jatuh, dengan menjanjikan penebusan \[Allah] mengangkat mereka untuk mengharapkan keselamatan (lih. Kej 3:15). Tiada putus-putusnya Ia memelihara umat manusia, untuk mengaruniakan hidup kekal kepada semua, yang mencari keselamatan dengan bertekun melakukan apa yang baik (lih. Rm 2:6-7)” (DV 3).\
+**55** Wahyu ini tidak diputuskan oleh dosa leluhur kita. “Karena sesudah mereka jatuh, dengan menjanjikan penebusan \[Allah] mengangkat mereka untuk mengharapkan keselamatan (lih. Kej 3:15). Tiada putus-putusnya Ia memelihara umat manusia, untuk mengaruniakan hidup kekal kepada semua, yang mencari keselamatan dengan bertekun melakukan apa yang baik (lih. Rm 2:6-7)” (DV 3).\
 Ketika manusia “kehilangan persahabatan dengan Dikau karena tidak setia, ia tidak Kaubiarkan merana di bawah kekuasaan maut. Berulang kali Engkau menawarkan perjanjian kepada mereka” (MR, Doa Syukur Agung IV, 118).
 
-Perjanjian dengan Nuh
+**Perjanjian dengan Nuh**
 
-56 Ketika kesatuan umat manusia terpecah belah oleh dosa, Allah coba meluputkan umat manusia sebagian demi sebagian. Dalam perjanjian yang Ia lakukan dengan Nuh sesudah air bah, kehendak keselamatan ilahi dinyatakan kepada “bangsa-bangsa”, artinya kepada manusia-manusia, yang tinggal di “negerinya masing-masing dan mempunyai bahasa serta suku-sukunya sendiri” (Kej 10:5).
+**56** Ketika kesatuan umat manusia terpecah belah oleh dosa, Allah coba meluputkan umat manusia sebagian demi sebagian. Dalam perjanjian yang Ia lakukan dengan Nuh sesudah air bah, kehendak keselamatan ilahi dinyatakan kepada “bangsa-bangsa”, artinya kepada manusia-manusia, yang tinggal di “negerinya masing-masing dan mempunyai bahasa serta suku-sukunya sendiri” (Kej 10:5).
 
-57 Tata aturan bangsa-bangsa yang banyak, yang dipercayakan oleh penyelenggaraan ilahi kepada pengawalan para malaikat, adalah sekaligus kosmis, sosial, dan religius. Aturan ini dimaksudkan untuk membendung kesombongan umat manusia yang sudah jatuh, yang bersatu dalam cita-citanya yang jahat, untuk membentuk dirinya menjadi kesatuan seturut model Babel. Tetapi karena dosa, maka aturan sementara ini selalu terancam dan dapat jatuh ke dalam penyimpangan kafir yakni politeisme dan pendewaan bangsa serta pemimpinnya.
+**57** Tata aturan bangsa-bangsa yang banyak, yang dipercayakan oleh penyelenggaraan ilahi kepada pengawalan para malaikat, adalah sekaligus kosmis, sosial, dan religius. Aturan ini dimaksudkan untuk membendung kesombongan umat manusia yang sudah jatuh, yang bersatu dalam cita-citanya yang jahat, untuk membentuk dirinya menjadi kesatuan seturut model Babel. Tetapi karena dosa, maka aturan sementara ini selalu terancam dan dapat jatuh ke dalam penyimpangan kafir yakni politeisme dan pendewaan bangsa serta pemimpinnya.
 
-58 Perjanjian dengan Nuh berlaku selama waktu bangsa-bangsa sampai kepada pewartaan Injil di seluruh dunia. Kitab Suci menghormati beberapa tokoh besar dari “bangsa-bangsa”: “Abel yang adil”, raja dan imam Melkisedek sebagai lambang Kristus, “Nuh, Daniel, dan Ayub” yang adil (Yeh 14:14). Dengan demikian Kitab Suci menegaskan kesucian agung yang dapat dicapai oleh mereka yang hidup tekun sesuai dengan perjanjian Nuh sambil menantikan Kristus yang akan datang “untuk mengumpulkan dan mempersatukan anak-anak Allah yang tercerai-berai” (Yoh 11:52).\
+**58** Perjanjian dengan Nuh berlaku selama waktu bangsa-bangsa sampai kepada pewartaan Injil di seluruh dunia. Kitab Suci menghormati beberapa tokoh besar dari “bangsa-bangsa”: “Abel yang adil”, raja dan imam Melkisedek sebagai lambang Kristus, “Nuh, Daniel, dan Ayub” yang adil (Yeh 14:14). Dengan demikian Kitab Suci menegaskan kesucian agung yang dapat dicapai oleh mereka yang hidup tekun sesuai dengan perjanjian Nuh sambil menantikan Kristus yang akan datang “untuk mengumpulkan dan mempersatukan anak-anak Allah yang tercerai-berai” (Yoh 11:52).\
 Allah Memilih Abraham
 
-59 Supaya mengumpulkan kembali umat manusia yang tercerai-berai, Allah memilih Abram dan memanggilnya keluar dari negerinya, dari kaum keluarganya dan dari rumah bapanya, untuk menjadikannya Abraham yang berarti “bapa sejumlah besar bangsa” (Kej 17:5): “Karena engkau Aku akan memberkati semua bangsa di bumi” (Kej 12:3 LXX).
+**59** Supaya mengumpulkan kembali umat manusia yang tercerai-berai, Allah memilih Abram dan memanggilnya keluar dari negerinya, dari kaum keluarganya dan dari rumah bapanya, untuk menjadikannya Abraham yang berarti “bapa sejumlah besar bangsa” (Kej 17:5): “Karena engkau Aku akan memberkati semua bangsa di bumi” (Kej 12:3 LXX).
 
 60 Bangsa yang berasal dari Abraham menjadi pembawa janji yang Allah ikrarkan kepada para bapa bangsa, menjadi bangsa terpilih yang dipanggil dengan maksud mempersiapkan pengumpulan semua anak Allah dalam kesatuan Gereja. Bangsa ini menjadi akar pohon, yang padanya akan dicangkokkan orang-orang kafir, kalau mereka sudah percaya.
 
