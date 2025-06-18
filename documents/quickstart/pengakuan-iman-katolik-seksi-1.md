@@ -1,5 +1,7 @@
 # Pengakuan Iman Katolik - Seksi 1
 
+{% tabs %}
+{% tab title="Teks dalam Bahasa Indonesia" %}
 “AKU PERCAYA” – “KAMI PERCAYA”
 26 Apabila kita mengakui iman kita, kita mulai dengan kata-kata: “Aku percaya” atau “kami percaya”. Sebelum kita menguraikan kepercayaan Gereja seperti yang diakui dalam syahadat, dirayakan dalam liturgi, dihayati dalam pelaksanaan perintah-perintah dan dalam doa, kita menanyakan kepada diri sendiri, apa artinya “percaya”. Kepercayaan adalah jawaban manusia kepada Allah yang mewahyukan dan memberikan Diri kepada manusia dan dengan demikian memberikan kepenuhan sinar kepada dia yang sedang mencari arti terakhir kehidupannya. Secara berturut-turut kita merenungkan pertama sekali mengenai manusia yang sedang mencari (Bab I), lalu mengenai wahyu ilahi, yang dengannya Allah menyongsong manusia (Bab II), dan akhirnya mengenai jawaban kepercayaan (Bab III).
 
@@ -20,6 +22,15 @@ I. Kerinduan akan Allah
 30 “Semua yang mencari Tuhan, hendaklah bergembira” (Mzm 105:3). Biarpun manusia melupakan atau menolak Tuhan, namun Tuhan tidak berhenti memanggil kembali setiap manusia, supaya ia mencari-Nya serta hidup dan menemukan kebahagiaannya. Tetapi pencarian itu menuntut dari manusia seluruh usaha berpikir dan penyesuaian kehendak yang tepat, “hati yang tulus”, dan juga kesaksian orang lain yang mengajar kepadanya untuk mencari Tuhan. 
 “Ya Allah, agunglah Engkau dan patut dipuji: kekuatan-Mu besar dan kebijaksanaan-Mu tanpa batas. Manusia yang sendiri satu bagian dari ciptaan-Mu, ingin meluhurkan Dikau. Betapapun ia berdosa dan dapat mati, namun ia ingin memuji Dikau karena ia adalah satu bagian dari ciptaan-Mu. Untuk itu, Engkau menanamkan hasrat di dalam kami karena Engkau telah menciptakan kami menurut citra-Mu sendiri. Hati kami tetap tidak tenang sampai ia menemukan ketenteraman di dalam Engkau” (Agustinus, conf 1,1,1).
 
+{% endtab %}
+
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Teks dalam Bahasa Indonesia" %}
 II. Jalan-jalan untuk Mengenal Allah
 
 31 Karena manusia diciptakan menurut citra Allah dan dipanggil untuk mengenal dan mencintai Allah, ia menemukan “jalan jalan” tertentu dalam pencarian Allah agar mencapai pengenalan akan Allah. Orang menamakan jalan jalan ini juga “pembuktian Allah”, bukan dalam arti ihnu pengetahuan alam, melainkan dalam arti argumen-argumen yang cocok dan meyakinkan, yang dapat menghantar kepada kepastian yang sungguh. “Jalan-jalan” menuju Allah ini mempergunakan ciptaan – dunia material dan pribadi manusia – sebagai titik tolak.
@@ -33,6 +44,13 @@ Dan santo Agustinus berkata: “Tanyakanlah keindahan bumi, tanyakanlah keindaha
 34 Dunia dan manusia memberi kesaksian bahwa mereka tidak memiliki sebab mereka yang pertama serta tujuan mereka yang terakhir dalam dirinya sendiri, tetapi . bahwa mereka hanya mengambil bagian dalam ADA yang tanpa titik awal dan titik akhir. Jadi melalui “jalan-jalan” yang berbeda itu manusia dapat sampai kepada pengertian bahwa ads satu realitas, yang adalah sebab pertama dan tujuan akhir dari segala-galanya, dan realitas ini “dinamakan Allah oleh semua orang” (Tomas Aqu., s.th. 1,2,3).
 
 35 Kemampuan manusia menyanggupkannya untuk mengenal adanya Allah yang berkepribadian. Tetapi supaya manusia dapat masuk ke dalam hubungan yang akrab dengan Allah, maka Allah hendak menyatakan diri kepada manusia dan hendak memberikan rahmat kepadanya supaya dengan kepercayaan dapat menerima wahyu ini. Namun bukti-bukti mengenai adanya Allah dapat menghantar menuju kepercayaan dan dapat membantu supaya mendapat pengertian bahwa kepercayaan tidak bertentangan dengan akal budi manusia.
+
+{% endtab %}
+
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
+
+{% endtab %}
+{% endtabs %}
 
 III. Pengetahuan tentang Allah menurut Ajaran Gereja
 
