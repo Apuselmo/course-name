@@ -116,7 +116,7 @@ TEKS-TEKS SINGKAT
 
 135 “Kitab Suci mengemban Sabda Allah, dan karena diilhami, memang sungguh-sungguh Sabda Allah” (D V 24).
 
-136 Allah adalah penyebab Kitab Suci Ia mengilhami pengarang-pengarang manusia: Ia bekerja dalam mereka dan melalui mereka. Dengan demikian la menjamin, bahwa buku-buku mereka mengajarkan kebenaran keselamatan tanpa kekeliruan.
+136 Allah adalah penyebab Kitab Suci Ia mengilhami pengarang-pengarang manusia: Ia bekerja dalam mereka dan melalui mereka. Dengan demikian ia menjamin, bahwa buku-buku mereka mengajarkan kebenaran keselamatan tanpa kekeliruan.
 
 137 Penafsiran buku-buku yang diilhami terutama harus memperhatikan, apa yang hendak dikatakan Tuhan melalui penulis-penulis kudus demi keselamatan kita. “Apa yang berasal dari Roh, hanya dapat dimengerti sepenuhnya oleh karya Roh” (Origenes, hom.in Ex. 4,5).
 
