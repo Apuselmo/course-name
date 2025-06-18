@@ -1,129 +1,90 @@
-# Pengakuan Iman Katolik - Seksi 1 Bab 2
+# Pengakuan Iman Katolik - Seksi 1 Bab 2 - Artikel 2
 
-BAB II :
-ALLAH
+BAB II :\
+ALLAH\
 MENYONGSONG MANUSIA
 
-ARTIKEL 3: KITAB SUCI
+ARTIKEL 2: PENTRADISIAN WAHYU ILAHI
 
-I. Kristus – Satu-satunya Sabda Kitab Suci
+74 Allah “menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan kebenaran” (1 Tim 2:4), artinya supaya semua orang mengenal Yesus Kristus. Karena itu Kristus harus diwartakan kepada semua bangsa dan manusia dan wahyu mesti sampai ke Batas-Batas dunia.\
+“Dalam kebaikan-Nya Allah telah menetapkan, bahwa apa yang diwahyukan-Nya demi keselamatan semua bangsa, harus tetap utuh untuk selamanya dan diteruskan kepada segala keturunan” (DV 7).
 
-101 Untuk mewahyukan Diri kepada manusia, Allah berbicara dalam kebaikan-Nya kepada manusia dengan bahasa manusiawi: “Sabda Allah yang diungkapkan dengan bahasa manusia, telah menyerupai pembicaraan manusiawi, seperti dahulu Sabda Bapa yang kekal, dengan mengenakan daging kelemahan manusiawi, telah menjadi serupa dengan manusia” (DV 13).
+I. Tradisi Apostolik
 
-102 Melalui kata-kata Kitab Suci, Allah hanya mengatakan satu kata: Sabda-Nya yang tunggal, dan di dalam Dia Ia mengungkapkan Diri seutuhnya:
-“Sabda Allah yang satu dan sama berada dalam semua Kitab; Sabda Allah yang satu dan sama bergaung dalam mulut semua penulis Kitab yang suci. Dan karena sejak awal Ia adalah Allah pada Allah, Ia tidak membutuhkan suku-suku kata, karena Ia tidak bergantung pada waktu” (Agustinus, Psal. 103,4,1).
+75 “Maka Kristus Tuhan, yang menjadi kepenuhan seluruh wahyu Allah yang Mahatinggi (lih. 2Kor 1:30; 3:16-4:6), memerintahkan kepada para Rasul, supaya Injil, yang dahulu telah dijanjikan melalui para nabi dan dipenuhi oleh-Nya serta dimaklumkan-Nya sendiri, mereka wartakan kepada semua orang, sebagai sumber segala kebenaran yang menyelamatkan serta sumber ajaran kesusilaan, dan dengan demikian dibagi-bagikan karunia-karunia ilahi kepada mereka” (DV 7).\
+Khotbah Apostolik…
 
-103 Dari sebab itu Gereja selalu menghormati Kitab-Kitab Suci sama seperti Tubuh Kristus sendiri. Gereja tak putus-putusnya menyajikan kepada umat beriman roti kehidupan yang Gereja terima baik dari meja Sabda Allah, maupun dari meja Tubuh Kristus.
+76 Sesuai dengan kehendak Allah terjadilah pengalihan Injil atas dua cara:\
+— secara lisan “oleh para Rasul, yang dalam pewartaan lisan, dengan teladan serta penetapan-penetapan meneruskan entah apa yang mereka terima dari mulut, pergaulan, dan karya Kristus sendiri, entah apa yang atas dorongan Roh Kudus telah mereka pelajari”;\
+— secara tertulis “oleh para Rasul dan tokoh-tokoh rasuli, yang atas ilham Roh Kudus itu juga telah membukukan amanat keselamatan” (DV 7).\
+… Dilanjutkan dalam Suksesi Apostolik
 
-104 Di dalam Kitab Suci, Gereja selalu mendapatkan makanannya dan kekuatannya karena di dalamnya ia tidak hanya menerima kata-kata manusiawi, tetapi apa yang sebenarnya Kitab Suci itu: Sabda Allah. “Karena di dalam kitab-kitab suci Bapa yang ada di surga penuh cinta kasih menjumpai para putera-Nya, dan berwawancara dengan mereka” (DV 21).
+77 “Adapun, supaya Injil senantiasa terpelihara secara utuh dan hidup di dalam Gereja, para Rasul meninggalkan Uskup-Uskup sebagai pengganti-pengganti mereka, yang \`mereka serahi kedudukan mereka untuk mengajar” (DV 7). Maka, “pewartaan para Rasul, yang secara istimewa diungkapkan dalam kitab-kitab yang diilhami, harus dilestarikan sampai kepenuhan zaman melalui penggantian-penggantian yang tiada putusnya” (DV 8).
 
-II. Inspirasi dan Kebenaran Kitab Suci
+78 Penerusan yang hidup ini yang berlangsung dengan bantuan Roh Kudus, dinamakan “tradisi”, yang walaupun berbeda dengan Kitab Suci, namun sangat erat berhubungan dengannya. “Demikianlah Gereja dalam ajaran, hidup serta ibadatnya melestarikan serta meneruskan kepada semua keturunan dirinya seluruhnya, imannya seutuhnya” (DV 8). “Ungkapan-ungkapan para Bapa Suci memberi kesaksian akan kehadiran tradisi itu yang menghidupkan, dan yang kekayaannya meresapi praktik serta kehidupan Gereja yang beriman dan berdoa” (DV 8).
 
-105 Allah adalah penyebab [auctor] Kitab Suci. “Yang diwahyukan oleh Allah dan yang termuat serta tersedia dalam Kitab Suci telah ditulis dengan ilham Roh Kudus”.
-“Bunda Gereja yang kudus, berdasarkan iman para Rasul, memandang kitab-kitab Perjanjian Lama maupun Perjanjian Baru secara keseluruhan, beserta semua bagian-bagiannya, sebagai buku-buku yang suci dan kanonik, karena ditulis dengan ilham Roh Kudus (lih. Yoh 20:31; 2Tim 3:16; 2Ptr 1:19-21; 3:15-16), dan dengan Allah sebagai pengarangnya, serta dalam keadaannya demikian itu diserahkan kepada Gereja” (DV 11).
+79 Dengan demikian penyampaian Diri Bapa melalui Sabda-Nya dalam Roh Kudus tetap hadir di dalam Gereja dan berkarya di dalamnya: “Demikianlah Allah, yang dahulu telah bersabda, tiada henti-hentinya berwawancara dengan Mempelai Putera-Nya yang terkasih. Dan Roh Kudus, yang menyebabkan suara Injil yang hidup bergema dalam Gereja, dan melalui Gereja dalam dunia, menghantarkan Umat beriman menuju segala kebenaran, dan menyebabkan Sabda Kristus menetap dalam diri mereka secara melimpah (lih. Kol 3:16)” (DV 8).
 
-106 Allah memberi inspirasi kepada manusia penulis [auclor] Kitab Suci. “Tetapi dalam mengarang kitab-kitab suci itu Allah memilih orang-orang, yang digunakan-Nya sementara mereka memakai kecakapan dan kemampuan mereka sendiri, supaya – sementara Dia berkarya dalam dan melalui mereka – semua itu dan hanya itu yang dikehendaki-Nya sendiri dituliskan oleh mereka sebagai pengarang yang sungguh-sungguh” (DV 11).
+II. Hubungan antara Tradisi dan Kitab Suci
 
-107 Kitab-kitab yang diinspirasi mengajarkan kebenaran. “Oleh sebab itu, karena segala sesuatu, yang dinyatakan oleh para pengarang yang diilhami atau hagiograf (penulis suci), harus dipandang sebagai pernyataan Roh Kudus, maka harus diakui, bahwa buku-buku Kitab Suci mengajarkan dengan teguh dan setia serta tanpa kekeliruan kebenaran, yang oleh Allah dikehendaki supaya dicantumkan dalam kitab-kitab suci demi keselamatan kita” (DV 11).
+Satu Sumber yang Sama …
 
-108 Tetapi iman Kristen bukanlah satu “agama buku”. Agama Kristen adalah agama “Sabda” Allah, “bukan
-sabda yang ditulis dan bisu, melainkan Sabda yang menjadi manusia dan hidup” (Bernard, hom. miss. 4,11). Kristus, Sabda abadi dari Allah yang hidup, harus membuka pikiran kita dengan penerangan Roh Kudus, “untuk mengerti maksud Alkitab” (Luk 24:45), supaya ia tidak tinggal huruf mati. 
+80 “Tradisi Suci dan Kitab Suci berhubungan erat sekali dan terpadu. Sebab keduanya mengalir dari sumber ilahi yang sama, dan dengan cara tertentu bergabung menjadi satu dan menjurus ke arah tujuan yang sama” (DV 9). Kedua-duanya menghadirkan dan mendayagunakan misteri Kristus di dalam Gereja, yang menjanjikan akan tinggal bersama orang-orang-Nya “sampai akhir zaman” (Mat 28:20) .\
+… Dua Cara yang Berbeda dalam Mengalihkannya
 
-III. Roh Kudus Adalah Penafsir Kitab Suci
+81 “Kitab Suci adalah pembicaraan Allah sejauh itu termaktub dengan ilham Roh ilahi”.\
+“Oleh Tradisi Suci Sabda Allah, yang oleh Kristus Tuhan dan Roh Kudus dipercayakan kepada para Rasul, disalurkan seutuhnya kepada para pengganti mereka, supaya mereka ini dalam terang Roh kebenaran dengan pewartaan mereka memelihara, menjelaskan, dan menyebarkannya dengan setia” (DV 9).
 
-109 Di dalam Kitab Suci Allah berbicara kepada manusia dengan cara manusia. Penafsir Kitab Suci harus menyelidiki dengan teliti, agar melihat, apa yang sebenarnya hendak dinyatakan para penulis suci, dan apa yang ingin diwahyukan Allah melalui kata-kata mereka.
+82 “Dengan demikian maka Gereja”, yang dipercayakan untuk meneruskan dan menjelaskan wahyu, “menimba kepastiannya tentang segala sesuatu yang diwahyukan bukan hanya melalui Kitab Suci. Maka dari itu keduanya \[baik tradisi maupun Kitab Suci] harus diterima dan dihormati dengan cita rasa kesalehan dan hormat yang sama” (DV 9).
 
-110 Untuk melacak maksud para penulis suci, hendaknya diperhatikan situasi zaman dan kebudayaan mereka, jenis sastra yang biasa pada waktu itu, serta cara berpikir, berbicara, dan berceritera yang umumnya digunakan pada zaman teks tertentu ditulis. “Sebab dengan cara yang berbeda-beda kebenaran dikemukakan dan diungkapkan dalam nas-nas yang dengan aneka cara bersifat historis, atau profetis, atau poetis, atau dengan jenis sastra lainnya” (DV 12,2).
+Tradisi Apostolik dan Gerejani
 
-111 Oleh karena Kitab Suci diilhami, maka masih ada satu prinsip lain yang tidak kurang pentingnya guna penafsiran yang tepat karena tanpa itu Kitab Suci akan tinggal huruf mati saja: “Akan tetapi Kitab Suci ditulis dalam Roh Kudus dan harus dibaca dan ditafsirkan dalam Roh itu juga” (DV 12,3).
-Untuk penafsiran Kitab Suci sesuai dengan Roh, yang telah mengilhaminya, Konsili Vatikan II memberikan tiga kriteria:
+83 Tradisi yang kita bicarakan di sini, berasal dari para Rasul, yang meneruskan apa yang mereka ambil dari ajaran dan contoh Yesus dan yang mereka dengar dari Roh Kudus. Generasi Kristen yang pertama ini belum mempunyai Perjanjian Baru yang tertulis, dan Perjanjian Baru itu sendiri memberi kesaksian tentang proses tradisi yang hidup itu.\
+Tradisi-tradisi teologis, disipliner, liturgis atau religius, yang dalam gelindingan waktu terjadi di Gereja-gereja setempat, bersifat lain. Mereka merupakan ungkapan-ungkapan Tradisi besar yang disesuaikan dengan tempat dan zaman yang berbeda-beda. Dalam terang Tradisi utama dan di bawah bimbingan Wewenang Mengajar Gereja, tradisi-tradisi konkret itu dapat dipertahankan, diubah, atau juga dihapus.
 
-112 1. Memperhatikan dengan saksama “isi dan kesatuan seluruh Kitab Suci”. Sebab bagaimanapun bedanya kitab-kitab itu, yang membentuk Kitab Suci, namun Kitab Suci adalah satu kesatuan atas dasar kesatuan rencana Allah yang pusat dan hatinya adalah Yesus Kristus. Sejak Paska hati itu sudah dibuka:
-“Ungkapan `hati Kristus harus diartikan menurut Kitab Suci yang memperkenalkan hati Kristus. Hati ini tertutup sebelum kesengsaraan, karena Kitab Suci masih gelap. Tetapi sesudah sengsara-Nya Kitab Suci terbuka, agar mereka yang sekarang memahaminya, dapat mempertimbangkan dan membeda-bedakan, bagaimana nubuat-nubuat harus ditafsirkan” (Tomas Aqu., Psal. 21,11).
+III. Penafsiran Warisan Iman
 
-113 2. Membaca Kitab Suci “dalam terang tradisi hidup seluruh Gereja”. Menurut satu semboyan para bapa “Kitab Suci lebih dahulu ditulis di dalam hati Gereja daripada di atas pergamen [kertas dari kulit]”. Gereja menyimpan dalam tradisinya kenangan yang hidup akan Sabda Allah, dan Roh Kudus memberi kepadanya penafsiran rohani mengenai Kitab Suci … “menurut arti rohani yang dikaruniakan Roh kepada Gereja” (Origenes, hom. in Lev. 5,5).
+Warisan Iman Dipercayakan kepada Seluruh Gereja
 
-114 3. Memperhatikan “analogi iman”. Dengan “analogi iman” dimaksudkan hubungan kebenaran-kebenaran iman satu sama lain dan dalam rencana keseluruhan wahyu.
-Arti Ganda Kitab Suci
+84 “Pusaka Suci” iman \[depositum fidei] yang tercantum di dalam Tradisi Suci dan di dalam Kitab Suci dipercayakan oleh para Rasul kepada seluruh Gereja. “Dengan berpegang teguh padanya seluruh Umat Suci bersatu dengan para Gembala mereka dan tetap bertekun dalam ajaran para Rasul dan persekutuan, dalam pemecahan roti dan doa-doa (lih. Kis 2:42 Yn). Dengan demikian dalam mempertahankan, melaksanakan, dan mengakui iman yang diturunkan itu timbullah kerukunan yang khas antara para Uskup dan kaum beriman” (DV 10).
 
-115 Sesuai dengan tradisi tua, arti Kitab Suci itu bersifat ganda: arti harfiah dan arti rohani. Yang terakhir ini dapat saja bersifat alegoris, moralis, atau anagogis. Kesamaan yang mendalam dari keempat arti ini menjamin kekayaan besar bagi pembacaan Kitab Suci yang hidup di dalam Gereja.
+Wewenang Mengajar \[Magisterium] Gereja
 
-116 Arti harfiah adalah arti yang dicantumkan oleh kata-kata Kitab Suci dan ditemukan oleh eksegese, yang berpegang pada peraturan penafsiran teks secara tepat. “Tiap arti [Kitab Suci] berakar di dalam arti harfiah” (Tomas Aqu., s.th. 1,1,10 ad 1).
+85 “Adapun tugas menafsirkan secara otentik Sabda Allah yang tertulis atau diturunkan itu, dipercayakan hanya kepada Wewenang Mengajar Gereja yang hidup, yang kewibawaannya dilaksanakan alas nama Yesus Kristus” (DV 10).
 
-117 Arti rohani. Berkat kesatuan rencana Allah, maka bukan hanya teks Kitab Suci, melainkan juga kenyataan dan kejadian yang dibicarakan teks itu dapat merupakan tanda.
- 1. Arti alegoris.
-Kita dapat memperoleh satu pengertian yang lebih dalam mengenai kejadian-kejadian, apabila kita mengetahui arti yang diperoleh peristiwa itu dalam Kristus. Umpamanya penyeberangan Laut Merah adalah tanda kemenangan Kristus dan dengan demikian tanda Pembaptisan.
- 2. Arti moral.
-Kejadian-kejadian yang dibicarakan dalam Kitab Suci harus mengajak kita untuk melakukan yang baik. Hal-hal itu ditulis sebagai “contoh bagi kita … sebagai peringatan” (1 Kor 10:11).
- 3. Arti anagogis.
-Kita dapat melihat kenyataan dan kejadian dalam artinya yang abadi, yang menghantar kita ke atas, ke tanah air abadi (Yunani: “anagoge”). Misalnya, Gereja di bumi ini adalah lambang Yerusalem surgawi.
+86 “Wewenang Mengajar itu tidak berada di alas Sabda Allah, melainkan melayaninya, yakni dengan hanya mengajarkan apa yang diturunkan saja, sejauh Sabda itu, karena perintah ilahi dan dengan bantuan Roh Kudus, didengarkannya dengan khidmat, dipelihara dengan suci, dan diterangkannya dengan setia; dan itu semua diambilnya dari satu perbendaharaan iman itu, yang diajukannya untuk diimani sebagai hal-hal yang diwahyukan oleh Allah” (DV 10).
 
-118 Sam distikhon dari Abad Pertengahan menyimpulkan keempat arti itu sebagai berikut:
-“Littera gesta docet, quid credas allegoria Moralis quid agas, quo tendas anagogia”
-(Huruf mengajarkan kejadian; apa yang harus kau percaya, alegori; moral, apa yang harus kau lakukan; ke mana kau harus berjalan, anagogi).
+87 Kaum beriman mengenangkan perkataan Kristus kepada para Rasul: “Barang siapa mendengarkan kamu, ia mendengarkan Aku” (Luk 10:16) dan menerima dengan rela ajaran dan petunjuk yang diberikan para gembala kepada mereka dalam berbagai macam bentuk.\
+Dogma-dogma mengenai Iman\
+88 Wewenang Mengajar Gereja menggunakan secara penuh otoritas yang diterimanya dari Kristus, apabila ia mendefinisikan dogma-dogma, artinya apabila dalam satu bentuk yang mewajibkan umat Kristen dalam iman dan yang tidak dapat ditarik kembali, ia mengajukan kebenaran-kebenaran yang tercantum di dalam wahyu ilahi atau secara mutlak berhubungan dengan kebenaran-kebenaran demikian.
 
-119 “Merupakan kewajiban para ahli Kitab Suci: berusaha menurut norma-norma itu untuk semakin mendalam memahami dan menerangkan arti Kitab Suci, supaya seolah-olah berkat penyelidikan yang disiapkan, keputusan Gereja menjadi lebih masak. Sebab akhirnya semua yang menyangkut cara menafsirkan Kitab Suci itu berada di bawah keputusan Gereja, yang menunaikan tugas serta pelayanan memelihara dan menafsirkan Sabda Allah” (DV 12,3).
-“Saya tidak akan percaya kepada Injil sekalipun, seandainya bukan otoritas Gereja Katolik mendorong saya ke arah itu” (Agustinus, fund. 5,6).
+89 Kehidupan rohani kita dan dogma-dogma itu mempunyai hubungan organis. Dogma-dogma adalah cahaya di jalan kepercayaan kita, mereka menerangi dan mengamankannya. Sebaliknya melalui cara hidup yang tepat, pikiran dan hati kita dibuka, untuk menerima cahaya dogma iman itu.\
+90 Hubungan timbal balik dan kaitan batiniah antara dogma-dogma terdapat dalam wahyu misteri Kristus secara menyeluruh. Terdapat “satu tata urutan atau \`hierarki kebenaran-kebenaran ajaran Katolik, karena berbeda-bedalah hubungannya dengan dasar iman Kristen” (UR 11).
 
-IV. Kanon Kitab Suci
+Cita Rasa Iman Adikodrati
 
-120 Dalam tradisi apostolik Gereja menentukan, kitab-kitab mana yang harus dicantumkan dalam daftar kitab-kitab suci. Daftar yang lengkap ini dinamakan “Kanon” Kitab Suci. Sesuai dengan itu Perjanjian Lama terdiri dari 46 (45, kalau Yeremia dan Lagu-lagu Ratapan digabungkan) dan Perjanjian Baru terdiri atas 27 kitab.
-Perjanjian Lama: Kejadian, Keluaran, Imamat, Bilangan, Ulangan, Yosua, Hakim-Hakim, Rut, dua buku Samuel, dua buku Raja-Raja, dua buku Tawarikh, Esra dan Nehemia, Tobit, Yudit, Ester, dua buku Makabe, Ayub, Mazmur, Amsal, Pengkhotbah, Kidung Agung, Kebijaksanaan, Yesus Sirakh, Yesaya, Yeremia, Ratapan, Barukh, Yeheskiel, Daniel, Hosea, Yoel, Amos, Obaja, Yunus, Mikha, Nahum, Habakuk, Zefanya, Hagai, Zakharia, Maleakhi.
-Perjanjian Baru: Injil menurut Matius, Markus, Lukas dan Yohanes, Kisah para Rasul, suratsurat Paulus: kepada umat di Roma, surat pertama dan kedua kepada umat Korintus, kepada umat di Galatia, kepada umat di Efesus, kepada umat di Filipi, kepada umat di Kolose, surat pertama dan kedua kepada umat di Tesalonika, surat pertama dan kedua kepada Timotius, surat kepada Titus, surat kepada Filemon, surat kepada orang lbrani, surat Yakobus, surat pertama dan kedua Petrus, surat pertama, kedua, dan ketiga Yohanes, surat Yudas, dan Wahyu kepada Yohanes.
-Perjanjian Lama
+91 Semua orang beriman turut mengambil bagian dalam mengerti dan meneruskan kebenaran yang diwahyukan. Mereka telah menerima urapan Roh Kudus, yang mengajar mereka dan yang membimbing mereka untuk mengenal seluruh kebenaran.
 
-121 Perjanjian Lama adalah bagian yang tidak dapat dipisahkan dari Kitab Suci. Buku-bukunya diilhami secara ilahi dan tetap memiliki nilainya karena Perjanjian Lama tidak pernah dibatalkan.
+92 “Keseluruhan kaum beriman, yang telah diurapi oleh Yang Kudus (lih. l Yoh 5 2:20 dan 27), tidak dapat sesat dalam beriman; dan sifat mereka yang istimewa itu mereka tampilkan melalui perasaan iman adikodrati segenap umat, bila \`dari para Uskup hingga para awani beriman yang terkecil mereka secara keseluruhan menyatakan kesepakatan mereka tentang perkara-perkara iman dan kesusilaan” (LG 12).
 
-122 “Tata keselamatan Perjanjian Lama terutama dimaksudkan untuk menyiapkan kedatangan Kristus Penebus seluruh dunia.” Meskipun kitab-kitab Perjanjian Lama Juga mencantum hal-hal yang tidak sempurna dan bersifat sementara, kitab-kitab itu memaparkan cara pendidikan ilahi yang sejati . … Kitab-kitab itu mencantum ajaran-ajaran yang luhur tentang Allah serta kebijaksanaan yang menyelamatkan tentang peri hidup manusia, pun juga perbendaharaan doa-doa yang menakjubkan, akhirnya secara terselubung [mereka] mengemban rahasia keselamatan kita” (DV 15).
+93 “Dengan perasaan iman yang dibangkitkan dan dipelihara oleh Roh Kebenaran, umat tanpa menyimpang berpegang teguh pada iman, yang sekali telah diserahkan kepada para kudus (Yud 3); dengan pengertian yang tepat umat semakin mendalam menyelaminya, dan semakin penuh menerapkannya dalam hidup mereka” (LG 12).
 
-123 Umat Kristen menghormati Perjanjian Lama sebagai Sabda Allah yang benar. Gereja tetap menolak dengan tegas gagasan untuk menghilangkan Perjanjian Lama, karena Perjanjian Baru sudah menggantikannya [Markionisme].
+Tumbuh dalam Pengertian Iman-
 
-124 “Sabda Allah, yang merupakan kekuatan Allah demi keselamatan semua orang yang beriman (lih. Rm 1:16), dalam kitab-kitab Perjanjian Baru disajikan secara istimewa dan memperlihatkan daya kekuatannya” (DV 17). Tulisan-tulisan tersebut memberi kepada kita kebenaran definitif wahyu ilahi. Tema sentralnya ialah Yesus Kristus, Putera Allah yang menjadi manusia, karya-Nya, ajaran-Nya, kesengsaraan-Nya, dan pemuliaan-Nya begitu pula awal mula Gereja di bawah bimbingan Roh Kudus.
+94 Berkat bantuan Roh Kudus maka pengertian mengenai kenyataan, demikian juga formulasi dari pusaka iman dapat bertumbuh dalam kehidupan Gereja:\
+– “Karena kaum beriman, yang menyimpannya dalam hati (lih. Luk 2:19 dan 51), merenungkan serta mempelajarinya” (DV 8); terutama “hendaknya penelitian teologis berusaha mencapai pengertian yang mendalam tentang kebenaran-kebenaran yang diwahyukan” (GS 62,7).\
+– “atas dasar pemahaman yang lebih mendalam sekitar inti hal-hal rohani yang dialami” (DV 8); “kata-kata ilahi tumbuh bersama orang yang membacanya” (Gregorius Agung, hom. Ez. 1,7,8); – “atas dasar pewartaan mereka, yang berdasarkan pergantian dalam jabatan Uskup, menerima karisma kebenaran yang pasti” (DV 8).
 
-Perjanjian Baru
-
-125 Injil-injil merupakan jantung hati semua tulisan sebagai “kesaksian utama tentang hidup dan ajaran Sabda Yang Menjadi Daging, Penyelamat kita” (DV 18).
-126 Dalam penyusunan Injil-injil dapat kita bedakan tiga tahap:
- 1. Kehidupan dan kegiatan mengajar Yesus.
-Bunda Gereja kudus tetap mempertahankan dengan teguh dan sangat kokoh, bahwa keempat Injil “yang sifat historisnya diakui tanpa ragu-ragu, dengan setia meneruskan apa yang oleh Yesus Putera Allah selama hidup-Nya di antara manusia sungguh telah dikerjakan dan diajarkan demi keselamatan kekal mereka, sampai hari Ia diangkat (lih. Kis 1:1-2)” (DV 19).
- 2. Tradisi lisan.
-“Sesudah kenaikan Tuhan para Rasul meneruskan kepada para pendengar mereka apa yang dikatakan dan dijalankan oleh Yesus sendiri, dengan pengertian yang lebih penuh, yang mereka peroleh karena dididik oleh peristiwa-peristiwa mulia Kristus dan oleh terang Roh kebenaran” (DV 19).
- 3. Penulisan Injil-Injil.
-“Adapun penulis suci mengarang keempat Injil dengan memilih berbagai dari sekian banyak hal yang telah diturunkan secara lisan atau tertulis; beberapa hal mereka susun secara agak sintetis, atau mereka uraikan dengan memperhatikan keadaan Gereja-Gereja; akhirnya dengan tetap mempertahankan bentuk pewartaan, namun sedemikian rupa, sehingga mereka selalu menyampaikan kepada kita kebenaran yang murni tentang Yesus” (DV 19).
-
-127 Injil berganda empat itu menduduki tempat istimewa di dalam Gereja. Ini dibuktikan oleh penghormatan terhadapnya di dalam liturgi dan daya tarik yang tidak ada bandingnya, yang mempengaruhi orang kudus dari setiap zaman.
-“Tidak ada satu ajaran yang lebih baik, lebih bernilai dan lebih indah daripada teks Injil. Lihatlah dan peganglah teguh, apa yang tuan dan guru kita Kristus ajarkan dalam kata-kata-Nya dan lakukan dalam karya-karya-Nya” (Sesaria Muda).
-“Terutama Injil sangat mengesankan bagi saya sewaktu saya melakukan doa batin; di dalamnya saya menemukan segala sesuatu yang dibutuhkan oleh jiwa saya yang lemah ini. Di dalamnya saya selalu menemukan pandangan baru, dan makna yang tersembunyi dan penuh rahasia” (Teresia dari Anak Yesus. ms autob. A 83v).
-Kesatuan Perjanjian Lama dan Perjanjian Baru
-
-128 Sudah sejak zaman para Rasul dan juga dalam seluruh tradisi, kesatuan rencana ilahi dalam kedua Perjanjian itu dijelaskan oleh Gereja melalui tipologi. Penafsiran macam ini menemukan dalam karya Tuhan dalam Perjanjian Lama “Prabentuk” (tipologi) dari apa yang dilaksanakan Tuhan dalam kepenuhan waktu dalam pribadi Sabda-Nya yang menjadi manusia. 
-
-129 Jadi umat Kristen membaca Perjanjian Lama dalam terang Kristus yang telah wafat dan bangkit. Pembacaan tipologis ini menyingkapkan kekayaan Perjanjian Lama yang tidak terbatas. Tetapi tidak boleh dilupakan, bahwa Perjanjian Lama memiliki nilai wahyu tersendiri yang Tuhan kita sendiri telah nyatakan tentangnya. Selain itu Perjanjian Baru juga perlu dibaca dalam cahaya Perjanjian Lama. Katekese perdana Kristen selalu menggunakan Perjanjian Lama. Sesuai dengan sebuah semboyan lama Perjanjian Baru terselubung dalam Perjanjian Lama, sedangkan Perjanjian Lama tersingkap dalam Perjanjian Baru: “Novum in Vetere latet et in Novo Vetus patet” (Agustinus, Hept. 2,73).
-
-130 Tipologi berarti adanya perkembangan rencana ilahi ke arah pemenuhannya, sampai akhirnya “Allah menjadi semua di dalam semua” (1 Kor 15:28). Umpamanya panggilan para bapa bangsa dan keluaran dari Mesir tidak kehilangan nilai sendiri dalam rencana Allah, karena mereka juga merupakan tahap-tahap sementara di dalam rencana itu.
-
-V Kitab Suci dalam Kehidupan Gereja
-
-131 “Adapun sedemikian besarlah daya dan kekuatan Sabda Allah, sehingga bagi Gereja merupakan tumpuan serta kekuatan, dan bagi putera-putera Gereja menjadi kekuatan iman, santapan jiwa, sumber jernih dan kekal hidup rohani” (DV 21). “Bagi kaum beriman kristiani jalan menuju Kitab Suci harus terbuka lebar-lebar” (DV 22).
-
-132 “Maka dari itu pelajaran Kitab Suci hendaklah bagaikan jiwa teologi suci. Namun dengan sabda Kitab Suci juga pelayanan sabda, yakni pewartaan pastoral, katekese, dan semua pelajaran kristiani – di antaranya homili liturgis harus sungguh diistimewakan – mendapat bahan yang sehat dan berkembang dengan suci” (DV 24).
-
-133 Gereja “menasihati seluruh umat Kristen dengan sangat, agar melalui pembacaan buku-buku ilahi sampai kepada `pengenalan Yesus Kristus secara menonjol (Flp 3:8). `Tidak mengenal Kitab Suci berarti tidak mengenal Kristus (Hieronimus, Is. prol.)” (DV 25).
+95 “Maka jelaslah Tradisi Suci, Kitab Suci, dan Wewenang Mengajar Gereja, menurut rencana Allah yang mahabijaksana, saling berhubungan dan berpadu sedemikian rupa, sehingga yang satu tidak ada tanpa kedua lainnya dan semuanya bersama-sama, masing-masing dengan caranya sendiri, di bawah gerakan satu Roh Kudus, membantu secara berdaya guna bagi keselamatan jiwa-jiwa” (DV 10,3).
 
 TEKS-TEKS SINGKAT
 
-134 “Seluruh Kitab Suci adalah satu buku saja dan buku yang satu ini adalah Kristus, karena seluruh Kitab ilahi ini berbicara tentang Kristus, dan seluruh Kitab ilahi terpenuhi dalam Kristus. ” (Hugo dari San Victor Noe 2,8).
+96 Apa yang dipercayakan Kristus kepada para Rasul, telah diteruskan oleh mereka, yang diilhami oleh Roh Kudus, dalam khotbahnya dan secara tertulis kepada semua generasi sampai kepada kedatangan kembali Kristus yang mulia.
 
-135 “Kitab Suci mengemban Sabda Allah, dan karena diilhami, memang sungguh-sungguh Sabda Allah” (D V 24).
+97 “Tradisi Suci dan Kitab Suci merupakan satu perbendaharaan keramat Sabda Allah yang dipercayakan kepada Gereja ” (DV 10). Di dalamnya Gereja yang berziarah memandang Tuhan, sumber segala kekayaannya, seperti dalam sebuah cermin.
 
-136 Allah adalah penyebab Kitab Suci Ia mengilhami pengarang-pengarang manusia: Ia bekerja dalam mereka dan melalui mereka. Dengan demikian ia menjamin, bahwa buku-buku mereka mengajarkan kebenaran keselamatan tanpa kekeliruan.
+98 “Demikianlah Gereja dalam ajaran, hidup serta ibadatnya melestarikan serta meneruskan kepada semua keturunan dirinya seluruhnya, imannya seutuhnya” (DV 8).
 
-137 Penafsiran buku-buku yang diilhami terutama harus memperhatikan, apa yang hendak dikatakan Tuhan melalui penulis-penulis kudus demi keselamatan kita. “Apa yang berasal dari Roh, hanya dapat dimengerti sepenuhnya oleh karya Roh” (Origenes, hom.in Ex. 4,5).
+99 Berkat cita rasa iman adikodrati, seluruh umat Allah menerima secara terus-menerus karunia Wahyu ilahi, mempelajarinya lebih dalam serta menghayatinya secara makin lengkap.
 
-138 Ke-46 buku Perjanjian Lama dan ke-27 buku Perjanjian Baru diakui dan dihormati oleh Gereja sebagai diilhami.
-
-139 Keempat Injil menduduki tempat sentral, karena Yesus Kristus adalah pusatnya.
-
-140 Kesatuan kedua Perjanjian mengalir dari kesatuan rencana dan wahyu Allah. Perjanjian Lama mempersiapkan yang Baru, sedangkan yang Baru menyempurnakan yang Lama. Kedua-duanya saling menjelaskan. Kedua duanya adalah Sabda Allah yang benar
-
-141 “Kitab-kitab ilahi seperti juga Tubuh Tuhan sendiri selalu dihormati oleh Gereja” (DV 21). Kedua-duanya memelihara dan mengarahkan seluruh kehidupan Kristen. “Firman-Mu adalah pelita bagi kakiku, terang untuk menerangi jalanku” (Mzm 119:105).
+100 Tugas untuk menjelaskan Sabda Allah secara mengikat, hanya di serahkan kepada Wewenang Mengajar Gereja, kepada Paus dan kepada para Uskup yang bersatu dengannya dalam satu paguyuban.
