@@ -1,21 +1,22 @@
 # Pengakuan Iman Katolik - Seksi 1 Bab 2
 
-BAB II :\
-ALLAH\
-MENYONGSONG MANUSIA
+**BAB II :**\
+**ALLAH**\
+**MENYONGSONG MANUSIA**
 
-50 Dengan bantuan budi kodratinya, manusia dapat mengenal Allah dengan pasti dari segala karya-Nya. Namun masih ada lagi satu tata pengetahuan, yang tidak dapat dicapai manusia dengan kekuatannya sendiri: yakni wahyu ilahi. Melalui keputusan yang sama sekali bebas, Allah mewahyukan dan memberikan Diri kepada manusia, dan menyingkapkan rahasia Nya yang paling dalam, keputusan-Nya yang berbelas kasih, yang Ia rencanakan sejak keabadian di dalam Kristus untuk semua manusia. Ia menyingkapkan rencana keselamatan-Nya secara penuh, ketika Ia mengutus Putera Nya yang terkasih, Tuhan kita Yesus Kristus dan Roh Kudus.\
-ARTIKEL 1: WAHYU Allah
+**50** Dengan bantuan budi kodratinya, manusia dapat mengenal Allah dengan pasti dari segala karya-Nya. Namun masih ada lagi satu tata pengetahuan, yang tidak dapat dicapai manusia dengan kekuatannya sendiri: yakni wahyu ilahi. Melalui keputusan yang sama sekali bebas, Allah mewahyukan dan memberikan Diri kepada manusia, dan menyingkapkan rahasia Nya yang paling dalam, keputusan-Nya yang berbelas kasih, yang Ia rencanakan sejak keabadian di dalam Kristus untuk semua manusia. Ia menyingkapkan rencana keselamatan-Nya secara penuh, ketika Ia mengutus Putera Nya yang terkasih, Tuhan kita Yesus Kristus dan Roh Kudus.\
 
-I. Allah Mewahyukan
+**ARTIKEL 1: WAHYU Allah**
 
-“Keputusan-Nya yang Berbelaskasihan”
+**I. Allah Mewahyukan**
 
-51 “Dalam kebaikan dan kebijaksanaan-Nya Allah berkenan mewahyukan diri-Nya dan memaklumkan rahasia kehendak-Nya; berkat rahasia itu manusia dapat menghadap Bapa melalui Kristus, Sabda yang menjadi daging, dalam Roh Kudus, dan ikut serta dalam kodrat ilahi” (DV 2).
+**“Keputusan-Nya yang Berbelaskasihan”**
 
-52 Allah “yang bersemayam dalam terang yang tak terhampiri” (1 Tim 6:16) hendak menyampaikan kepada manusia, yang Ia ciptakan dalam kebebasan, kehidupan ilahi-Nya sendiri, supaya melalui Putera-Nya yang tunggal Ia mengangkat mereka menjadi anak-anak-Nya. Dengan mewahyukan Diri, Allah hendak menyanggupkan manusia untuk memberi jawaban kepada-Nya, mengakui-Nya dan mencintai-Nya atas cara yang jauh melampaui kemampuan manusia itu sendiri.
+**51** “Dalam kebaikan dan kebijaksanaan-Nya Allah berkenan mewahyukan diri-Nya dan memaklumkan rahasia kehendak-Nya; berkat rahasia itu manusia dapat menghadap Bapa melalui Kristus, Sabda yang menjadi daging, dalam Roh Kudus, dan ikut serta dalam kodrat ilahi” (DV 2).
 
-53 Keputusan wahyu ilahi itu diwujudkan “dalam perbuatan dan perkataan yang bertalian batin satu sama lain” (DV2). Di dalamnya tercakup “kebijaksanaan mendidik” ilahi yang khas: Allah menyatakan Diri secara bertahap kepada manusia; Ia mempersiapkan manusia secara bertahap untuk menerima wahyu diri-Nya yang adikodrati, yang mencapai puncaknya dalam pribadi dan perutusan Yesus Kristus, Sabda yang menjadi manusia.\
+**52** Allah “yang bersemayam dalam terang yang tak terhampiri” (1 Tim 6:16) hendak menyampaikan kepada manusia, yang Ia ciptakan dalam kebebasan, kehidupan ilahi-Nya sendiri, supaya melalui Putera-Nya yang tunggal Ia mengangkat mereka menjadi anak-anak-Nya. Dengan mewahyukan Diri, Allah hendak menyanggupkan manusia untuk memberi jawaban kepada-Nya, mengakui-Nya dan mencintai-Nya atas cara yang jauh melampaui kemampuan manusia itu sendiri.
+
+**53** Keputusan wahyu ilahi itu diwujudkan “dalam perbuatan dan perkataan yang bertalian batin satu sama lain” (DV2). Di dalamnya tercakup “kebijaksanaan mendidik” ilahi yang khas: Allah menyatakan Diri secara bertahap kepada manusia; Ia mempersiapkan manusia secara bertahap untuk menerima wahyu diri-Nya yang adikodrati, yang mencapai puncaknya dalam pribadi dan perutusan Yesus Kristus, Sabda yang menjadi manusia.\
 Dengan menggunakan kiasan bahwa Allah dan manusia seakan-akan saling membiasakan diri satu sama lain, santo Ireneus dari Lyon berbicara berulang kali tentang pedagogi ilahi ini. “Sabda Allah berdiam dalam manusia dan menjadi putera manusia, supaya manusia membiasakan diri untuk menerima Allah, dan Allah membiasakan diri untuk tinggal dalam manusia seturut perkenanan Bapa” (haer. 3,20,2).
 
 II. Tahap-tahap Wahyu
