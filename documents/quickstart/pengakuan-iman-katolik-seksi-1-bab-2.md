@@ -1,8 +1,6 @@
 # Pengakuan Iman Katolik - Seksi 1 Bab 2
 
-**BAB II :**\
-**ALLAH**\
-**MENYONGSONG MANUSIA**
+**BAB II : ALLAH MENYONGSONG MANUSIA**
 
 **50** Dengan bantuan budi kodratinya, manusia dapat mengenal Allah dengan pasti dari segala karya-Nya. Namun masih ada lagi satu tata pengetahuan, yang tidak dapat dicapai manusia dengan kekuatannya sendiri: yakni wahyu ilahi. Melalui keputusan yang sama sekali bebas, Allah mewahyukan dan memberikan Diri kepada manusia, dan menyingkapkan rahasia Nya yang paling dalam, keputusan-Nya yang berbelas kasih, yang Ia rencanakan sejak keabadian di dalam Kristus untuk semua manusia. Ia menyingkapkan rencana keselamatan-Nya secara penuh, ketika Ia mengutus Putera Nya yang terkasih, Tuhan kita Yesus Kristus dan Roh Kudus.\
 
