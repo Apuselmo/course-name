@@ -39,40 +39,43 @@ Allah Memilih Abraham
 
 **59** Supaya mengumpulkan kembali umat manusia yang tercerai-berai, Allah memilih Abram dan memanggilnya keluar dari negerinya, dari kaum keluarganya dan dari rumah bapanya, untuk menjadikannya Abraham yang berarti “bapa sejumlah besar bangsa” (Kej 17:5): “Karena engkau Aku akan memberkati semua bangsa di bumi” (Kej 12:3 LXX).
 
-60 Bangsa yang berasal dari Abraham menjadi pembawa janji yang Allah ikrarkan kepada para bapa bangsa, menjadi bangsa terpilih yang dipanggil dengan maksud mempersiapkan pengumpulan semua anak Allah dalam kesatuan Gereja. Bangsa ini menjadi akar pohon, yang padanya akan dicangkokkan orang-orang kafir, kalau mereka sudah percaya.
+**60** Bangsa yang berasal dari Abraham menjadi pembawa janji yang Allah ikrarkan kepada para bapa bangsa, menjadi bangsa terpilih yang dipanggil dengan maksud mempersiapkan pengumpulan semua anak Allah dalam kesatuan Gereja. Bangsa ini menjadi akar pohon, yang padanya akan dicangkokkan orang-orang kafir, kalau mereka sudah percaya.
 
-61 Para bapa bangsa, para nabi dan tokoh-tokoh besar yang lain dalam Perjanjian Lama dari dulu dan terus dihormati dalam semua tradisi liturgi sebagai orang-orang kudus.\
+**61** Para bapa bangsa, para nabi dan tokoh-tokoh besar yang lain dalam Perjanjian Lama dari dulu dan terus dihormati dalam semua tradisi liturgi sebagai orang-orang kudus.\
 Allah Membentuk Bangsa-Nya Israel bagi Diri-Nya
 
-62 Dalam waktu sesudah zaman para bapa, Tuhan menjadikan Israel bangsa-Nya. Ia membebaskannya dari perhambaan di Mesir, mengadakan perjanjian dengannya di Sinai, dan memberi kepadanya hukum-Nya melalui Musa, supaya mengakui diri-Nya sebagai satu-satunya Allah yang hidup dan benar, sebagai bapa penyelenggara dan sebagai hakim yang adil, dan untuk menantikan Juru Selamat terjanji.
+**62** Dalam waktu sesudah zaman para bapa, Tuhan menjadikan Israel bangsa-Nya. Ia membebaskannya dari perhambaan di Mesir, mengadakan perjanjian dengannya di Sinai, dan memberi kepadanya hukum-Nya melalui Musa, supaya mengakui diri-Nya sebagai satu-satunya Allah yang hidup dan benar, sebagai bapa penyelenggara dan sebagai hakim yang adil, dan untuk menantikan Juru Selamat terjanji.
 
-63 Israel adalah bangsa imam-imam Allah, yang telah diberkati dengan “nama Allah” (Ul 28:10). Itulah bangsa orang-orang, “yang menerima Sabda Allah sebelum kita” (MR, Jumat Agung, Doa umat meriah 6), bangsa “kakak-kakak” dalam iman Abraham.
+**63** Israel adalah bangsa imam-imam Allah, yang telah diberkati dengan “nama Allah” (Ul 28:10). Itulah bangsa orang-orang, “yang menerima Sabda Allah sebelum kita” (MR, Jumat Agung, Doa umat meriah 6), bangsa “kakak-kakak” dalam iman Abraham.
 
-64 Dengan perantaraan para nabi, Allah membina bangsa-Nya dalam harapan akan keselamatan, dalam menantikan satu perjanjian yang baru dan kekal, yang diperuntukkan bagi semua orang dan ditulis dalam hati mereka. Para nabi mewartakan pembebasan bangsa Allah secara radikal, penyucian dari segala kejahatannya, keselamatan yang mencakup semua bangsa. Terutama orang yang miskin dan rendah hati di hadapan Allah menjadi pembawa harapan ini. Wanita-wanita saleh seperti Sara, Ribka, Rahel, Miriam, Debora, Hana, Yudit, dan Ester tetap menghidupkan harapan akan keselamatan Israel itu; tokoh yang termurni di antara mereka adalah Maria.
+**64** Dengan perantaraan para nabi, Allah membina bangsa-Nya dalam harapan akan keselamatan, dalam menantikan satu perjanjian yang baru dan kekal, yang diperuntukkan bagi semua orang dan ditulis dalam hati mereka. Para nabi mewartakan pembebasan bangsa Allah secara radikal, penyucian dari segala kejahatannya, keselamatan yang mencakup semua bangsa. Terutama orang yang miskin dan rendah hati di hadapan Allah menjadi pembawa harapan ini. Wanita-wanita saleh seperti Sara, Ribka, Rahel, Miriam, Debora, Hana, Yudit, dan Ester tetap menghidupkan harapan akan keselamatan Israel itu; tokoh yang termurni di antara mereka adalah Maria.
 
-III. Yesus Kristus – Perantara dan Pemenuhan Seluruh Wahyu
+**III. Yesus Kristus – Perantara dan Pemenuhan Seluruh Wahyu**
 
-Dalam Sabda-Nya Allah telah Mengatakan Segala-galanya
+**Dalam Sabda-Nya Allah telah Mengatakan Segala-galanya**
 
-65 “Setelah pada zaman dahulu Allah berulang kali dan dalam pelbagai cara berbicara kepada nenek moyang kita dengan perantaraan nabi-nabi, maka pada zaman akhir ini Ia telah berbicara kepada kita dengan perantaraan Anak-Nya” (Ibr l:l-2). Kristus, Putera Allah yang menjadi manusia, adalah Sabda Bapa yang tunggal, yang sempurna, yang tidak ada taranya. Dalam Dia Allah mengatakan segala-galanya, dan tidak akan ada perkataan lain lagi. Hal ini ditegaskan dengan jelas oleh santo Yohanes dari Salib dalam uraiannya mengenai Ibrani 1:1-2:\
-“Sejak Ia menganugerahkan kepada kita Anak-Nya, yang adalah Sabda-Nya, Allah tidak memberikan kepada kita sabda yang lain lagi. Ia sudah mengatakan segala sesuatu dalam Sabda yang satu itu … Karena yang Ia sampaikan dahulu kepada para nabi secara sepotong-sepotong, sekarang ini Ia sampaikan dengan utuh, waktu Ia memberikan kita seluruhnya yaitu Anak-Nya. Maka barang siapa sekarang ini masih ingin menanyakan kepada-Nya atau menghendaki dari-Nya penglihatan atau wahyu, ia tidak hanya bertindak tidak bijaksana, tetapi ia malahan mempemalukan Allah; karena ia tidak mengarahkan matanya hanya kepada Kristus sendiri, tetapi merindukan hal-hal lain atau hal-hal baru” (Carm. 2,22).\
-Tidak akan Ada Wahyu yang Lain
+**65** “Setelah pada zaman dahulu Allah berulang kali dan dalam pelbagai cara berbicara kepada nenek moyang kita dengan perantaraan nabi-nabi, maka pada zaman akhir ini Ia telah berbicara kepada kita dengan perantaraan Anak-Nya” (Ibr l:l-2). Kristus, Putera Allah yang menjadi manusia, adalah Sabda Bapa yang tunggal, yang sempurna, yang tidak ada taranya. Dalam Dia Allah mengatakan segala-galanya, dan tidak akan ada perkataan lain lagi. Hal ini ditegaskan dengan jelas oleh santo Yohanes dari Salib dalam uraiannya mengenai Ibrani 1:1-2:
 
-66 “Tata penyelamatan Kristen sebagai suatu perjanjian yang baru dan definitif, tidak pernah akan lenyap, dan tidak perlu diharapkan suatu wahyu umum baru, sebelum kedatangan yang jaya Tuhan kita Yesus Kristus” (DV 4). Walaupun wahyu itu sudah selesai, namun isinya sama sekali belum digali seluruhnya; masih merupakan tugas kepercayaan umat Kristen, supaya dalam peredaran zaman lama-kelamaan dapat mengerti seluruh artinya.
+“Sejak Ia menganugerahkan kepada kita Anak-Nya, yang adalah Sabda-Nya, Allah tidak memberikan kepada kita sabda yang lain lagi. Ia sudah mengatakan segala sesuatu dalam Sabda yang satu itu … Karena yang Ia sampaikan dahulu kepada para nabi secara sepotong-sepotong, sekarang ini Ia sampaikan dengan utuh, waktu Ia memberikan kita seluruhnya yaitu Anak-Nya. Maka barang siapa sekarang ini masih ingin menanyakan kepada-Nya atau menghendaki dari-Nya penglihatan atau wahyu, ia tidak hanya bertindak tidak bijaksana, tetapi ia malahan mempemalukan Allah; karena ia tidak mengarahkan matanya hanya kepada Kristus sendiri, tetapi merindukan hal-hal lain atau hal-hal baru” (Carm. 2,22).
 
-67 Dalam peredaran waktu terdapatlah apa yang dinamakan “wahyu pribadi”, yang beberapa di antaranya diakui oleh pimpinan Gereja. Namun wahyu pribadi itu tidak termasuk dalam perbendahaman iman. Bukanlah tugas mereka untuk “menyempurnakan” wahyu Kristus yang definitif atau untuk “melengkapinya”, melainkan untuk membantu supaya orang dapat menghayatinya lebih dalam lagi dalam rentang waktu tertentu. Di bawah bimbingan Wewenang Mengajar Gereja, maka dalam kesadaran iman, umat beriman tahu membedakan dan melihat dalam wahyu-wahyu ini apa yang merupakan amanat otentik dari Kristus atau para kudus kepada Gereja.\
+**Tidak akan Ada Wahyu yang Lain**
+
+**66** “Tata penyelamatan Kristen sebagai suatu perjanjian yang baru dan definitif, tidak pernah akan lenyap, dan tidak perlu diharapkan suatu wahyu umum baru, sebelum kedatangan yang jaya Tuhan kita Yesus Kristus” (DV 4). Walaupun wahyu itu sudah selesai, namun isinya sama sekali belum digali seluruhnya; masih merupakan tugas kepercayaan umat Kristen, supaya dalam peredaran zaman lama-kelamaan dapat mengerti seluruh artinya.
+
+**67** Dalam peredaran waktu terdapatlah apa yang dinamakan “wahyu pribadi”, yang beberapa di antaranya diakui oleh pimpinan Gereja. Namun wahyu pribadi itu tidak termasuk dalam perbendahaman iman. Bukanlah tugas mereka untuk “menyempurnakan” wahyu Kristus yang definitif atau untuk “melengkapinya”, melainkan untuk membantu supaya orang dapat menghayatinya lebih dalam lagi dalam rentang waktu tertentu. Di bawah bimbingan Wewenang Mengajar Gereja, maka dalam kesadaran iman, umat beriman tahu membedakan dan melihat dalam wahyu-wahyu ini apa yang merupakan amanat otentik dari Kristus atau para kudus kepada Gereja.
+
 Iman Kristen tidak dapat “menerima” wahyu-wahyu yang mau melebihi atau membetulkan wahyu yang sudah dituntaskan dalam Kristus. Hal ini diklaim oleh agama-agama bukan Kristen tertentu dan sering kali juga oleh sekte-sekte baru tertentu yang mendasarkan diri atas “wahyu-wahyu” yang demikian itu.
 
-TEKS-TEKS SINGKAT
+**TEKS-TEKS SINGKAT**
 
-68 Allah sudah mewahyukan dan mengaruniakan Diri kepada manusia karena cinta. Dengan demikian Ia memberi jawaban yang berlimpah dan definitif atas pertanyaan mengenai arti dan tujuan kehidupan ini yang dihadapi manusia.
+**68** Allah sudah mewahyukan dan mengaruniakan Diri kepada manusia karena cinta. Dengan demikian Ia memberi jawaban yang berlimpah dan definitif atas pertanyaan mengenai arti dan tujuan kehidupan ini yang dihadapi manusia.
 
-69 Allah mewahyukan Diri kepada manusia dengan cara menyampaikan misteri-Nya kepadanya secara bertahap melalui perbuatan dan perkataan.
+**69** Allah mewahyukan Diri kepada manusia dengan cara menyampaikan misteri-Nya kepadanya secara bertahap melalui perbuatan dan perkataan.
 
-70 Melampaui kesaksian tentang Diri dalam makhluk ciptaan, Allah telah menyatakan Diri kepada leluhur kita. Ia berkata-kata kepada mereka, sesudah jatuh dalam dosa Ia menjanjikan keselamatan dan menawarkan perjanjian-Nya kepada mereka.
+**70** Melampaui kesaksian tentang Diri dalam makhluk ciptaan, Allah telah menyatakan Diri kepada leluhur kita. Ia berkata-kata kepada mereka, sesudah jatuh dalam dosa Ia menjanjikan keselamatan dan menawarkan perjanjian-Nya kepada mereka.
 
-71 Tuhan mengadakan perjanjian kekal dengan Nuh, perjanjian antara Dia dan segala makhluk hidup. Selama dunia ini berlangsung, berlangsung pulalah perjanjian ini.
+**71** Tuhan mengadakan perjanjian kekal dengan Nuh, perjanjian antara Dia dan segala makhluk hidup. Selama dunia ini berlangsung, berlangsung pulalah perjanjian ini.
 
-72 Allah memilih Abraham dan mengadakan perjanjian dengan dia dan dengan keturunannya. Dari mereka itu Ia membentuk satu bangsa bagi diri-Nya, kepadanya Ia mewahyukan hukum-Nya dengan perantaraan Musa. Ia mempersiapkan bangsa ini melalui para nabi agar menerima keselamatan yang dimaksudkan untuk seluruh umat manusia.
+**72** Allah memilih Abraham dan mengadakan perjanjian dengan dia dan dengan keturunannya. Dari mereka itu Ia membentuk satu bangsa bagi diri-Nya, kepadanya Ia mewahyukan hukum-Nya dengan perantaraan Musa. Ia mempersiapkan bangsa ini melalui para nabi agar menerima keselamatan yang dimaksudkan untuk seluruh umat manusia.
 
-73 Allah mewahyukan Diri secara penuh dengan mengutus Putera-Nya sendiri; di dalam Dia Ia mengadakan perjanjian untuk selama-lamanya. Kristus adalah Sabda Bapa yang definitif, sehingga sesudah Dia tidak akan ada wahyu lain lagi.
+**73** Allah mewahyukan Diri secara penuh dengan mengutus Putera-Nya sendiri; di dalam Dia Ia mengadakan perjanjian untuk selama-lamanya. Kristus adalah Sabda Bapa yang definitif, sehingga sesudah Dia tidak akan ada wahyu lain lagi.
