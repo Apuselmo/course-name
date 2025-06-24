@@ -8,7 +8,7 @@
 
 {% endtab %}
 
-{% tab title=**"Utai nya diterangka dalam Jaku Iban"** %}
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
 
 {% endtab %}
 {% endtabs %}
@@ -19,7 +19,7 @@
 **I. Kerinduan akan Allah**
 
 {% tabs %}
-{% tab title=**"Teks dalam Bahasa Indonesia"** %}
+{% tab title="Teks dalam Bahasa Indonesia" %}
 
 **27** Kerinduan akan Allah sudah terukir dalam hati manusia karena manusia diciptakan oleh Allah dan untuk Allah. Allah tidak henti-hentinya menarik dia kepada diri-Nya. Hanya dalam Allah manusia dapat menemukan kebenaran dan kebahagiaan yang dicarinya terus-menerus:
 “Makna paling luhur martabat manusia terletak pada panggilannya untuk memasuki persekutuan dengan Allah. Sudah sejak asal mulanya manusia diundang untuk berwawancara dengan Allah. Sebab manusia hanyalah hidup, karena ia diciptakan oleh Allah dalam cinta kasih-Nya, dan lestari hidup berkat cinta kasih-Nya. Dan manusia tidak sepenuhnya hidup menurut kebenaran, bila ia tidak dengan sukarela mengakui cinta kasih itu, serta menyerahkan diri kepada Penciptanya” (GS 19,1).
@@ -34,7 +34,7 @@
 
 {% endtab %}
 
-{% tab title=**"Utai nya diterangka dalam Jaku Iban"** %}
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
 
 {% endtab %}
 {% endtabs %}
@@ -58,7 +58,7 @@ Dan santo Agustinus berkata: “Tanyakanlah keindahan bumi, tanyakanlah keindaha
 
 {% endtab %}
 
-{% tab title=**"Utai nya diterangka dalam Jaku Iban"** %}
+{% tab title="Utai nya diterangka dalam Jaku Iban" %}
 
 {% endtab %}
 {% endtabs %}
