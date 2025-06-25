@@ -4,3 +4,5 @@
 
 Ngerembaika jako Tuhan, nya siti bagi pengawa enggau kangau orang Kristian. 
 Nengah macha bup kudus ke bala maioh, kitai baka orang Kristian ulih ngambi bagi tugas enggau kangau ngerembai tu.
+
+Nya ke nyadi.
