@@ -1,257 +1,257 @@
-# **Presentasi: Tujuh Sakramen dalam Gereja Katolik**  
-**(Ngitihka Katekismus Gereja Katolik - KGK)** 
-
---- 
-
-### **Slide 1: Judul**  
-- **Judul:** Tujuh Sakramen: Pengasi Allah ti Negu Pengidup Mensia  
-- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik   
+# **Presentasi: Tujuh Sakramen dalam Gereja Katolik**
+**(Ngitihka Katekismus Gereja Katolik - KGK)**
 
 ---
 
-### **Slide 2: Pengelalu: Nama Sakramen? (KGK 1131)**  
-- **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka Pengasi ti enda dipeda, ti diberi Jesus Kristus kena nguduska kitai."  
+### **Slide 1: Judul**
+- **Judul:** Tujuh Sakramen: Pengasi Allah ti Negu Pengidup Mensia
+- **Subjudul:** Nemu & Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik
 
 ---
 
-- **Inti Sakramen:**  
-  - **Tanda Kudus:** Ngena utai ti dipeda (ai, minyak, roti, anggur [Materia])  enggau jako (forma).  
-  - **Diberi Jesus Kristus:** Datai ari Jesus Empu.  
-  - **Digaga Gereja:** Diberi ngagai Gereja kena digaga ketegal nyelamatka mensia.  
-  - **Meri Pengasi:** Ngasilka utai ti ditandaka (Pengasi sakramen) enti diterima enggau ati ti terbuka.  
-- **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.  
-- **KGK Penting:** 774, 1084, 1113-1134.  
+### **Slide 2: Pengelalu: Nama Sakramen? (KGK 1131)**
+- **Penerang:** "Sakramen siti tanda ti dipeda sereta ulih ngasilka Pengasi ti enda dipeda, ti diberi Jesus Kristus kena nguduska kitai."
 
 ---
 
-### **Slide 3: Tiga Bagi Sakramen (KGK 1211)**  
-1. **Sakramen Inisiasi:**  
-   - Baptisa/Basu Pala 
-   - Pengentap (Penguatan)  
-   - Ekaristia  
-2. **Sakramen Pengerao:**  
-   - Ngaku Dosa  
-   - Ngunsut orang ti tabin  
-3. **Sakramen Pemela & Pengibun:**  
-   - Dichiri nyadi Paderi (Tahbisan)  
-   - Sabung Jadi  
+- **Inti Sakramen:**
+  - **Tanda Kudus:** Ngena utai ti dipeda (ai, minyak, roti, anggur [Materia])  enggau jako (forma).
+  - **Diberi Jesus Kristus:** Datai ari Jesus Empu.
+  - **Digaga Gereja:** Diberi ngagai Gereja kena digaga ketegal nyelamatka mensia.
+  - **Meri Pengasi:** Ngasilka utai ti ditandaka (Pengasi sakramen) enti diterima enggau ati ti terbuka.
+- **Tuju:** Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.
+- **KGK Penting:** 774, 1084, 1113-1134.
 
 ---
 
-### **Slide 4: Sakramen Baptisa (KGK 1213-1284)**  
-- **Materi:** Ai  
-- **Forma:** "Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus."  
+### **Slide 3: Tiga Bagi Sakramen (KGK 1211)**
+1. **Sakramen Inisiasi:**
+   - Baptisa/Basu Pala
+   - Pengentap (Penguatan)
+   - Ekaristia
+2. **Sakramen Pengerao:**
+   - Ngaku Dosa
+   - Ngunsut orang ti tabin
+3. **Sakramen Pemela & Pengibun:**
+   - Dichiri nyadi Paderi (Tahbisan)
+   - Sabung Jadi
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop, Paderi, Diakon. Enti dalam bahaya, sapa-sapa ulih maptisa enti bisi niat ti betul.  
+### **Slide 4: Sakramen Baptisa (KGK 1213-1284)**
+- **Materi:** Ai
+- **Forma:** "Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus."
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Dosa Asal & semua dosa diri diampun.  
-  - Diadaka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.  
-  - Diberi tanda rohani ti enda lenyau.  
-  - Diberi Pengasi kena idup nyadi murid Kristus.  
+- **Ti Mela/Ngulu:** Biskop, Paderi, Diakon. Enti dalam bahaya, sapa-sapa ulih maptisa enti bisi niat ti betul.
 
 ---
 
-- **KGK Penting:** 1279-1280.  
+- **Nimet (Pengasi):**
+  - Dosa Asal & semua dosa diri diampun.
+  - Diadaka baru nyadi anak Allah, diserakup enggau Kristus & Gereja.
+  - Diberi tanda rohani ti enda lenyau.
+  - Diberi Pengasi kena idup nyadi murid Kristus.
 
 ---
 
-### **Slide 5: Sakramen Krisma / Pengentap (KGK 1285-1321)**  
-- **Materi:** Minyak Krisma (minyak dikuduska Biskop).  
-- **Forma:** "Awakka diberi tanda Pengasi Allah, Roh Kudus."  
+- **KGK Penting:** 1279-1280.
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop (tauka Paderi ti diberi kuasa).  
+### **Slide 5: Sakramen Krisma / Pengentap (KGK 1285-1321)**
+- **Materi:** Minyak Krisma (minyak dikuduska Biskop).
+- **Forma:** "Awakka diberi tanda Pengasi Allah, Roh Kudus."
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Ngukuhka pengasi nimet Baptisa.  
-  - Meri Roh Kudus kena ngeringka pengarap.  
-  - Meri tanda rohani ti enda ilang.  
-  - Ngikat agi rapit enggau Gereja.  
-  - Ngering kena nyadi saksi Kristus.  
+- **Ti Mela/Ngulu:** Biskop (tauka Paderi ti diberi kuasa).
 
 ---
 
-- **KGK Penting:** 1302-1305.  
+- **Nimet (Pengasi):**
+  - Ngukuhka pengasi nimet Baptisa.
+  - Meri Roh Kudus kena ngeringka pengarap.
+  - Meri tanda rohani ti enda ilang.
+  - Ngikat agi rapit enggau Gereja.
+  - Ngering kena nyadi saksi Kristus.
 
 ---
 
-### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**  
-- **Materi:** Roti gandum & Anggur.  
-- **Forma:** Jako Konsekrasi ari Paderi: "Tu Tubuh-Ku... Tu Darah-Ku..."  
+- **KGK Penting:** 1302-1305.
 
 ---
 
-- **Ti Mela/Ngulu:** Paderi (tauka Biskop).  
+### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**
+- **Materi:** Roti gandum & Anggur.
+- **Forma:** Jako Konsekrasi ari Paderi: "Tu Tubuh-Ku... Tu Darah-Ku..."
 
 ---
 
-- **Nimet (Pengasi):**  
-  - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.  
-  - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.  
-  - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun nembiak Allah Taala.  
-  - **Jamin Pengidup Selama-lama:** Bekal pengidup ti meruan.  
-- **Kristus Betul-betul Ada:** Roti & anggur betul-betul nyadi Tubuh & Darah Kristus (Transubstansiasi - KGK 1376).  
+- **Ti Mela/Ngulu:** Paderi (tauka Biskop).
 
 ---
 
-- **KGK Penting:** 1324, 1356-1372, 1407.  
+- **Nimet (Pengasi):**
+  - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.
+  - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.
+  - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun nembiak Allah Taala.
+  - **Jamin Pengidup Selama-lama:** Bekal pengidup ti meruan.
+- **Kristus Betul-betul Ada:** Roti & anggur betul-betul nyadi Tubuh & Darah Kristus (Transubstansiasi - KGK 1376).
 
 ---
 
-### **Slide 7: Sakramen Tobat / Ngaku Dosa (KGK 1422-1498)**  
-- **Materi:** Pengawa orang ti bechara (sesal, ngaku dosa, penitensi).  
-- **Forma:** Jako Pengampun ari Paderi: "Awakka Allah Taala ngampun penyalah nuan..."  
+- **KGK Penting:** 1324, 1356-1372, 1407.
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop tauka Paderi.  
+### **Slide 7: Sakramen Tobat / Ngaku Dosa (KGK 1422-1498)**
+- **Materi:** Pengawa orang ti bechara (sesal, ngaku dosa, penitensi).
+- **Forma:** Jako Pengampun ari Paderi: "Awakka Allah Taala ngampun penyalah nuan..."
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Dosa berat & ringan diampun.  
-  - Pulai baru pengelikun enggau kaul ti manah enggau Allah Taala & Gereja.  
-  - Meri Pengasi pengudus baru enti udah lenyau laban dosa ti udu balat.  
-  - Meri pemadu & pemaik ati.  
-  - Ngering kena ngalahka penguji.  
+- **Ti Mela/Ngulu:** Biskop tauka Paderi.
 
 ---
 
-- **KGK Penting:** 1440-1442, 1450, 1496.  
+- **Nimet (Pengasi):**
+  - Dosa berat & ringan diampun.
+  - Pulai baru pengelikun enggau kaul ti manah enggau Allah Taala & Gereja.
+  - Meri Pengasi pengudus baru enti udah lenyau laban dosa ti udu balat.
+  - Meri pemadu & pemaik ati.
+  - Ngering kena ngalahka penguji.
 
 ---
 
-### **Slide 8: Sakramen Pengunsut orang ti tabin (KGK 1499-1532)**  
-- **Materi:** Minyak Orang Tabin (dikuduska Biskop).  
-- **Forma:** Sampi Gereja kena minta Pengasi ngagai orang ti tabin.  
+- **KGK Penting:** 1440-1442, 1450, 1496.
 
 ---
 
-- **Ti Mela/Ngulu:** Paderi tauka Biskop.  
+### **Slide 8: Sakramen Pengunsut orang ti tabin (KGK 1499-1532)**
+- **Materi:** Minyak Orang Tabin (dikuduska Biskop).
+- **Forma:** Sampi Gereja kena minta Pengasi ngagai orang ti tabin.
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Meri semengat, pemaik, & berani kena ngalahka penyait.  
-  - Nyerakup enggau Penderitaan Kristus.  
-  - Ngampun dosa enti orang sakit enda ulih ngaku.  
-  - Ngeringka tubuh enti tu peneka Allah.  
-  - Nyadi bekengau kematian.  
+- **Ti Mela/Ngulu:** Paderi tauka Biskop.
 
 ---
 
-- **Enda Sakramen "Pengujung" Saja:** Bisi diterima mayuh kali enti sakit berat.  
+- **Nimet (Pengasi):**
+  - Meri semengat, pemaik, & berani kena ngalahka penyait.
+  - Nyerakup enggau Penderitaan Kristus.
+  - Ngampun dosa enti orang sakit enda ulih ngaku.
+  - Ngeringka tubuh enti tu peneka Allah.
+  - Nyadi bekengau kematian.
 
 ---
 
-- **KGK Penting:** 1520-1523.  
+- **Enda Sakramen "Pengujung" Saja:** Bisi diterima mayuh kali enti sakit berat.
 
 ---
 
-### **Slide 9: Sakramen Paderiat / Tahbisan (KGK 1536-1600)**  
-- **Materi:** Jari ti diengkah Biskop atas pala.  
-- **Forma:** Sampi Penyiri kena tiap darjat (Diakon, Paderi, Biskop).  
+- **KGK Penting:** 1520-1523.
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop.  
+### **Slide 9: Sakramen Paderiat / Tahbisan (KGK 1536-1600)**
+- **Materi:** Jari ti diengkah Biskop atas pala.
+- **Forma:** Sampi Penyiri kena tiap darjat (Diakon, Paderi, Biskop).
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Meri tanda rohani ti enda lenyau kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).  
-  - Meri Pengasi Roh Kudus kena ngibun.  
-  - Kuasa nguduska: Meri Sakramen, ngeraika Ekaristi, ngaku dosa.  
+- **Ti Mela/Ngulu:** Biskop.
 
 ---
 
-- **Tiga Darjat:**  
-  - **Biskop:** Paderi ti penuh; pengganti Rasul; pengibun keBiskopan.  
-  - **Paderi:** Penulung Biskop; pengajar & pemberi Sakramen.  
-  - **Diakon:** Penulung Paderi; pengajar & pengibun pengidup.  
+- **Nimet (Pengasi):**
+  - Meri tanda rohani ti enda lenyau kena ngereja pengawa *in persona Christi Capitis* (dalam pribadi Kristus).
+  - Meri Pengasi Roh Kudus kena ngibun.
+  - Kuasa nguduska: Meri Sakramen, ngeraika Ekaristi, ngaku dosa.
 
 ---
 
-- **KGK Penting:** 1547-1553, 1592.  
+- **Tiga Darjat:**
+  - **Biskop:** Paderi ti penuh; pengganti Rasul; pengibun keBiskopan.
+  - **Paderi:** Penulung Biskop; pengajar & pemberi Sakramen.
+  - **Diakon:** Penulung Paderi; pengajar & pengibun pengidup.
 
 ---
 
-### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**  
-- **Materi & Forma:** Sempekat seduai pengantin (lelaki & indu).  
+- **KGK Penting:** 1547-1553, 1592.
 
 ---
 
-- **Ti Mela/Ngulu:** Pengantin empu (saling Meri & nerima). Paderi/Biskop/Diakon nyadi saksi resmi Gereja.  
+### **Slide 10: Sakramen Perkawinan (KGK 1601-1666)**
+- **Materi & Forma:** Sempekat seduai pengantin (lelaki & indu).
 
 ---
 
-- **Nimet (Pengasi):**  
-  - Ngaga ikatan kudus & enda putus.  
-  - Meri Pengasi kena rindu baka Kristus, setia, & besemengatka anak.  
-  - Nunjukka pengelikun Kristus & Gereja.  
-  - Ngeringka "Gereja ti Mit" (keluarga).  
+- **Ti Mela/Ngulu:** Pengantin empu (saling Meri & nerima). Paderi/Biskop/Diakon nyadi saksi resmi Gereja.
 
 ---
 
-- **Sifat:** Siti, setia, terbuka kena besemengatka anak, saling rindu.  
+- **Nimet (Pengasi):**
+  - Ngaga ikatan kudus & enda putus.
+  - Meri Pengasi kena rindu baka Kristus, setia, & besemengatka anak.
+  - Nunjukka pengelikun Kristus & Gereja.
+  - Ngeringka "Gereja ti Mit" (keluarga).
 
 ---
 
-- **KGK Penting:** 1638-1642, 1659-1660.  
+- **Sifat:** Siti, setia, terbuka kena besemengatka anak, saling rindu.
 
 ---
 
-### **Slide 11: Penyimpul: Sakramen dalam Pengidup (KGK 1113, 1131)**  
-- Sakramen jako pengawa Kristus Empu ti bekereja dalam Gereja.  
-- Iya nyadi punca pengidup ilahi & Pengasi ti diperluka.  
+- **KGK Penting:** 1638-1642, 1659-1660.
 
 ---
 
-- Tiap sakramen negu tahap penting pengidup mensia (didiadaka, mansang besai, bulih pemakai, maya sakit/tabin, ngibun, rindu, deka parai).  
-- Iya ngeringka Gereja & ngukuhka pengelikun enggau Allah Taala.  
-- Kena ngasaika sakramen, kitai perlu bisi pengarap & ati ti terbuka.  
+### **Slide 11: Penyimpul: Sakramen dalam Pengidup (KGK 1113, 1131)**
+- Sakramen jako pengawa Kristus Empu ti bekereja dalam Gereja.
+- Iya nyadi punca pengidup ilahi & Pengasi ti diperluka.
 
 ---
 
-### **Slide 12: Tanya & Bicara**  
-- Nama utai ti enda terang?  
-- Kongsi pengasai pasal sakramen.  
-- Kerandauka pemayuh sakramen dalam pengidup sehari-hari.  
-- Sumber: Katekismus Gereja Katolik (Bahagian II: Perayaan Misteri Kristen, Art. 1210 dst).  
+- Tiap sakramen negu tahap penting pengidup mensia (didiadaka, mansang besai, bulih pemakai, maya sakit/tabin, ngibun, rindu, deka parai).
+- Iya ngeringka Gereja & ngukuhka pengelikun enggau Allah Taala.
+- Kena ngasaika sakramen, kitai perlu bisi pengarap & ati ti terbuka.
 
 ---
 
-### **Slide 13: Terima Kasih**  
-- "Sakramen baka kuasa ti datai ari Tubuh Kristus ti idup & ngidupka; iya baka pengawa Roh Kudus dalam Gereja." (KGK 1116)  
-- **Referensi:** Katekismus Gereja Katolik (KGK)  
+### **Slide 12: Tanya & Bicara**
+- Nama utai ti enda terang?
+- Kongsi pengasai pasal sakramen.
+- Kerandauka pemayuh sakramen dalam pengidup sehari-hari.
+- Sumber: Katekismus Gereja Katolik (Bahagian II: Perayaan Misteri Kristen, Art. 1210 dst).
 
 ---
 
-### **Tips Penyajian:**  
-1. **Visual:** Guna gambar/ikon sakramen (contoh: Baptisa - ai, Krisma - burung ruai, Ekaristi - roti-anggur).  
-2. **Interaktif:** Kangau orang bejako pasal sakramen ti udah diterima.  
+### **Slide 13: Terima Kasih**
+- "Sakramen baka kuasa ti datai ari Tubuh Kristus ti idup & ngidupka; iya baka pengawa Roh Kudus dalam Gereja." (KGK 1116)
+- **Referensi:** Katekismus Gereja Katolik (KGK)
 
 ---
 
-3. **Jako:** Guna jako ti mudah dimeretika.  
-4. **Referensi:** Nyendia ayat-ayat KGK enti deka ditanya.  
-5. **Fokus Rohani:** Sakramen ukai jako sihir, tang perjumpaan enggau Kristus.  
-6. **Masa:** Lebih mayuh agi kena Ekaristi & Pengakuan Dosa.  
+### **Tips Penyajian:**
+1. **Visual:** Guna gambar/ikon sakramen (contoh: Baptisa - ai, Krisma - burung ruai, Ekaristi - roti-anggur).
+2. **Interaktif:** Kangau orang bejako pasal sakramen ti udah diterima.
 
 ---
 
-**Materi Tambah (Enti Dipeda):**  
-- **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.  
-- **Ayat Kitab Kudus:** Ayat pendukung tiap sakramen.  
-- **Dokumen Gerija:** Sebut dokumen ti bukai baka Sacrosanctum Concilium.  
+3. **Jako:** Guna jako ti mudah dimeretika.
+4. **Referensi:** Nyendia ayat-ayat KGK enti deka ditanya.
+5. **Fokus Rohani:** Sakramen ukai jako sihir, tang perjumpaan enggau Kristus.
+6. **Masa:** Lebih mayuh agi kena Ekaristi & Pengakuan Dosa.
+
+---
+
+**Materi Tambah (Enti Dipeda):**
+- **Jadual Ringkas:** Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.
+- **Ayat Kitab Kudus:** Ayat pendukung tiap sakramen.
+- **Dokumen Gerija:** Sebut dokumen ti bukai baka Sacrosanctum Concilium.
 
 ---
 
