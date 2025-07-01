@@ -156,7 +156,7 @@
 
 ---
 
-### **Slide 9: Sakramen Paderiat / Tahbisan (KGK 1536-1600)**
+### **Slide 9: Sakramen Kepaderian / Tahbisan (KGK 1536-1600)**
 - **Materi:** Jari ti diengkah Biskop atas pala.
 - **Forma:** Sampi Penyiri kena tiap darjat (Diakon, Paderi, Biskop).
 
@@ -174,7 +174,7 @@
 ---
 
 - **Tiga Darjat:**
-  - **Biskop:** Paderi ti penuh; pengganti Rasul; pengibun keBiskopan.
+  - **Biskop:** Paderi ti penuh; pengganti Rasul; pengibun keuskupan.
   - **Paderi:** Penulung Biskop; pengajar & pemberi Sakramen.
   - **Diakon:** Penulung Paderi; pengajar & pengibun pengidup.
 
