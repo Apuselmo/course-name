@@ -242,7 +242,8 @@ Setelah orang Kristen yang baru dipermandikan itu keluar dari air dan setelah tu
 
 ---
 
-Setiap anggota baru dari komunitas umat beriman dibagikan sebuah lilin bernyala dan ciuman tanda kasih dan damai.
+Setiap anggota baru dari **komunitas**  umat beriman dibagikan sebuah lilin bernyala dan ciuman tanda kasih dan damai.
+
 
 ___
 
