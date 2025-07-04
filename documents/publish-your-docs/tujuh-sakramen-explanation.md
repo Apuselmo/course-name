@@ -59,6 +59,7 @@
 - **KGK Penting:** 1279-1280.
 
 ---
+
 # Penerang Pasal Sakramen Basupala/Baptisa
 
 ---
@@ -239,7 +240,7 @@ Uskup lalu dengan halus menekan kepada calon ke dalam air sampai tiga kali, samb
 
 Setelah orang Kristen yang baru dipermandikan itu keluar dari air dan setelah tubuh mereka dilap, mereka diberi pakaian baru berbentuk kain linen putih yang mereka pakai sampai minggu berikut.
 
-___
+---
 
 Setiap anggota baru dari komunitas umat beriman dibagikan sebuah lilin bernyala dan ciuman tanda kasih dan damai.
 
