@@ -244,7 +244,6 @@ Setelah orang Kristen yang baru dipermandikan itu keluar dari air dan setelah tu
 
 Setiap anggota baru dari **komunitas**  umat beriman dibagikan sebuah lilin bernyala dan ciuman tanda kasih dan damai.
 
-
 ___
 
 Setelah semua calon dibaptis, mereka merayakan Ekaristi dengan seluruh komunitas umat beriman. Untuk pertama kali, orang yang baru dibaptis mengambil bagian secara penuh dalam seluruh misa dan menerima Komuni Kudus.
