@@ -360,7 +360,7 @@ Lebih dari itu, sejak Gereja Kristen diakui sebagai agama resmi dari negara, men
 
 ---
 
-- **Ti Mela/Ngulu:** Biskop.
+- **Ti Mela/Ngulu:** Bishop/Uskup.
 
 ---
 
@@ -453,6 +453,6 @@ Lebih dari itu, sejak Gereja Kristen diakui sebagai agama resmi dari negara, men
 
 ---
 
-**Presentasi tu meri penemu teologi ti kukuh. Kena penemu lebih dalam, guna teks KGK ti asal.**
+**Presentasi tu meri penemu teologi ti kukuh. Kena bulih penemu lebih dalam, guna teks KGK ti asal.**
 
 ---
