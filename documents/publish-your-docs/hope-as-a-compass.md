@@ -70,7 +70,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-**Seeing with God's Eyes:** Hope allows the catechist to see each learner not just as they are now, but as a person called to eternal life and capable of transformation by grace. This fosters respect, love, and patience.
+**Seeing with God's Eyes:** Hope allows the catechist to see each learner not just as they are now, but as a person called to eternal life and capable of transformation by grace. This fosters **respect, love, and patience**.
 
 <!--s-->
 
