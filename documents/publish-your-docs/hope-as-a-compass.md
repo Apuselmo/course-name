@@ -42,7 +42,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-**Amidst Challenges:** Catechists face discouragement: apathy, difficult questions, societal pressures, personal doubts, slow progress. Hope acts as the compass needle cutting through this "fog." It reminds them that the final victory belongs to Christ, and their labor is not in vain (1 Cor. 15:58). They work *for* eternity, not just immediate results.
+**Amidst Challenges:** Catechists face discouragement: apathy, difficult questions, societal pressures, personal doubts, slow progress. Hope acts as the compass needle cutting through this "fog." It reminds them that the final victory belongs to Christ, and their labor is not in vain (1 Cor. 15:58). They work *for* eternity, not just **immediate results**.
 
 <!--s-->
 
