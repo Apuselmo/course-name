@@ -22,7 +22,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-- Catechesis can be challenging—apathy, secularism, and discouragement may arise. Hope keeps the catechist anchored in Christ, reminding them that God’s grace is at work even when results are unseen (Gal 6:9).
+- Catechesis can be challenging — *apathy*, *secularism*, and *discouragement* may arise. Hope keeps the catechist anchored in Christ, reminding them that God’s grace is at work even when results are unseen (Gal 6:9).
 
 <!--s-->
 
