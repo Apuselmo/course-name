@@ -90,7 +90,7 @@ Kata pembaptisan sendiri berasal dari kata Yunani "bapizo" yang berarti "membasu
 
 ---
 
-Markus menceriterakan bahwa Yesus juga kemdian datang kepada Yohanes dan dibaptis. Ketika Ia keluar dari air, Ia melihat surga terbuka dan Roh Kudus dalam rupa seekor burung merpati turun ke atasNya. Dan Ia mendengar suara dari atas yang mengatakan:"Engkaulah PuteraKu yang terkasih; kepadamu aku berkenan."
+Markus menceriterakan bahwa Yesus juga kemudian datang kepada Yohanes dan dibaptis. Ketika Ia keluar dari air, Ia melihat surga terbuka dan Roh Kudus dalam rupa seekor burung merpati turun ke atasNya. Dan Ia mendengar suara dari atas yang mengatakan:"Engkaulah PuteraKu yang terkasih; kepadamu aku berkenan."
 
 ---
 
