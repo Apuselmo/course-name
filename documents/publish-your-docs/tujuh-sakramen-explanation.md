@@ -281,6 +281,133 @@ Lebih dari itu, sejak Gereja Kristen diakui sebagai agama resmi dari negara, men
 
 ---
 
+## **Inti Sakramen Krisma:**
+*   Krisma adalah salah satu dari **tiga Sakramen Inisiasi Kristen** (KGK 1212, 1285), bersama Baptis dan Ekaristi.
+
+---
+
+*   Tujuannya adalah **mengaruniakan Roh Kudus secara penuh** kepada orang yang telah dibaptis, untuk **mengakar lebih dalam** dalam hidup keallahan, **mempererat ikatan** dengan Gereja, **memperkuat** mereka, dan **mengutus** mereka untuk memberi kesaksian tentang iman Kristiani (KGK 1285, 1316).
+
+---
+
+## **Penjelasan Rinci Berdasar KGK:**
+
+---
+
+## 1.  **Nama dan Makna:**
+
+---
+
+*   **Krisma (Chrismation):** Berasal dari kata "Kristus" (Yang Diurapi), karena sakramen ini mengaitkan penerima lebih erat dengan Kristus, Sang "Terurapi" oleh Roh Kudus (KGK 1289).
+
+---
+
+*   **Penguatan (Confirmation):** Menegaskan rahmat Pembaptisan dan menguatkan karunia Roh Kudus (KGK 1289, 1303).
+
+---
+
+*   **Sakramen Roh Kudus:** Menganugerahkan kepenuhan karunia Roh Kudus seperti pada hari Pentakosta (KGK 1288, 1302).
+
+---
+
+## 2.  **Tanda Lahiriah (Materi dan Forma):**
+
+---
+
+*   **Materi:** **Minyak Krisma (Chrism)** - minyak zaitun dicampur balsam, yang **dikonsekrasi oleh Uskup** pada Misa Krisma Kamis Putih (KGK 1183, 1293-1294). Minyak melambangkan **kekuatan** dan **pengurapan** (menjadikan orang "Kristiani" - yang diurapi), balsam melambangkan **aroma Kristus** (2 Kor 2:15) dan **keharuman hidup baik**.
+
+---
+
+*   **Ritus Utama:** **Pengurapan di dahi** dengan minyak krisma **dalam bentuk salib** oleh pelayan, disertai **penumpangan tangan**, sambil mengucapkan kata-kata sakramental (forma) (KGK 1289, 1293-1296).
+
+---
+
+*   **Forma (Kata-kata Esensial):** *"**(Nama), terimalah tanda karunia Roh Kudus.**"* (Accipe signaculum doni Spiritus Sancti) (KGK 1300). Kata-kata ini meneguhkan hubungan dengan Baptis dan menekankan pemberian Roh.
+
+---
+
+## 3.  **Efek Sakramen (Rahmat yang Diberikan):**
+
+---
+
+*   **Mencurahkan Roh Kudus secara Khusus:** Seperti pada hari Pentakosta, menguatkan dan menuntun penerima dalam seluruh hidupnya (KGK 1302, 1316).
+*   **Mengakar Lebih Dalam dalam Keallahan:** Memperdalam hidup sebagai anak Allah yang dimulai dalam Baptis (KGK 1303).
+*   **Mempererat Ikatan dengan Gereja:** Menyempurnakan ikatan dengan Gereja yang dimulai dalam Baptis (KGK 1303).
+*   **Menganugerahkan Tujuh Karunia Roh Kudus:** (Kebijaksanaan, Pengertian, Nasihat, Keperkasaan, Pengetahuan, Kesalehan, Takut akan Tuhan - Yes 11:1-2) untuk membantu hidup sesuai kehendak Allah (KGK 1303, 1831).
+
+---
+
+*   **Memberi Kekuatan Khusus untuk Bersaksi:** Memberi keberanian dan kemampuan untuk mewartakan Injil dengan perkataan dan perbuatan, serta membela iman (KGK 1303, 1316). Inilah sebabnya Krisma disebut "Sakramen Kesaksian".
+*   **Menganugerahkan "Meterai" Rohani yang Tak Terhapuskan:** Seperti Baptis, Krisma menerakan suatu "meterai" rohani (character) pada jiwa, tanda bahwa orang Kristen sepenuhnya menjadi milik Kristus dan dipanggil untuk melayani-Nya (KGK 1293, 1304-1305, 1317). Meterai ini bersifat kekal.
+
+---
+
+## 4.  **Pelayan Sakramen:**
+
+*   **Pelayan Biasa (Asli):** **Uskup** (KGK 1312-1313). Hal ini menekankan:
+    *   Keterkaitan penerima dengan Gereja universal dan apostolik (suksesi apostolik).
+    *   Kesatuan umat beriman di keuskupan.
+    *   Pentingnya sakramen ini bagi kehidupan Gereja.
+
+---
+
+*   **Seorang Imam** dapat menjadi pelayan yang sah jika:
+    *   Ia membaptis seorang yang sudah dewasa atau menerimanya ke dalam persekutuan penuh Gereja Katolik (memberikan ketiga sakramen inisiasi sekaligus) (KGK 1312).
+    *   Ia mendapat delegasi khusus dari Uskup (misalnya, karena jumlah besar penerima, kejauhan, atau keadaan khusus/darurat) (KGK 1313). Namun, Uskup tetap diharapkan merayakan sendiri sebisa mungkin.
+
+---
+
+## 5.  **Penerima Sakramen:**
+*   **Setiap Orang Katolik yang Telah Dibaptis** dan belum menerima Krisma (KGK 1306).
+*   **Persiapan:** Harus berada dalam **"keadaan rahmat"** (bebas dari dosa berat) dan **mempersiapkan diri** secara rohani, biasanya melalui katekese (pendalaman iman) (KGK 1309, 1310).
+
+---
+
+*   **Usia:** Tradisi Latin biasanya menerimakan pada "**usia akal budi**" (sekitar remaja), setelah penerima mencapai pemahaman yang cukup dan dapat secara pribadi memperbarui janji baptisnya (KGK 1307-1308). Ini menekankan tanggung jawab pribadi. Orang dewasa yang belum menerima juga harus menerimanya.
+
+---
+
+*   **Sponsor (Wali Krisma):** Seharusnya ada satu sponsor (KGK 1311). Idealnya sponsor baptis yang sama, untuk menekankan kesatuan sakramen inisiasi. Sponsor harus memenuhi syarat (Katolik yang telah menerima Krisma, hidup sesuai iman, bukan orang tua penerima) (KGK 1311).
+
+---
+
+## 6.  **Hubungan dengan Sakramen Lain:**
+
+---
+
+*   **Baptis:** Krisma **melengkapi** rahmat Baptis. Baptis adalah kelahiran baru dalam Roh, Krisma adalah pencurahan Roh yang penuh dan kuat (KGK 1285, 1302-1303). Keduanya menerakan "meterai" rohani yang tak terhapuskan (KGK 1296).
+
+---
+
+*   **Ekaristi:** Ketiga sakramen inisiasi mencapai puncaknya dalam **Ekaristi**, sumber dan puncak seluruh hidup kristiani (KGK 1322, 1324). Ekaristi memberi santapan untuk hidup yang telah dimulai dalam Baptis dan diteguhkan dalam Krisma.
+
+---
+
+**Kutipan Kunci KGK:**
+
+---
+
+*   *"Sakramen Penguatan menggenapkan rahmat Pembaptisan."* (KGK 1316)
+
+---
+
+*   *"Dengan Sakramen Penguatan [orang beriman] lebih diteguhkan dalam hubungan mereka dengan Gereja dan diperkaya dengan kekuatan Roh Kudus yang khusus; dengan demikian mereka lebih diwajibkan untuk menyebarluaskan dan membela iman dengan perkataan dan perbuatan sebagai saksi-saksi Kristus yang sejati."* (KGK 1285)
+
+---
+
+*   *"Sakramen Penguatan memberikan meterai Roh Kudus yang tak terhapuskan."* (KGK 1304)
+*   *"Pelayan asli Sakramen Penguatan adalah Uskup."* (KGK 1313)
+
+---
+
+## **Kesimpulan (Berdasar KGK):**
+
+---
+
+Sakramen Krisma adalah **pencurahan Roh Kudus secara khusus** yang diberikan oleh Gereja melalui pelayanan Uskup (atau imam yang didelegasikan). Sakramen ini **menyempurnakan rahmat Pembaptis**, **menguatkan** orang beriman dalam iman mereka, **menerakan meterai rohani** yang kekal, **menganugerahkan karunia-karunia Roh Kudus**, dan **mengutus** mereka untuk menjadi **saksi Kristus yang berani** di tengah dunia. Ini merupakan langkah penting menuju kedewasaan iman dan partisipasi penuh dalam perutusan Gereja.
+
+---
+
 ### **Slide 6: Sakramen Ekaristi (KGK 1322-1419)**
 - **Materi:** Roti gandum & Anggur.
 - **Forma:** Jako Konsekrasi ari Paderi: "Tu Tubuh-Ku... Tu Darah-Ku..."
