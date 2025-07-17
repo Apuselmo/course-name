@@ -332,6 +332,9 @@ Lebih dari itu, sejak Gereja Kristen diakui sebagai agama resmi dari negara, men
 
 *   **Mencurahkan Roh Kudus secara Khusus:** Seperti pada hari Pentakosta, menguatkan dan menuntun penerima dalam seluruh hidupnya (KGK 1302, 1316).
 *   **Mengakar Lebih Dalam dalam Keallahan:** Memperdalam hidup sebagai anak Allah yang dimulai dalam Baptis (KGK 1303).
+
+---
+
 *   **Mempererat Ikatan dengan Gereja:** Menyempurnakan ikatan dengan Gereja yang dimulai dalam Baptis (KGK 1303).
 *   **Menganugerahkan Tujuh Karunia Roh Kudus:** (Kebijaksanaan, Pengertian, Nasihat, Keperkasaan, Pengetahuan, Kesalehan, Takut akan Tuhan - Yes 11:1-2) untuk membantu hidup sesuai kehendak Allah (KGK 1303, 1831).
 
