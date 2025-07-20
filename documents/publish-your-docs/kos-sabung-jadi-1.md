@@ -55,6 +55,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
   - Peran paderi, katekis, dan tim persiapan pernikahan paroki.
 
 ---
+
 ### **Sesi 2: Perkawinan Sipil vs. Sakramental & Refleksi Pribadi**
 #### **A. Perbedaan Mendasar**
 | **Aspek**               | **Perkawinan Sipil**          | **Perkawinan Katolik**               |
@@ -65,6 +66,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
 | **Keabsahan**           | Dicatat negara                | **Pemberkatan imam/saksi resmi**     |
 | **Pembubaran**          | Dapat bercerai                | **Tidak terceraikan** (Mat 19:6)     |
 
+
 #### **B. Refleksi Kritis**
 1. **Pertanyaan Panduan**:
    - *“Mengapa memilih perkawinan Katolik, bukan hanya sipil?”*
@@ -74,6 +76,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
 2. **Kegiatan Interaktif**:
    - **Sharing Berpasangan**:
      Setiap pasangan berdiskusi tentang alasan pribadi memilih sakramen perkawinan, lalu mempresentasikan poin utamanya.
+
    - **Studi Kasus**:
      *“Asep-Yuni menikah secara sipil 5 tahun lalu. Kini mereka ingin mendapat berkat Gereja. Apa yang harus dilakukan?”*
      *(Jawaban: Perlu konvalidasi/pernikahan ulang secara Katolik)*.
@@ -84,6 +87,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
 1. **Media Visual**:
    - Diagram "Struktur Sakramen Perkawinan": Panggilan Allah - Janji Pasangan - Rahmat Sakramental.
    - Video pendek kesaksian pasangan Katolik (contoh: tantangan hidup setelah pemberkatan sakramen).
+
 2. **Bahan Bacaan**:
    - *Katekismus Gereja Katolik* (KGK 1601-1666) tentang makna sakramen.
    - Brosur *“Mengapa Gereja Melarang Perceraian?”* dari komisi keluarga Keuskupan.
