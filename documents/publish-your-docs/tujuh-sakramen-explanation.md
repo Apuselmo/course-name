@@ -106,7 +106,7 @@ Kalau kita meneliti Kitab Suci Perjanjian Baru (PB) maka kita akan menemukan ken
 
 ---
 
-Tapi ahli sejarah Gereja berpendapat bahwa kemungkinan besar seorang calon permandian berdiri di air sungai atau di sebuah kolam umum, dan kemudian air dituangkan ke atas kepalanya, sambil ditanyakan kepadanya: Apakah saudara (saudari) percaya kepada Allah Bapa? Apakah saudara percaya akan Allah Putera, yaitu Yesus Kristus? Apakah saudara percaya akan Allah Roh Kudus? Setiap kali calon menjawab "ya" atas masing-masing pertanyaan itu, ia ditenggelamkan (dicelupkan ) ke dalam air sebanyak tiga kali juga.
+Tapi ahli sejarah Gereja berpendapat bahwa kemungkinan besar seorang calon permandian berdiri di air sungai atau di sebuah kolam umum, dan kemudian **air dituangkan ke atas kepalanya**, sambil ditanyakan kepadanya: Apakah saudara (saudari) percaya kepada Allah Bapa? Apakah saudara percaya akan Allah Putera, yaitu Yesus Kristus? Apakah saudara percaya akan Allah Roh Kudus? Setiap kali calon menjawab "ya" atas masing-masing pertanyaan itu, ia ditenggelamkan (dicelupkan ) ke dalam air sebanyak tiga kali juga.
 
 ---
 
