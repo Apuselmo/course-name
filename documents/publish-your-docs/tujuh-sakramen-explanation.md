@@ -86,7 +86,7 @@ Dalam bab pertama Injil Markus, seperti telah diramalkan Nabi Yesaya, Yohanes Pe
 
 ---
 
-Kata pembaptisan sendiri berasal dari kata Yunani "bapizo" yang berarti "membasuh atau mencelupkan atau menenggelamkan"
+Kata pembaptisan sendiri berasal dari kata Yunani "baptizo" yang berarti "membasuh atau mencelupkan atau menenggelamkan"
 
 ---
 
