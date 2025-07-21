@@ -11,7 +11,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
 #### **A. Konsep Dasar**
 1. **Perkawinan sebagai Panggilan (Vokasi)**:
    - **Penjelasan**:
-     - Perkawinan bukan hanya pilihan sosial, tetapi **jawaban atas panggilan Allah** untuk membangun "Gereja mini".
+     - Perkawinan bukan hanya *pilihan sosial*, tetapi **jawaban atas panggilan Allah** untuk membangun "Gereja mini".
      - Analogi: Seperti panggilan menjadi imam/biarawan(a), tapi dijalani dalam hidup berkeluarga (bdk. *Gaudium et Spes* 48).
    - **Diskusi**:
      > *“Apa arti ‘panggilan’ bagi kalian? Bagaimana kalian merasakan Allah memanggil kalian untuk menikah?”*
