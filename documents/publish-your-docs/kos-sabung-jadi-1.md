@@ -9,7 +9,7 @@ Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedak
 
 ---
 
-PENDAHULU PASAL PERKAWINAN KATOLIK**
+**PENDAHULU PASAL PERKAWINAN KATOLIK**
 #### **Tuju Besai**:
 Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka enggau perkawinan sitil.
 
