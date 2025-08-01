@@ -19,9 +19,9 @@ Kitai arap ke diri empu amat amat arap Allah Taala siko aja."Arap" saut mensia n
 Anonymous
 Untuk mengenal dan mengasihi Allah Taala, untuk melakukan yang baik sesuai kehendak-Nya, dan untuk kembali ke syurga, suatu hari nanti.
 Anonymous
- Pengarap maksud kepercayaan tauka pengarap kitai ngagai Tuhan (Allah Taala) enggau Jesus Kristus TI nyelamat kitai. Pengarap mega nanda ke pengandal kitai ke pengasih, janji enggau penyelamat Tuhan melalui anak ya Jesus Kristus. Taja ya nadai di peda mata tang kitai ulih ngasai nimet dalam ati.   
+ Pengarap maksud kepercayaan tauka pengarap kitai ngagai Tuhan (Allah Taala) enggau Jesus Kristus TI nyelamat kitai. Pengarap mega nanda ke pengandal kitai ke pengasih, janji enggau penyelamat Tuhan melalui anak ya Jesus Kristus. Taja ya nadai di peda mata tang kitai ulih ngasai nimet dalam ati.
 Anonymous
-Ba penemu aku pengarap bermaksud bisi utai ti dipigai enggau penemu diri. Pia mega pengarap bermaksud utai ti dipecaya kitai,enggau nya kitai mansang ke depan ketetal arap serta ngasi. Bisi pengarap,kitai ngiga Petara nengah sampi ke udah ditemu/dipecaya kitai nya tadi. Mensia ulih arap, sida ulih ngasai ke pengasi dalam pengidup sida. Ambi contoh,aku arap ke Tuhan,nyadi aku nyerah semua fikir,runding termasuk nyawa serta semangat aku ngagai Tuhan.Laban aku percaya ya penyelamat aku sampai aku mati. Jika dibanding enggau orang enda pecaya enggau Petara,sida nyalah ke orang tauka 'Petara' ketegal penusah ti diasai sida. 
+Ba penemu aku pengarap bermaksud bisi utai ti dipigai enggau penemu diri. Pia mega pengarap bermaksud utai ti dipecaya kitai,enggau nya kitai mansang ke depan ketetal arap serta ngasi. Bisi pengarap,kitai ngiga Petara nengah sampi ke udah ditemu/dipecaya kitai nya tadi. Mensia ulih arap, sida ulih ngasai ke pengasi dalam pengidup sida. Ambi contoh,aku arap ke Tuhan,nyadi aku nyerah semua fikir,runding termasuk nyawa serta semangat aku ngagai Tuhan.Laban aku percaya ya penyelamat aku sampai aku mati. Jika dibanding enggau orang enda pecaya enggau Petara,sida nyalah ke orang tauka 'Petara' ketegal penusah ti diasai sida.
 Anonymous
 Nerima Jesus nyadi ka juru selamat. Iya nyadi mesia oleh kuasa Roh Kudus ( 3 OKNUM ia: Apai, Anak enggau Roh kudus.
 Anonymous
@@ -39,11 +39,11 @@ Tuju sakramen basu pala ngambika ulih nguduska mensia lalu bulih Nimet sereta pe
 Anonymous
 Sakramen tu numpuka ke sida deka dibaso pala ngambika sida udah nemu serta bersedia ka nyadi org Kristian Roman katolik ti amat. Sida Empai ulih nitihka urutan atur pengawa ari pun sampai ke ujung.
 Anonymous
-1.Meri pengasi serta enggau nimet awak ka nyadi ka tanda ka di terima enggau ati terbuka ngambi ka nyadi pengering enggau pengandal.  2.urutan pasal spiritual kena ngering ke diri empu pasal rohani ke enda nya, ngikat agi rapist enggau kaul gereja serta ngering ke diri nyadi saksi kristus.  
+1.Meri pengasi serta enggau nimet awak ka nyadi ka tanda ka di terima enggau ati terbuka ngambi ka nyadi pengering enggau pengandal.  2.urutan pasal spiritual kena ngering ke diri empu pasal rohani ke enda nya, ngikat agi rapist enggau kaul gereja serta ngering ke diri nyadi saksi kristus.
 Anonymous
 Ngajar pasal pengarap kitai orang Katolik ke Tuhan sereta cara besembiang ti betul.
 Anonymous
-1- Sampi- Apai Kami, Tabi Maria, ngaku pengarap, mulia ka enggau nesal ati.  - milih nama org sante ti engkeman, - Penjamin ti manah peniau  
+1- Sampi- Apai Kami, Tabi Maria, ngaku pengarap, mulia ka enggau nesal ati.  - milih nama org sante ti engkeman, - Penjamin ti manah peniau
 Anonymous
 1) Pasal Pemendar / atur Katolik   2)Utai ke empai ulih dimeretika aku pasal Basu Pala : a) Pemandang  b) Identiti Allah Taala - tuju semua utai (penerang penemu mensia)   **nama kebuah kitai bisi sekat penemu??**
 Anonymous
@@ -53,7 +53,7 @@ Sakramen Basu Pala nya mega ti dikumbai PINTU segala sakramen tauka dasar prasya
 Anonymous
 Nama utai ke ka amat serta ditekankan pasal sakramen Basu Pala ngagai bala ke ka Basu pala ianya pasal  1. tuju kitai Kristian Basu Pala 2. nama kebuah perlu belajar sebedau Basu Pala 3. nama nimet ke ulih ari sakramen Basu Pala 4. Udh nerima sakramen Basu Pala, nama gik patut dikerja sida   Nama utai ti empai ulih dimeretika pasal sakramen Basu Pala ianya setiap atur atau tusun  Ari Mula Basu Pala sampai sida Basu Pala...
 Anonymous
-- pasal kebuah urang Kristian perlu masu pala, lalu chara serta utai ke perlu disebut serta disedia - sapa, bakani tauka kemaya urang ulih masu pala - lalu nama nimet ke diulih ari basu pala - pasal sejarah asal kebuah urang Katolik perlu basu pala, ngambi semua nemu serta mereti ke tuju iya 
+- pasal kebuah urang Kristian perlu masu pala, lalu chara serta utai ke perlu disebut serta disedia - sapa, bakani tauka kemaya urang ulih masu pala - lalu nama nimet ke diulih ari basu pala - pasal sejarah asal kebuah urang Katolik perlu basu pala, ngambi semua nemu serta mereti ke tuju iya
 Anonymous
 Pasal nimet/ cara/ sejarah terdahulu sakramen basu pala sebagai pengukuhan dan penguatan spiritual dalam pengarap.
 Anonymous
