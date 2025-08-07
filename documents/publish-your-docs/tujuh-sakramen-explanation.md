@@ -456,7 +456,7 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 
 **2. Ekaristi Baka Jesus Ti Nyata Dia:**
 *   **Inti pengarap Katolik:** "Dalam Ekaristi ti Maha Kudus, **bisi tulih** tubuh, darah, samengat enggau pengerindu Allah Taala Tuhan kitai Jesus Kristus" (KGK 1374).
-*   **Pengubah Ti Amat (Transubstansiasi):** Roti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
+*   **Pengubah Ti Amat (Transubstansiasi):** Ruti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
 *   **Ngemesa:** "Laban Jesus **nyata dia**, alit amai kitai besembah ba iya... Tabernakel patut diletak di gereja baka ti patut, ngansak kitai besembah" (KGK 1378-1379).
 
 **3. Ekaristi Baka Korban:**
@@ -466,8 +466,8 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 
 **4. Ekaristi Baka Pemakai Rohani (Komuni):**
 *   **Makai Ati:** "Tuju Ekaristi ukai ngampun dosa, tang **ngerakupka kitai enggau Kristus**" (KGK 1394). Komuni Kudus **ngeruat** pengerindu kitai enggau ngelesap dosa mit (KGK 1394).
-*   **Nginchang Gereja:** "Sapa ti nyambut Tubuh Kristus, iya **diubah** nyadi baka iya." (KGK 1396). Ekaristi **ngeratka** serakup kitai enggau semua iku Gereja (KGK 1397).
-*   **Bekur Pengidup Meruan:** Ekaristi meh **"bekur"** pengidup selama-lama (KGK 1419). Iya **ngeringka** kitai ba perjalan ngu ke serega.
+*   **Nginchang Gereja:** "Sapa ti nyambut Tubuh Kristus, iya **diubah** nyadi baka iya." (KGK 1396). Ekaristi **ngeratka/ngerapitka** serakup kitai enggau semua nembiak Gereja (KGK 1397).
+*   **Bekur Pengidup Meruan:** Ekaristi meh **"bekur"** pengidup selama-lama (KGK 1419). Iya **ngeringka** kitai ba pejalai nuju ke serega.
 
 **5. Gawa Ekaristi:**
 *   **Tusun Misa Kudus:** Liturgi Jaku (macha Surat Kudus, jaku pesan, sampi umat) enggau Liturgi Ekaristi (nyedia persembah, Doa Syukur Agung, Komuni) (KGK 1346-1347).
@@ -485,7 +485,7 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
     (KGK 1391-1395)
 
 **Jaku Penutup ari KGK:**
-> **"Ekaristi nya 'pemakai Paska', ti dalam iya Kristus Empu **diibun**, ati **dibri** pengerindu, lalu **dijamin** pengidup meruan"** (KGK 1323).
+> **"Ekaristi nya 'pemakai Paska', ti dalam iya Kristus Empu **diibun**, ati **dibri** pengerindu, lalu **dijaminka** pengidup meruan"** (KGK 1323).
 
 **Inti Eukaristia:**
 1.  Jesus **nyata dia** dalam Ekaristi
