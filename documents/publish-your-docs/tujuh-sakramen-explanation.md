@@ -441,13 +441,14 @@ Sakramen Krisma adalah **pencurahan Roh Kudus secara khusus** yang diberikan ole
 Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau pungkak samua pengidup kristen"** (KGK 1324). Dalam Ekaristi, korban Jesus di regang **dibri baru** baka sakramen, lalu kitai nyambut Tubuh enggau Darah Jesus Empu nengah roti enggau anggor.
 
 ---
+
 **1. Nama Sakramen Tu:**
 *   **Ekaristi:** Datai ari jako Gerika *"eucharistein"* (meri terima kasih), nunjukka jako syukur Jesus ba Pemakai Besai (KGK 1328).
 
 ---
 
 *   **Pemakai Tuhan:** Nunjukka pemakai ti dikeraja Jesus enggau sida murid Iya (KGK 1329).
-*   **Ngerusak Roti:** Nama ti dipakai ba Gereja Dulu (Kis 2:42), nandakka kerja Jesus ti nyadi tanda Iya (KGK 1329).
+*   **Memecahka Ruti:** Nama ti dipakai ba Gereja Dulu (Kis 2:42), nandakka kerja Jesus ti nyadi tanda Iya (KGK 1329).
 *   **Gawa Ekaristi/Misa Kudus:** Nunjukka samoa gawa liturgy (KGK 1330).
 *   **Korban Kudus/Korban Misa:** Nekanka Ekaristi meh korban Jesus ti bendar (KGK 1330).
 *   **Nyambut Komuni Kudus:** Laban nengah sakramen tu, kitai **beserakup** enggau Jesus enggau semua orang arap (KGK 1331).
@@ -455,7 +456,7 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 
 **2. Ekaristi Baka Jesus Ti Nyata Dia:**
 *   **Inti Arap Katolik:** "Dalam Ekaristi ti Maha Kudus, **bisi tulih** tubuh, darah, samengat enggau pengerindu Allah Taala Tuhan kitai Jesus Kristus" (KGK 1374).
-*   **Pengubah Ti Bendar (Transubstansiasi):** Roti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
+*   **Pengubah Ti Amat (Transubstansiasi):** Roti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
 *   **Ngemesa:** "Laban Jesus **nyata dia**, alit amai kitai besembah ba iya... Tabernakel patut diletak di gereja baka ti patut, ngansak kitai besembah" (KGK 1378-1379).
 
 **3. Ekaristi Baka Korban:**
