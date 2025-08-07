@@ -433,12 +433,19 @@ Sakramen Krisma adalah **pencurahan Roh Kudus secara khusus** yang diberikan ole
 - **KGK Penting:** 1324, 1356-1372, 1407.
 
 ---
-**Sakramen Ekaristi: Pun enggau Pungkak Pengidup Kristen**
+
+**Sakramen Ekaristi: Pun enggau Pungkak/Puncak Pengidup Kristian**
+
+---
 
 Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau pungkak samua pengidup kristen"** (KGK 1324). Dalam Ekaristi, korban Jesus di regang **dibri baru** baka sakramen, lalu kitai nyambut Tubuh enggau Darah Jesus Empu nengah roti enggau anggor.
 
+---
 **1. Nama Sakramen Tu:**
-*   **Ekaristi:** Datai ari jako Greek *"eucharistein"* (meri terima kasih), nunjukka jako syukur Jesus ba Pemakai Besai (KGK 1328).
+*   **Ekaristi:** Datai ari jako Gerika *"eucharistein"* (meri terima kasih), nunjukka jako syukur Jesus ba Pemakai Besai (KGK 1328).
+
+---
+
 *   **Pemakai Tuhan:** Nunjukka pemakai ti dikeraja Jesus enggau sida murid Iya (KGK 1329).
 *   **Ngerusak Roti:** Nama ti dipakai ba Gereja Dulu (Kis 2:42), nandakka kerja Jesus ti nyadi tanda Iya (KGK 1329).
 *   **Gawa Ekaristi/Misa Kudus:** Nunjukka samoa gawa liturgy (KGK 1330).
