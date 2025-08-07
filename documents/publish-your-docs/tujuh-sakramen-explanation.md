@@ -422,11 +422,11 @@ Sakramen Krisma adalah **pencurahan Roh Kudus secara khusus** yang diberikan ole
 ---
 
 - **Nimet (Pengasi):**
-  - **Puncak Pengidup Kristen:** Ngikat kitai enggau Kristus.
-  - **Makai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.
+  - **Puncak Pengidup Kristian:** Nachang kitai enggau Kristus.
+  - **Pemakai Rohani:** Nguduska, ngelaban dosa, ngeringka pengerindu.
   - **Ngeringka Gereja:** Nunjukka & ngayanka pengelikun nembiak Allah Taala.
-  - **Jamin Pengidup Selama-lama:** Bekal pengidup ti meruan.
-- **Kristus Betul-betul Ada:** Roti & anggur betul-betul nyadi Tubuh & Darah Kristus (Transubstansiasi - KGK 1376).
+  - **Jamin Pengidup ti belama-lama:** Bekal pengidup ti meruan.
+- **Kristus amat bisi:** Ruti & anggur nyadi Tubuh & Darah Kristus ti amat (Transubstansiasi - KGK 1376).
 
 ---
 
@@ -455,22 +455,22 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 *   **Misa Kudus:** Laban gawa ti madahka misteri salamat, lalu **diabis** enggau ngirum kitai ngereja pesan Tuhan (*missio*) (KGK 1332).
 
 **2. Ekaristi Baka Jesus Ti Nyata Dia:**
-*   **Inti Arap Katolik:** "Dalam Ekaristi ti Maha Kudus, **bisi tulih** tubuh, darah, samengat enggau pengerindu Allah Taala Tuhan kitai Jesus Kristus" (KGK 1374).
+*   **Inti pengarap Katolik:** "Dalam Ekaristi ti Maha Kudus, **bisi tulih** tubuh, darah, samengat enggau pengerindu Allah Taala Tuhan kitai Jesus Kristus" (KGK 1374).
 *   **Pengubah Ti Amat (Transubstansiasi):** Roti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
 *   **Ngemesa:** "Laban Jesus **nyata dia**, alit amai kitai besembah ba iya... Tabernakel patut diletak di gereja baka ti patut, ngansak kitai besembah" (KGK 1378-1379).
 
 **3. Ekaristi Baka Korban:**
-*   **Korban Regang Ti Ditunjukka:** "Ekaristi meh korban laban iya **madahka** korban regang; laban iya **ngingatka**, lalu laban iya **ngasil** untung iya" (KGK 1366).
+*   **Kurban Regang Ti diayanka:** "Ekaristi meh korban laban iya **madahka** korban regang; laban iya **ngingatka**, lalu laban iya **ngasilka** penguntung iya" (KGK 1366).
 *   **Siti Aja Korban:** "Korban Kristus enggau korban Ekaristi **siti aja**" (KGK 1367). Misa ukai korban baru, tang **cara lain** madahka korban regang.
 *   **Korban Gereja:** "Dalam Ekaristi, korban Kristus **nyadi korban kitai** mega. Pengidup kitai, penyai, sampi, enggau pengawa **diserakup** enggau Kristus" (KGK 1368).
 
-**4. Ekaristi Baka Makai Rohani (Komuni):**
+**4. Ekaristi Baka Pemakai Rohani (Komuni):**
 *   **Makai Ati:** "Tuju Ekaristi ukai ngampun dosa, tang **ngerakupka kitai enggau Kristus**" (KGK 1394). Komuni Kudus **ngeruat** pengerindu kitai enggau ngelesap dosa mit (KGK 1394).
 *   **Nginchang Gereja:** "Sapa ti nyambut Tubuh Kristus, iya **diubah** nyadi baka iya." (KGK 1396). Ekaristi **ngeratka** serakup kitai enggau semua iku Gereja (KGK 1397).
 *   **Bekur Pengidup Meruan:** Ekaristi meh **"bekur"** pengidup selama-lama (KGK 1419). Iya **ngeringka** kitai ba perjalan ngu ke serega.
 
 **5. Gawa Ekaristi:**
-*   **Bagiian:** Liturgi Jaku (macha Surat Kudus, jaku pesan, sampi umat) enggau Liturgi Ekaristi (nyedia persembah, Doa Syukur Agung, Komuni) (KGK 1346-1347).
+*   **Tusun Misa Kudus:** Liturgi Jaku (macha Surat Kudus, jaku pesan, sampi umat) enggau Liturgi Ekaristi (nyedia persembah, Doa Syukur Agung, Komuni) (KGK 1346-1347).
 *   **Doa Syukur Agung:** Bagiian ti pemadu besai. Imam **muji** jako kudus, lalu roti enggau anggor **ditukar** nyadi Tubuh enggau Darah Kristus (KGK 1352-1354).
 *   **Pengaruh Imam:** **Imam aja** ti ditabis ulih ngatur gawa tu lalu muji jako konsekrasi *in persona Christi* (baka Jesus Empu) (KGK 1369, 1411).
 
