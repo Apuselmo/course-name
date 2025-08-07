@@ -442,41 +442,108 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 
 ---
 
-**1. Nama Sakramen Tu:**
+**1. Nama ti suah dipegunaka nyebut Sakramen tu:**
 *   **Ekaristi:** Datai ari jako Gerika *"eucharistein"* (meri terima kasih), nunjukka jako syukur Jesus ba Pemakai Besai (KGK 1328).
 
 ---
 
 *   **Pemakai Tuhan:** Nunjukka pemakai ti dikeraja Jesus enggau sida murid Iya (KGK 1329).
-*   **Memecahka Ruti:** Nama ti dipakai ba Gereja Dulu (Kis 2:42), nandakka kerja Jesus ti nyadi tanda Iya (KGK 1329).
+*   **Mecahka Ruti:** Nama ti dipakai ba Gereja Dulu (Kis 2:42), nandakka kerja Jesus ti nyadi tanda Iya (KGK 1329).
+
+---
+
 *   **Gawa Ekaristi/Misa Kudus:** Nunjukka samoa gawa liturgy (KGK 1330).
-*   **Korban Kudus/Korban Misa:** Nekanka Ekaristi meh korban Jesus ti bendar (KGK 1330).
+*   **Kurban Kudus/Kurban Misa:** Nekanka Ekaristi meh korban Jesus ti bendar (KGK 1330).
+
+---
+
 *   **Nyambut Komuni Kudus:** Laban nengah sakramen tu, kitai **beserakup** enggau Jesus enggau semua orang arap (KGK 1331).
 *   **Misa Kudus:** Laban gawa ti madahka misteri salamat, lalu **diabis** enggau ngirum kitai ngereja pesan Tuhan (*missio*) (KGK 1332).
 
+---
+
 **2. Ekaristi Baka Jesus Ti Nyata Dia:**
+
+---
+
 *   **Inti pengarap Katolik:** "Dalam Ekaristi ti Maha Kudus, **bisi tulih** tubuh, darah, samengat enggau pengerindu Allah Taala Tuhan kitai Jesus Kristus" (KGK 1374).
+
+---
+
 *   **Pengubah Ti Amat (Transubstansiasi):** Ruti enggau anggor **ditukar tulih** nyadi Tubuh enggau Darah Jesus. "Bentuk roti enggau anggor sigi enda berubah" (KGK 1376). Pengubah tu nyadi nengah kuasa Roh Kudus enggau jako Jesus ti **dijaku imam**.
+
+
+---
+
 *   **Ngemesa:** "Laban Jesus **nyata dia**, alit amai kitai besembah ba iya... Tabernakel patut diletak di gereja baka ti patut, ngansak kitai besembah" (KGK 1378-1379).
 
+---
+
 **3. Ekaristi Baka Korban:**
+
+---
+
 *   **Kurban Regang Ti diayanka:** "Ekaristi meh korban laban iya **madahka** korban regang; laban iya **ngingatka**, lalu laban iya **ngasilka** penguntung iya" (KGK 1366).
+
+---
+
 *   **Siti Aja Korban:** "Korban Kristus enggau korban Ekaristi **siti aja**" (KGK 1367). Misa ukai korban baru, tang **cara lain** madahka korban regang.
+
+---
+
 *   **Korban Gereja:** "Dalam Ekaristi, korban Kristus **nyadi korban kitai** mega. Pengidup kitai, penyai, sampi, enggau pengawa **diserakup** enggau Kristus" (KGK 1368).
 
+
+---
+
 **4. Ekaristi Baka Pemakai Rohani (Komuni):**
+
+---
+
 *   **Makai Ati:** "Tuju Ekaristi ukai ngampun dosa, tang **ngerakupka kitai enggau Kristus**" (KGK 1394). Komuni Kudus **ngeruat** pengerindu kitai enggau ngelesap dosa mit (KGK 1394).
+
+---
+
 *   **Nginchang Gereja:** "Sapa ti nyambut Tubuh Kristus, iya **diubah** nyadi baka iya." (KGK 1396). Ekaristi **ngeratka/ngerapitka** serakup kitai enggau semua nembiak Gereja (KGK 1397).
+
+---
+
 *   **Bekur Pengidup Meruan:** Ekaristi meh **"bekur"** pengidup selama-lama (KGK 1419). Iya **ngeringka** kitai ba pejalai nuju ke serega.
 
+---
+
 **5. Gawa Ekaristi:**
+
+
+---
+
 *   **Tusun Misa Kudus:** Liturgi Jaku (macha Surat Kudus, jaku pesan, sampi umat) enggau Liturgi Ekaristi (nyedia persembah, Doa Syukur Agung, Komuni) (KGK 1346-1347).
+
+---
+
 *   **Doa Syukur Agung:** Bagiian ti pemadu besai. Imam **muji** jako kudus, lalu roti enggau anggor **ditukar** nyadi Tubuh enggau Darah Kristus (KGK 1352-1354).
+
+
+---
+
 *   **Pengaruh Imam:** **Imam aja** ti ditabis ulih ngatur gawa tu lalu muji jako konsekrasi *in persona Christi* (baka Jesus Empu) (KGK 1369, 1411).
 
+
+---
+
 **6. Nyambut Komuni:**
+
+---
+
 *   **Diri:** "Orang ti ngasa diri bedosa besai, **enda patut** nyambut Komuni tunga enda bechara dulu" (KGK 1385). Ati ti **merening** amat penting.
+
+
+---
+
 *   **Pati:** Orang Katolik **kala** nyambut Komuni "paling mit setaun siti, ba hari Paska" (KGK 1389). Dianjuk **nyambut mit-mit** (KGK 1389).
+
+---
+
 *   **Penguntung/Asil:**
     - Ngerakupka kitai enggau Jesus
     - Ngelepas ari dosa
@@ -484,8 +551,12 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
     - Bekur pengidup meruan
     (KGK 1391-1395)
 
+---
+
 **Jaku Penutup ari KGK:**
 > **"Ekaristi nya 'pemakai Paska', ti dalam iya Kristus Empu **diibun**, ati **dibri** pengerindu, lalu **dijaminka** pengidup meruan"** (KGK 1323).
+
+---
 
 **Inti Eukaristia:**
 1.  Jesus **nyata dia** dalam Ekaristi
