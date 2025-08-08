@@ -434,11 +434,11 @@ Sakramen Krisma adalah **pencurahan Roh Kudus secara khusus** yang diberikan ole
 
 ---
 
-**Sakramen Ekaristi: Pun enggau Pungkak/Puncak Pengidup Kristian**
+**Sakramen Ekaristi: Pun enggau Puncak Pengidup Kristian**
 
 ---
 
-Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau pungkak samua pengidup kristen"** (KGK 1324). Dalam Ekaristi, korban Jesus di regang **dibri baru** baka sakramen, lalu kitai nyambut Tubuh enggau Darah Jesus Empu nengah roti enggau anggor.
+Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau puncak semua pengidup kristen"** (KGK 1324). Dalam Ekaristi, korban Jesus di regang **dibri baru** baka sakramen, lalu kitai nyambut Tubuh enggau Darah Jesus Empu nengah roti enggau anggor.
 
 ---
 
