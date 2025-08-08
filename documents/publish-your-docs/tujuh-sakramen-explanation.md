@@ -535,7 +535,7 @@ Ekaristi meh siti ari tujuh sakramen Gereja Katolik, lalu dikumbai **"pun enggau
 
 ---
 
-*   **Diri:** "Orang ti ngasa diri bedosa besai, **enda patut** nyambut Komuni tunga enda bechara dulu" (KGK 1385). Ati ti **merening** amat penting.
+*   **Diri:** "Orang ti ngasai diri bedosa besai, **enda patut** nyambut Komuni tunga enda bechara dulu" (KGK 1385). Ati ti **merening** amat penting.
 
 
 ---
