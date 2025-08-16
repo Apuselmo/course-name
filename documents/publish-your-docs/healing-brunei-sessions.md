@@ -146,21 +146,31 @@
 **Tema:** *"Menjadi Manusia Baru dalam Kristus: Transformasi Total"*
 
 ---
-#### **Slide 1: Judul**
-> **"Dari Victim to Victor: Kisah-Kisah Penyembuhan Batin dalam Iman Katolik"**
+#### **"Dari Victim to Victor: Kisah-Kisah Penyembuhan Batin dalam Iman Katolik"**
 > *"Oleh bilur-bilur-Nya kamu telah sembuh" (1 Petrus 2:24)*
-> *Visual:* Gambar kepompong jadi kupu-kupu + salib.
 
 ---
-#### **Slide 2: Model Penyembuhan Batin: Maria & Para Kudus**
+#### **Model Penyembuhan Batin: Maria & Para Kudus**
+
+---
 > - **Bunda Maria:**
 >   - Menyimpan *"segala perkara di dalam hatinya"* (Luk 2:51) → memproses luka dalam iman.
+
+---
+
 > - **St. Agustinus:**
 >   - *"Jantungku gelisah..."* → transformasi lewat penyerahan (Pengakuan VIII).
+
+---
+
 > - **St. Faustina:** Penyembuhan luka batin melalui devosi Kerahiman Ilahi.
 
 ---
-#### **Slide 3: Langkah Praktis Penyembuhan Batin**
+
+#### **Langkah Praktis Penyembuhan Batin**
+
+---
+
 > **"4R" Model:**
 > 1. **REVELATION** (Penyataan): Mintalah Roh Kudus tunjukkan akar luka (Mzm 139:23-24).
 > 2. **REPENTANCE** (Pertobatan): Lepaskan kepahitan, ampuni pelaku (Ef 4:31-32).
@@ -168,27 +178,53 @@
 > 4. **RESTORATION** (Pemulihan): Terima identitas baru sebagai "ciptaan baru" (2 Kor 5:17).
 
 ---
-#### **Slide 4: Ekaristi: Makanan untuk Perjalanan Penyembuhan**
+
+#### **Ekaristi: Makanan untuk Perjalanan Penyembuhan**
+
+---
+
 > - **Tubuh Kristus:** Penyembuhan melalui penyatuan intim dengan Tuhan (Yoh 6:56).
 > - **Darah Kristus:** Penyucian dari luka generasi (1 Pet 1:18-19).
 > *"Barangsiapa makan tubuh-Ku, ia akan hidup oleh-Ku" (Yoh 6:57)*
-> *Visual:* Gambar hosti + cahaya.
 
 ---
-#### **Slide 5: Alat Bantu Pendampingan**
+
+#### **Alat Bantu Pendampingan**
+
+---
+
 > - **Doa Inner Healing:**
 >   - *"Tuhan Yesus, jamahlah ingatan ini dengan kasih-Mu..."*
+
+---
+
 > - **Spiritual Journaling:** Lacak proses pemulihan (Hab 2:2).
+
+---
+
 > - **Pendampingan Rohani:** Konseling dengan romo/komunitas.
+
+---
+
 > - **Terapi Profesional:** Jika perlu (Sirakh 38:1-15).
 
 ---
-#### **Slide 6: Komitmen & Pengutusan**
+
+#### **Komitmen & Pengutusan**
+
+---
+
 > - **Pesan Penutup:**
 >   *"Penyembuhan bukan tentang melupakan luka, tapi tentang mengubahnya menjadi ladang rahmat" (Paus Fransiskus)*.
+
+---
+
 > - **Ajakan:**
 >   1. Jadwalkan **Sakramen Pengakuan** bulan ini.
 >   2. Praktikkan **"Examen Harian"** untuk deteksi luka batin.
+
+---
+
 > - **Doa:**
 >   *"Roh Kudus, sembuhkanlah ingatanku, jamahlah emosiku, pulihkan identitasku sebagai anak Allah. Amin."*
 
