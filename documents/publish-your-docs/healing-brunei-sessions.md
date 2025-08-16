@@ -36,13 +36,45 @@
 
 #### **Sakramen-Sakramen Penyembuhan**
 
-> | **Sakramen**         | **Bentuk Penyembuhan**                  | **Dasar Kitab Suci**       |
-> |----------------------|-----------------------------------------|----------------------------|
-> | **Pengakuan Dosa**   | Pemulihan relasi dengan Allah & sesama  | Yohanes 20:22-23           |
-> | **Pengurapan Orang Sakit** | Kekuatan fisik & spiritual          | Yakobus 5:14-15            |
-> | **Ekaristi**         | Penyatuan dengan Kristus, sumber hidup | Yohanes 6:54-55            |
+---
+
+### Sakramen Pengakuan Dosa (Ngaku Dosa)
+### Pemulihan Relasi dengan ALLAH dan SESAMA
+### Yohanes 20:22-23
 
 ---
+21Jesus lalu bejaku baru ngagai sida, "Awakka pemaik meruan enggau kita. Baka Apai ke udah ngirumka Aku, baka nya mega Aku ngirumka kita."
+
+22Lebuh Iya udah nyebut nya, Iya ngesuhka seput ngagai sida, lalu bejaku enggau sida "Terima meh Roh Kudus.
+
+23Enti kita ngampun dosa orang, orang nya diampun ari dosa sida. Enti kita enda ngampun dosa orang, sida enda diampun."
+
+---
+
+### Sakramen Pengurapan Orang Sakit (Ngunsut Orang ti Tabin)
+### Kekuatan Fisik dan Spiritual
+### Yakobus 5:14-15
+
+---
+
+"Enti siku kati nuan sakit? Iya patut ngangauka tuai rumah umai lalu sida nya deka bejalai ngagai iya, lalu ngidupka iya enggau minyak dalam nama Tuhan. Lalu sampi orang ke bepenemu deka nyelamatka orang ke sakit, lalu Tuhan deka ngangkatka iya. Kati iya udah ngereja dosa? Iya deka diampunka."
+
+---
+
+### Sakramen Ekaristi
+### Penyatuan dengan Kristus, Sumber Hidup
+### Yohanes 6:54-55
+
+---
+
+54 Orang ke makai tubuh Aku, lalu ngirup darah Aku, bisi pengidup ti meruan belama iya, lalu Aku deka ngangkatka sida ba hari ti penudi,
+
+55 laban tubuh Aku nya pemakai ti bendar, lalu darah Aku nya ai irup ti bendar.
+
+56 Orang ke makai tubuh Aku, lalu ngirup darah Aku, meruan dalam Aku, lalu Aku meruan dalam sida.
+
+---
+
 
 #### **Kuasa Rekonsiliasi: Membebaskan Hati yang Terbelenggu**
 
@@ -92,9 +124,6 @@
 
 ---
 
-> *Visual:* Gambar imam mengurapi dahi tangan orang sakit.
-
----
 
 #### **Refleksi & Sharing**
 > - *Pertanyaan:*
