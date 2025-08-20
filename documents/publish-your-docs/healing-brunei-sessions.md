@@ -158,6 +158,16 @@
 
 ---
 
+48 Lebuh apai indai Iya meda Iya, seduai iya balat alit ati, lalu ku indai Iya bejaku enggau Iya, "Anak, nama kebuah Nuan miaka kami duai apai nuan baka tu? Peda Nuan, kami duai apai Nuan udah irau ati begigaka Nuan."
+
+49 Iya lalu nyaut, "Nama kebuah seduai begigaka Aku? Kati seduai enda nemu Aku endang enda tau enda diau dalam rumah Apai Aku?"
+
+
+51 Iya lalu mupuk enggau seduai iya lalu datai di Nasaret. Iya ngasika seduai iya, lalu indai Iya nyimpan semua utai nya dalam ati diri.
+
+
+---
+
 > - **St. Agustinus:**
 >   - *"Jantungku gelisah..."* → transformasi lewat penyerahan (Pengakuan VIII).
 
@@ -171,14 +181,41 @@
 
 ---
 
-> **"4R" Model:**
+###  **"4R" Model:**
+
+---
+
 > 1. **REVELATION** (Penyataan): Mintalah Roh Kudus tunjukkan akar luka (Mzm 139:23-24).
+
+---
+
+> (23) Peresa meh aku, O Allah Taala, ngambika Nuan nemu ati aku. Uji meh ati aku, ngambika Nuan nemu runding aku. (24) Giga meh ulah ti jai dalam aku
+lalu iring aku niti jalai ti meruan belama iya.
+
+---
+
 > 2. **REPENTANCE** (Pertobatan): Lepaskan kepahitan, ampuni pelaku (Ef 4:31-32).
+
+---
+
+ > (31) Buai semua dengki, tebiat ngeransi, pengeringat, jaku laya, tebiat bejakuka orang, enggau semua ati ti begedi, (32) lalu nelap enggau pangan diri, siru enggau pangan diri, ngampun pangan diri, baka Allah Taala, dalam Kristus, ke udah ngampun kita.
+
+---
 > 3. **RENUNCIATION** (Pelepasan): Putuskan ikatan dosa dengan otoritas dalam nama Yesus (Luk 10:19).
+
+---
+
+> (19) Dinga kita! Aku udah meri kita kuasa ngindik ular enggau kala, sereta ngalahka kuasa munsuh, lalu nadai utai ulih ngemediska kita.
+
+---
+
 > 4. **RESTORATION** (Pemulihan): Terima identitas baru sebagai "ciptaan baru" (2 Kor 5:17).
 
 ---
 
+ > (17) Nya alai, enti orang nya dalam Kristus, iya nyadi mensia ti baru. Iya ke lama nadai agi, iya ke baru, udah datai!
+
+---
 #### **Ekaristi: Makanan untuk Perjalanan Penyembuhan**
 
 ---
@@ -195,6 +232,45 @@
 
 > - **Doa Inner Healing:**
 >   - *"Tuhan Yesus, jamahlah ingatan ini dengan kasih-Mu..."*
+
+---
+
+Tuhan Yesus, melalui kuasa Roh Kudus Hadirlah pada masa laluku. Sembuhkanlah segala luka dalam batinku yang pernah kualami
+
+---
+
+Luka karena kurang kasih dari orang tua dan sesama Luka karena pengkhianatan Luka karena penolakan
+
+---
+
+Luka karena pelecehan Luka karena penghinaan
+Biarlah dengan darah-Mu Kau jadikan aku utuh kembali
+
+---
+
+Semua hubungan persaudaraan yang sudah rusak dengan keluargaku maupun dengan saudaraku, sembuhkanlah ya Tuhan.
+
+---
+
+Dari segala ketakutan, kecemasan, kegelisahan, keputusasaan, sembuhkanlah aku.
+
+---
+
+Hadirlah Engkau ya Tuhan, supaya aku bisa mengampuni diriku sendiri, mengampuni sesamaku, mengampuni situasi yang menyakitkan.
+
+---
+
+Bantulah aku ya Tuhan, supaya aku tidak mengambil akar pahit yang ada dalam hidupku
+
+
+---
+
+ dan isilah hatiku dengan kasih-Mu hari ini. Terima kasih Tuhan dan berkatilah aku.
+
+---
+
+(Bapa Kami 1x, Salam Maria 3x)
+Dalam nama Bapa dan Putra dan Roh Kudus. Amin .
 
 ---
 
