@@ -65,12 +65,13 @@ Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka en
      *"Seperti Ekaristi yang mengubah roti menjadi Tubuh Kristus, sakramen perkawinan mengubah cinta manusiawi menjadi cinta ilahi."*
 
 ---
+
 - **Peda**:
      *"Baka Ekaristi ti ngubah roti nyadi Tubuh Kristus, sakramen perkawinan ngubah pengerindu mensia nyadi peringai Allah."*
 
 ---
 
-#### **B. Dasar Kitab Suci**
+#### **B. Dasar Kitab Suci
 
 ---
 
@@ -86,31 +87,31 @@ Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka en
 
 ---
 
-   - **Poin Refleksi**:
-     - **Kesetaraan**: Perempuan diciptakan sebagai "penolong yang sepadan".
-     - **Kesatuan**: "Menjadi satu daging" = totalitas pemberian diri.
-     - **Tujuan Ilahi**: "Allah melihat bahwa tidak baik manusia itu seorang diri".
+- **Poin Refleksi**:
+- **Kesetaraan**: Perempuan diciptakan sebagai "penolong yang sepadan".
+- **Kesatuan**: "Menjadi satu daging" = totalitas pemberian diri.
+- **Tujuan Ilahi**: "Allah melihat bahwa tidak baik manusia itu seorang diri".
 
 ---
 
  **Utai ti patut dirundingka**:
-     - **Sama darjat**: Lelaki bini digaga baka "tulung ti sebaka".
-     - **Sapuk**: "Nyadi satu tubuh" = pemberian ati ti penuh.
-     - **Tuju Allah**: "Allah meda nadai manah mensia diau sendirian".
+- **Sama darjat**: Lelaki bini digaga baka "tulung ti sebaka".
+- **Sapuk**: "Nyadi satu tubuh" = pemberian ati ti penuh.
+- **Tuju Allah**: "Allah meda nadai manah mensia diau sendirian".
 
 ---
 
 2. **Efesus 5:21-33** ("Hai suami, kasihilah istrimu...")
-   - **Poin Refleksi**:
-     - **Cinta Kristiani**: Cinta yang rela berkorban (ay. 25), bukan sekadar perasaan.
-     - **Relasi Kristus-Gereja**: Model relasi suami-istri (ay. 32).
+- **Poin Refleksi**:
+- **Cinta Kristiani**: Cinta yang rela berkorban (ay. 25), bukan sekadar perasaan.
+- **Relasi Kristus-Gereja**: Model relasi suami-istri (ay. 32).
 
 ---
 
 2. **Epesus 5:21-33** ("Weh lelaki, rinduka bini kita...")
-   - **Peta Ati**:
-     - **Pengerindu Kristian**: Pengerindu: dekaka meri diri empu (ay. 25), ukai semina pengelantang ati.
-     - **Kaul Kristus-Gereja**: Contoh sapuk lelaki-bini (ay. 32).
+- **Peta Ati**:
+- **Pengerindu Kristian**: Pengerindu: dekaka meri diri empu (ay. 25), ukai semina pengelantang ati.
+- **Kaul Kristus-Gereja**: Contoh sapuk lelaki-bini (ay. 32).
 
 ---
 
