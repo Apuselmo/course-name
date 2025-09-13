@@ -1,6 +1,7 @@
 ## PENGIDUP TUAI SEMBIANG: Pemimpin Rohani dalam Gereja Katolik
 
-``` Kos Tuai Sembiang - St. Francis Xavier Parish - Kanowit - 13/10/2025
+
+Kos Tuai Sembiang - St. Francis Xavier Parish - Kanowit - 13/10/2025
 
 ---
 
