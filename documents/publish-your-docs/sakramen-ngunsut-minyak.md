@@ -63,6 +63,9 @@ Sakramen ini memberikan rahmat yang kaya dan beragam:
 1. Persatuan dengan Sengsara Kristus: Memberi kekuatan, kedamaian, dan keberanian untuk menanggung penderitaan.
    KGK 1521: "Sakramen ini memberikan rahmat Roh Kudus, sehingga orang sakit seluruhnya dipercayakan kepada kehendak Allah yang menyelamatkan dan menyembuhkan."
 2. Penguatan Iman terhadap Godaan dan Kuasa Maut: Menghibur orang yang sakit di saat ketakutan dan keraguan.
+
+---
+
 3. Pengampunan Dosa: Jika orang sakit tidak dapat menerima Sakramen Tobat, Pengurapan Orang Sakit mengampuni dosa-dosa.
    KGK 1520: "Pengurapan yang kudus menghapus dosa-dosa, ... jika orang sakit tidak dapat mengakuinya."
 4. Pemulihan Kesehatan Jasmani: Jika hal itu berguna untuk keselamatan jiwanya.
