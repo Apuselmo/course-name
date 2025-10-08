@@ -46,7 +46,7 @@ Sakramen ini diinstitusikan (ditetapkan) langsung oleh Kristus.
 
 ---
 
-· KGK 1456: Pengakuan kepada imam merupakan bagian hakiki dari Sakramen Tobat.
+· *KGK 1456*: Pengakuan kepada imam merupakan bagian hakiki dari Sakramen Tobat.
 
 ---
 
