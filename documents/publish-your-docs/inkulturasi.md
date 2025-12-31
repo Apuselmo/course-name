@@ -32,6 +32,7 @@ Dari kata kerja ini berasal kata benda **cultura** (=pengusahaan, penanaman, tan
 ---
 
 Maka **“inculturatio”** secara harafiah berarti **“penyisipan ke dalam suatu kebudayaan”**.
+Inilah yang dimaksudkan dengan Inkulturasi.
 
 ---
 
