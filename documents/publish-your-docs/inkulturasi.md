@@ -85,7 +85,7 @@ Sebab yang dimaksud dengan **‘inkulturasi’** ialah proses yang dengannya **G
 
 ---
 
-Kekristenan lahir dalam lingkungan budaya Yahudi.
+Kekristenan lahir dalam lingkungan budaya Yahudi. Sebab Jesus dan para murid pertama adalah kumpulan orang dengan latar belakang dan budaya Yahudi.
 
 ---
 

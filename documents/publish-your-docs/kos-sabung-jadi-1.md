@@ -31,7 +31,7 @@ Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka en
 ---
 
 #### **A. Konsep Pemadu**
-1. **Perkawinan baka Panggil (Vokasi)**:
+1. **Perkawinan baka Kangau (Vokasi)**:
    - **Penerang**:
      - Perkawinan ukai semina pilih sosial, tang **nyaut panggil Allah** awakka ngaga "Gereja mit".
      - Baka: Baka panggil nyadi imam/raban-biar, tang ditunga dalam pengidup berumah (peda *Gaudium et Spes* 48).
