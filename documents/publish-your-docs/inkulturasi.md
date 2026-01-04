@@ -121,7 +121,7 @@ Dapat dipahami bahwa permenungan teologis sekitar hal ini belum sangat berkemban
 
 ---
 
-Tetapi Kis. 17:16-34 memberikan landasan teologis yang cukup jelas.
+Tetapi Kis. 17:16-34 memberikan landasan teologis yang cukup jelas. Bahwa banyak orang yang sedang dalam pencarian sebenarnya sedang terarah kepada Allah.
 
 ---
 
