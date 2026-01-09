@@ -13,7 +13,7 @@
 **Slide 2: Mengapa Harapan Adalah Kompas?**
 > - **Kompas** = Penunjuk arah dalam gelap, penjaga fokus pada tujuan.
 > - **Pengharapan (Spes)** = Kompas rohani yang menuntun kita kepada Kristus (Ibrani 6:19).
-> - *"Tanpa pengharapan, iman kehilangan arah" (Paus Fransiskus)*.
+> - *"Tanpa pengharapan, iman kehilangan arah" (Paus Fransiskus)*. Contoh
 
 ---
 
