@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+                "file": "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recolecction-sisters-sarawak-8-11-2025"
+              "title": "catechist-as-a-herald-of-hope"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+                "file": "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for recolecction-sisters-sarawak-8-11-2025"
+              "title": "Backlinks for catechist-as-a-herald-of-hope"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+                "file": "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recolecction-sisters-sarawak-8-11-2025"
+              "title": "Outgoing links from catechist-as-a-herald-of-hope"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+                "file": "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recolecction-sisters-sarawak-8-11-2025"
+              "title": "Outline of catechist-as-a-herald-of-hope"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31a19460d7bab340",
+  "active": "a0aa4a861523016f",
   "lastOpenFiles": [
-    "documents/publish-your-docs/healing-brunei-sessions.md",
-    "documents/publish-your-docs/kos-sabung-jadi-2.md",
-    "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
-    "Untitled.base",
-    "documents/publish-your-docs/bacaan-liturgis.md"
+    "Course/time-to-learn/openapi.md",
+    "Course/time-to-learn/markdown.md",
+    "Course/time-to-learn/interactive-blocks.md",
+    "Course/time-to-learn/integrations.md",
+    "Course/time-to-learn/images-and-media.md",
+    "Course/time-to-learn/editor.md",
+    "Course/time-to-learn/Talk Kenowit Youth.md",
+    "Course/time-to-learn",
+    "Course/documents/quickstart/pengantar-katekismus-introduction.md",
+    "Course/documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
+    "Course/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
+    "Course/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
+    "Course/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-3.md",
+    "Course/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-2.md",
+    "Course/documents/quickstart/README.md",
+    "Course/documents/publish-your-docs/tujuh-sakramen-explanation.md",
+    "Course/documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
+    "Course/documents/publish-your-docs/session-interview-for-kk-aohd.md",
+    "Course/documents/publish-your-docs/schema-spc-talk.md",
+    "Course/documents/publish-your-docs/saut-soalan-kelas-ccc.md",
+    "Course/documents/publish-your-docs/sakramen-ngunsut-minyak.md",
+    "Course/documents/publish-your-docs/sakramen-muai-penyalah.md",
+    "Course/documents/publish-your-docs/retreat-katekis-sibu-2025.md",
+    "Course/documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
+    "Course/documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+    "Course/documents/publish-your-docs/pengidup-tuai-sembiang.md",
+    "Course/documents/publish-your-docs/nyadi-lektor.md",
+    "Course/documents/publish-your-docs/compass2.jpg",
+    "Course/documents/publish-your-docs/compass.jpg",
+    "Course/documents/quickstart",
+    "Course/documents/publish-your-docs",
+    "Course/documents",
+    "Course/Untitled.base",
+    "Course/LICENSE",
+    "Course",
+    "Untitled.base"
   ]
 }
