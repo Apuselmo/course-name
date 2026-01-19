@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "129de43a2723f15a",
@@ -207,8 +207,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0bcca3d9a49d5c52",
+  "active": "7118810beadc8fd2",
   "lastOpenFiles": [
+    "mission/custody",
+    "mission/dos",
+    "mission",
+    "study/chinese/starting-chinese-learning.md.md",
+    "study/chinese",
+    "study",
     "documents/publish-your-docs/inkulturasi.md",
     "time-to-learn/images-and-media.md",
     "time-to-learn/interactive-blocks.md",
@@ -234,8 +240,6 @@
     "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-3.md",
     "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-2.md",
     "Github/documents/quickstart/README.md",
-    "Github/documents/publish-your-docs/tujuh-sakramen-explanation.md",
-    "Github/documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
     "Github/documents/publish-your-docs/compass2.jpg",
     "Github/documents/publish-your-docs/compass.jpg",
     "Github/documents/quickstart",
@@ -243,11 +247,7 @@
     "Github/documents",
     "Github/Untitled.base",
     "Github/LICENSE",
-    "Github",
-    "Course/time-to-learn",
     "Course/documents/publish-your-docs/compass2.jpg",
-    "Course/documents/publish-your-docs/compass.jpg",
-    "Course/documents/quickstart",
-    "Course/documents/publish-your-docs"
+    "Course/documents/publish-your-docs/compass.jpg"
   ]
 }
