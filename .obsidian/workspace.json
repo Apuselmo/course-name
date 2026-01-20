@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/bible/iban/Bible in Iban.md",
+                "file": "mission/dos/consecrated/Consecrated Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bible in Iban"
+              "title": "Consecrated Life"
             }
           }
         ]
@@ -209,11 +209,11 @@
   },
   "active": "7a2acd7b51acd18d",
   "lastOpenFiles": [
-    "study/bible/english/Bible in English.md",
     "study/bible/iban/Bible in Iban.md",
+    "study/bible/english/Bible in English.md",
     "study/bible/chinese/Bible in Chinese.md",
     "mission/dos/migrant/Migrant.md",
-    "mission/dos/consecrated/Consecrated.md",
+    "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/catechetical/Catechetical.md",
     "2026-01-20.md",
     "documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
