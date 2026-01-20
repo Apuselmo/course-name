@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "129de43a2723f15a",
@@ -204,7 +203,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bfe69b9d175d55ce",
+  "active": "a0aa4a861523016f",
   "lastOpenFiles": [
     "study/mandarin/starting-chinese-mandarin-learning.md.md",
     "documents/publish-your-docs/kos-sabung-jadi-2.md",
