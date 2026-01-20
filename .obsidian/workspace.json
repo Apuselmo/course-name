@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "716261fcfb1dfc81",
+        "id": "0722918c5213aae9",
         "type": "tabs",
         "children": [
           {
-            "id": "0bcca3d9a49d5c52",
+            "id": "bfe69b9d175d55ce",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "b9fdfef43afacc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mission/dos/social-commission.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "social-commission.md"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "129de43a2723f15a",
@@ -222,46 +204,47 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7118810beadc8fd2",
+  "active": "bfe69b9d175d55ce",
   "lastOpenFiles": [
-    "mission/dos/social-commission.md.md",
-    "mission/custody",
-    "mission/dos",
-    "mission",
-    "study/chinese/starting-chinese-learning.md.md",
-    "study/chinese",
-    "study",
-    "documents/publish-your-docs/inkulturasi.md",
-    "time-to-learn/images-and-media.md",
+    "study/mandarin/starting-chinese-mandarin-learning.md.md",
+    "documents/publish-your-docs/kos-sabung-jadi-2.md",
+    "documents/publish-your-docs/tujuh-sakramen-explanation.md",
+    "documents/publish-your-docs/session-interview-for-kk-aohd.md",
+    "documents/publish-your-docs/schema-spc-talk.md",
+    "documents/publish-your-docs/retreat-katekis-sibu-2025.md",
+    "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
+    "documents/publish-your-docs/README.md",
+    "documents/publish-your-docs/nyadi-lektor.md",
+    "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
+    "documents/publish-your-docs/compass.jpg",
+    "documents/publish-your-docs/bacaan-liturgis.md",
+    "mission/dos/social/social-commission.md.md",
+    "study/mandarin",
+    "study/bible/iban",
+    "study/bible/english",
+    "study/bible",
+    "mission/dos/various/Talk Kenowit Youth.md",
+    "mission/dos/various",
+    "mission/dos/migrant",
+    "mission/dos/consecrated",
+    "mission/dos/social",
+    "mission/dos/catechetical",
+    "time-to-learn/openapi.md",
+    "time-to-learn/markdown.md",
     "time-to-learn/interactive-blocks.md",
+    "time-to-learn/integrations.md",
+    "time-to-learn/images-and-media.md",
     "time-to-learn/editor.md",
+    "SUMMARY.md",
+    "README.md",
+    "mission/custody",
+    "documents/publish-your-docs/inkulturasi.md",
     "documents/publish-your-docs/jubili-pengharapan-compass-umat-beriman.md",
     "documents/publish-your-docs/hope-as-a-compass.md",
-    "SUMMARY.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
     "documents/publish-your-docs/kos-sabung-jadi-1.md",
-    "documents/publish-your-docs/catechist-as-a-herald-of-hope.md",
-    "Github/time-to-learn/openapi.md",
-    "Github/time-to-learn/markdown.md",
-    "Github/time-to-learn/interactive-blocks.md",
-    "Github/time-to-learn/integrations.md",
-    "Github/time-to-learn/images-and-media.md",
-    "Github/time-to-learn/editor.md",
-    "Github/time-to-learn/Talk Kenowit Youth.md",
-    "Github/time-to-learn",
-    "Github/documents/quickstart/pengantar-katekismus-introduction.md",
-    "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
-    "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
-    "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
-    "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-3.md",
-    "Github/documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2-artikel-2.md",
-    "Github/documents/quickstart/README.md",
     "Github/documents/publish-your-docs/compass2.jpg",
     "Github/documents/publish-your-docs/compass.jpg",
-    "Github/documents/quickstart",
-    "Github/documents/publish-your-docs",
-    "Github/documents",
-    "Github/Untitled.base",
     "Course/documents/publish-your-docs/compass2.jpg",
     "Course/documents/publish-your-docs/compass.jpg"
   ]
