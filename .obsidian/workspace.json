@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0722918c5213aae9",
+        "id": "49352db34598d68f",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe69b9d175d55ce",
+            "id": "7a2acd7b51acd18d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "time-to-learn/images-and-media.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "images-and-media"
+              "title": "New tab"
             }
           }
         ]
@@ -207,18 +203,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bfe69b9d175d55ce",
+  "active": "7a2acd7b51acd18d",
   "lastOpenFiles": [
+    "2026-01-20.md",
+    "documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
+    "documents/publish-your-docs/README.md",
+    "documents/publish-your-docs/nyadi-lektor.md",
+    "documents/publish-your-docs/jubili-pengharapan-compass-umat-beriman.md",
+    "documents/publish-your-docs/hope-as-the-compass-of-the-catechist.md",
+    "documents/publish-your-docs/healing-brunei-sessions.md",
+    "documents/publish-your-docs/compass2.jpg",
+    "documents/publish-your-docs/compass.jpg",
+    "README.md",
+    "SUMMARY.md",
+    "mission/dos/various/Talk Kenowit Youth.md",
+    "mission/dos/social/social-commission.md.md",
+    "mission/custody/documents-of-new-caps-ptk.md",
+    "time-to-learn/images-and-media.md",
     "time-to-learn/editor.md",
     "time-to-learn/openapi.md",
     "time-to-learn/interactive-blocks.md",
     "time-to-learn/integrations.md",
-    "mission/custody/documents-of-new-caps-ptk.md",
-    "mission/dos/various/Talk Kenowit Youth.md",
-    "mission/dos/social/social-commission.md.md",
     "time-to-learn/markdown.md",
-    "SUMMARY.md",
-    "README.md",
     "study/mandarin/starting-chinese-mandarin-learning.md.md",
     "documents/publish-your-docs/kos-sabung-jadi-2.md",
     "documents/publish-your-docs/tujuh-sakramen-explanation.md",
@@ -226,11 +232,7 @@
     "documents/publish-your-docs/schema-spc-talk.md",
     "documents/publish-your-docs/retreat-katekis-sibu-2025.md",
     "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
-    "documents/publish-your-docs/README.md",
-    "documents/publish-your-docs/nyadi-lektor.md",
     "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
-    "documents/publish-your-docs/compass.jpg",
-    "documents/publish-your-docs/bacaan-liturgis.md",
     "study/mandarin",
     "study/bible/iban",
     "study/bible/english",
@@ -240,12 +242,7 @@
     "mission/dos/consecrated",
     "mission/dos/social",
     "mission/dos/catechetical",
-    "time-to-learn/images-and-media.md",
     "mission/custody",
-    "documents/publish-your-docs/inkulturasi.md",
-    "documents/publish-your-docs/jubili-pengharapan-compass-umat-beriman.md",
-    "documents/publish-your-docs/hope-as-a-compass.md",
-    "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
     "Github/documents/publish-your-docs/compass2.jpg",
     "Github/documents/publish-your-docs/compass.jpg",
     "Course/documents/publish-your-docs/compass2.jpg",
