@@ -11,10 +11,14 @@
             "id": "7a2acd7b51acd18d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "study/bible/iban/Bible in Iban.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bible in Iban"
             }
           }
         ]
@@ -205,6 +209,12 @@
   },
   "active": "7a2acd7b51acd18d",
   "lastOpenFiles": [
+    "study/bible/english/Bible in English.md",
+    "study/bible/iban/Bible in Iban.md",
+    "study/bible/chinese/Bible in Chinese.md",
+    "mission/dos/migrant/Migrant.md",
+    "mission/dos/consecrated/Consecrated.md",
+    "mission/dos/catechetical/Catechetical.md",
     "2026-01-20.md",
     "documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
     "documents/publish-your-docs/README.md",
@@ -227,12 +237,6 @@
     "time-to-learn/markdown.md",
     "study/mandarin/starting-chinese-mandarin-learning.md.md",
     "documents/publish-your-docs/kos-sabung-jadi-2.md",
-    "documents/publish-your-docs/tujuh-sakramen-explanation.md",
-    "documents/publish-your-docs/session-interview-for-kk-aohd.md",
-    "documents/publish-your-docs/schema-spc-talk.md",
-    "documents/publish-your-docs/retreat-katekis-sibu-2025.md",
-    "documents/publish-your-docs/recolecction-sisters-sarawak-8-11-2025.md",
-    "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
     "study/mandarin",
     "study/bible/iban",
     "study/bible/english",
