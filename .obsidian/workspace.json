@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "49352db34598d68f",
+        "id": "8e3913b31ab61efc",
         "type": "tabs",
         "children": [
           {
-            "id": "7a2acd7b51acd18d",
+            "id": "3dbc3be034f2a174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ledger",
               "state": {
-                "file": "mission/dos/consecrated/Consecrated Life.md",
-                "mode": "source",
-                "source": false
+                "file": "transactions.ledger"
               },
-              "icon": "lucide-file",
-              "title": "Consecrated Life"
+              "icon": "ledger",
+              "title": "Ledger"
             }
           }
         ]
@@ -204,39 +202,40 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "7a2acd7b51acd18d",
+  "active": "3dbc3be034f2a174",
   "lastOpenFiles": [
+    "Ledger.md",
+    "transactions.ledger",
+    "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
+    "documents/publish-your-docs/saut-soalan-kelas-ccc.md",
+    "documents/publish-your-docs/sakramen-muai-penyalah.md",
+    "documents/publish-your-docs/README.md",
+    "documents/publish-your-docs/nyadi-lektor.md",
+    "documents/publish-your-docs/kos-sabung-jadi-1.md",
+    "documents/publish-your-docs/healing-brunei-sessions.md",
+    "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
+    "documents/publish-your-docs/bacaan-liturgis.md",
+    "mission/dos/consecrated/Consecrated Life.md",
+    "mission/dos/social/social-commission.md.md",
+    "mission/custody/documents-of-new-caps-ptk.md",
+    "documents/quickstart/README.md",
+    "documents/quickstart/pengantar-katekismus-introduction.md",
+    "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
+    "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
+    "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
+    "mission/dos/catechetical/Catechetical.md",
     "study/bible/iban/Bible in Iban.md",
     "study/bible/english/Bible in English.md",
     "study/bible/chinese/Bible in Chinese.md",
     "mission/dos/migrant/Migrant.md",
-    "mission/dos/consecrated/Consecrated Life.md",
-    "mission/dos/catechetical/Catechetical.md",
     "2026-01-20.md",
     "documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
-    "documents/publish-your-docs/README.md",
-    "documents/publish-your-docs/nyadi-lektor.md",
-    "documents/publish-your-docs/jubili-pengharapan-compass-umat-beriman.md",
-    "documents/publish-your-docs/hope-as-the-compass-of-the-catechist.md",
-    "documents/publish-your-docs/healing-brunei-sessions.md",
     "documents/publish-your-docs/compass2.jpg",
     "documents/publish-your-docs/compass.jpg",
-    "README.md",
-    "SUMMARY.md",
-    "mission/dos/various/Talk Kenowit Youth.md",
-    "mission/dos/social/social-commission.md.md",
-    "mission/custody/documents-of-new-caps-ptk.md",
-    "time-to-learn/images-and-media.md",
-    "time-to-learn/editor.md",
-    "time-to-learn/openapi.md",
-    "time-to-learn/interactive-blocks.md",
-    "time-to-learn/integrations.md",
-    "time-to-learn/markdown.md",
-    "study/mandarin/starting-chinese-mandarin-learning.md.md",
-    "documents/publish-your-docs/kos-sabung-jadi-2.md",
     "study/mandarin",
     "study/bible/iban",
     "study/bible/english",
@@ -246,7 +245,6 @@
     "mission/dos/consecrated",
     "mission/dos/social",
     "mission/dos/catechetical",
-    "mission/custody",
     "Github/documents/publish-your-docs/compass2.jpg",
     "Github/documents/publish-your-docs/compass.jpg",
     "Course/documents/publish-your-docs/compass2.jpg",
