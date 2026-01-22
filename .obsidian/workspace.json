@@ -18,8 +18,21 @@
               "icon": "ledger",
               "title": "Ledger"
             }
+          },
+          {
+            "id": "568c3d864571afd3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "3dbc3be034f2a174",
+  "active": "568c3d864571afd3",
   "lastOpenFiles": [
     "documents/publish-your-docs/README.md",
     "Multi Column.md",
