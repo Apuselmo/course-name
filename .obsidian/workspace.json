@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d607db0725eb9e6e",
+        "id": "1b3ebd92c5b97ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "8bfddc671d959fd8",
+            "id": "a8fd3ed6162a836c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -204,10 +204,11 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "8bfddc671d959fd8",
+  "active": "a8fd3ed6162a836c",
   "lastOpenFiles": [
-    "Ledger.md",
     "transactions.ledger",
+    "Untitled.md",
+    "Ledger.md",
     "documents/publish-your-docs/README.md",
     "Multi Column.md",
     "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
@@ -231,7 +232,6 @@
     "study/bible/english/Bible in English.md",
     "study/bible/chinese/Bible in Chinese.md",
     "mission/dos/migrant/Migrant.md",
-    "2026-01-20.md",
     "documents/publish-your-docs/compass2.jpg",
     "documents/publish-your-docs/compass.jpg",
     "study/mandarin",

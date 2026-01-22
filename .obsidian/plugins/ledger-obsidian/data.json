@@ -1,6 +1,6 @@
 {
   "tutorialIndex": -1,
-  "currencySymbol": "RM",
+  "currencySymbol": "",
   "ledgerFile": "transactions.ledger",
   "assetAccountsPrefix": "Assets",
   "expenseAccountsPrefix": "Expenses",
