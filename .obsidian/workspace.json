@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3913b31ab61efc",
+        "id": "d607db0725eb9e6e",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbc3be034f2a174",
+            "id": "8bfddc671d959fd8",
             "type": "leaf",
             "state": {
-              "type": "ledger",
-              "state": {
-                "file": "transactions.ledger"
-              },
-              "icon": "ledger",
-              "title": "Ledger"
-            }
-          },
-          {
-            "id": "568c3d864571afd3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,12 +204,12 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "568c3d864571afd3",
+  "active": "8bfddc671d959fd8",
   "lastOpenFiles": [
+    "Ledger.md",
+    "transactions.ledger",
     "documents/publish-your-docs/README.md",
     "Multi Column.md",
-    "transactions.ledger",
-    "Ledger.md",
     "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
     "documents/publish-your-docs/saut-soalan-kelas-ccc.md",
     "documents/publish-your-docs/sakramen-muai-penyalah.md",
