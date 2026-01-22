@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3ebd92c5b97ab1",
+        "id": "986ed8118a511945",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fd3ed6162a836c",
+            "id": "0075dd4567171045",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,10 +165,12 @@
             "id": "a0aa4a861523016f",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "ledger",
+              "state": {
+                "file": "transactions.ledger"
+              },
+              "icon": "ledger",
+              "title": "Ledger"
             }
           },
           {
@@ -182,13 +184,23 @@
               "icon": "lucide-info",
               "title": "File properties for inkulturasi"
             }
+          },
+          {
+            "id": "8cfdcba8c20e8266",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 866.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +216,7 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "a8fd3ed6162a836c",
+  "active": "0075dd4567171045",
   "lastOpenFiles": [
     "transactions.ledger",
     "Untitled.md",
