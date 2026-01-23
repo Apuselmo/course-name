@@ -5,11 +5,29 @@
 > 
 > **Memberships**
 > º OFMCap - Capuchin
+> - Fr. Raphael
+> - Fr. Francis
+> 
 > º Marist Brothers
+> - Br. Anthony Tey
+> 
 > º SSFS - Sisters of Franciscan Sarawak
-> º PKarm - Putri Karmel
+> - Sr. Perpetua (St. Marys)
+> - Sr. Susan Dulang (St. Marys)
+> - Sr. Diana Butau (Sarikei)
+> 
+> º PKarm - Putri Karmel`
+> - Sr. Augustine
+> - Sr. Zellie
+> - Sr. Tracy
+> 
 > º LSP - Sisters of the Poor
+> - Sr. Monica Chiu
+> - Sr. Jacqueline Chang
+> - Sr. Huang Min Jun
+> 
 > º Sisters of the Sacred Heart of Mary
+> - Sr. Theresa Chiu
 > 
 
 The celebration of World Day for Consecrated Life 2026
