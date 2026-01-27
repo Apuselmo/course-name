@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e3913b31ab61efc",
+        "id": "543e8b37773e61ff",
         "type": "tabs",
         "children": [
           {
-            "id": "3dbc3be034f2a174",
+            "id": "e22116f2f63c7cb1",
             "type": "leaf",
             "state": {
-              "type": "ledger",
+              "type": "markdown",
               "state": {
-                "file": "transactions.ledger"
+                "file": "mission/dos/consecrated/Consecrated Life.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "ledger",
-              "title": "Ledger"
+              "icon": "lucide-file",
+              "title": "Consecrated Life"
             }
           }
         ]
@@ -167,10 +169,12 @@
             "id": "a0aa4a861523016f",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "ledger",
+              "state": {
+                "file": "transactions.ledger"
+              },
+              "icon": "ledger",
+              "title": "Ledger"
             }
           },
           {
@@ -184,13 +188,23 @@
               "icon": "lucide-info",
               "title": "File properties for inkulturasi"
             }
+          },
+          {
+            "id": "8cfdcba8c20e8266",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 866.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +220,17 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "3dbc3be034f2a174",
+  "active": "e22116f2f63c7cb1",
   "lastOpenFiles": [
+    "mission/dos/catechetical/Catechetical.md",
+    "mission/dos/consecrated/Consecrated Life.md",
+    "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
     "documents/publish-your-docs/README.md",
-    "Multi Column.md",
+    "Untitled.base",
     "transactions.ledger",
+    "Untitled.md",
     "Ledger.md",
+    "Multi Column.md",
     "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
     "documents/publish-your-docs/saut-soalan-kelas-ccc.md",
     "documents/publish-your-docs/sakramen-muai-penyalah.md",
@@ -220,20 +239,16 @@
     "documents/publish-your-docs/healing-brunei-sessions.md",
     "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
     "documents/publish-your-docs/bacaan-liturgis.md",
-    "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/social/social-commission.md.md",
     "mission/custody/documents-of-new-caps-ptk.md",
     "documents/quickstart/README.md",
     "documents/quickstart/pengantar-katekismus-introduction.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
-    "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
-    "mission/dos/catechetical/Catechetical.md",
     "study/bible/iban/Bible in Iban.md",
     "study/bible/english/Bible in English.md",
     "study/bible/chinese/Bible in Chinese.md",
     "mission/dos/migrant/Migrant.md",
-    "2026-01-20.md",
     "documents/publish-your-docs/compass2.jpg",
     "documents/publish-your-docs/compass.jpg",
     "study/mandarin",
@@ -244,7 +259,6 @@
     "mission/dos/migrant",
     "mission/dos/consecrated",
     "mission/dos/social",
-    "mission/dos/catechetical",
     "Github/documents/publish-your-docs/compass2.jpg",
     "Github/documents/publish-your-docs/compass.jpg",
     "Course/documents/publish-your-docs/compass2.jpg",
