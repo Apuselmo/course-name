@@ -11,10 +11,14 @@
             "id": "e22116f2f63c7cb1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "mission/dos/consecrated/Consecrated Life.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Consecrated Life"
             }
           }
         ]
@@ -218,6 +222,9 @@
   },
   "active": "e22116f2f63c7cb1",
   "lastOpenFiles": [
+    "mission/dos/catechetical/Catechetical.md",
+    "mission/dos/consecrated/Consecrated Life.md",
+    "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
     "documents/publish-your-docs/README.md",
     "Untitled.base",
     "transactions.ledger",
@@ -232,15 +239,12 @@
     "documents/publish-your-docs/healing-brunei-sessions.md",
     "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
     "documents/publish-your-docs/bacaan-liturgis.md",
-    "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/social/social-commission.md.md",
     "mission/custody/documents-of-new-caps-ptk.md",
     "documents/quickstart/README.md",
     "documents/quickstart/pengantar-katekismus-introduction.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
-    "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
-    "mission/dos/catechetical/Catechetical.md",
     "study/bible/iban/Bible in Iban.md",
     "study/bible/english/Bible in English.md",
     "study/bible/chinese/Bible in Chinese.md",
