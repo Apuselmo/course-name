@@ -6,6 +6,7 @@ The way for learning is sometimes not followed our liking. Every single time to 
 > Learning to cover the problem in learning.
 
 
-> [!INFO]
+> [!INFO]-
 > Will be doing whenever having the fixed result on extension of permit.
+> Even though still can make it whenever it will be possible. Especially while re-doing back with all elements of studies.
 
