@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mission/dos/consecrated/Consecrated Life.md",
+                "file": "documents/publish-your-docs/bacaan-liturgis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consecrated Life"
+              "title": "bacaan-liturgis"
+            }
+          },
+          {
+            "id": "d950241f7d93f13d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 866.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +233,15 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "e22116f2f63c7cb1",
+  "active": "d950241f7d93f13d",
   "lastOpenFiles": [
+    "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/migrant/Migrant.md",
     "mission/dos/social/caritas.md",
     "Listing.base",
     "SUMMARY.md",
     "transactions.ledger",
     "Untitled.base",
-    "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/catechetical/Catechetical.md",
     "documents/quickstart/pengakuan-iman-katolik-seksi-1.md",
     "documents/publish-your-docs/README.md",
