@@ -25,12 +25,14 @@
             "id": "d950241f7d93f13d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "documents/publish-your-docs/pengidup-tuai-sembiang.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "pengidup-tuai-sembiang"
             }
           }
         ],
@@ -235,6 +237,17 @@
   },
   "active": "d950241f7d93f13d",
   "lastOpenFiles": [
+    "documents/publish-your-docs/nyadi-lektor.md",
+    "documents/publish-your-docs/kos-sabung-jadi-2.md",
+    "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
+    "documents/publish-your-docs/healing-brunei-sessions.md",
+    "documents/publish-your-docs/bacaan-liturgis.md",
+    "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
+    "documents/publish-your-docs/schema-spc-talk.md",
+    "documents/publish-your-docs/saut-soalan-kelas-ccc.md",
+    "documents/publish-your-docs/retreat-katekis-sibu-2025-preambule.md",
+    "documents/publish-your-docs/retreat-katekis-sibu-2025.md",
+    "documents/publish-your-docs/jubili-pengharapan-compass-umat-beriman.md",
     "mission/dos/consecrated/Consecrated Life.md",
     "mission/dos/migrant/Migrant.md",
     "mission/dos/social/caritas.md",
@@ -248,22 +261,11 @@
     "Untitled.md",
     "Ledger.md",
     "Multi Column.md",
-    "documents/publish-your-docs/tujuh-sakramen-dalam-gereja-katolik.md",
-    "documents/publish-your-docs/saut-soalan-kelas-ccc.md",
     "documents/publish-your-docs/sakramen-muai-penyalah.md",
-    "documents/publish-your-docs/nyadi-lektor.md",
     "documents/publish-your-docs/kos-sabung-jadi-1.md",
-    "documents/publish-your-docs/healing-brunei-sessions.md",
-    "documents/publish-your-docs/dasar-pengharapan-di-tahun-jubili.md",
-    "documents/publish-your-docs/bacaan-liturgis.md",
     "mission/dos/social/social-commission.md.md",
     "mission/custody/documents-of-new-caps-ptk.md",
     "documents/quickstart/README.md",
-    "documents/quickstart/pengantar-katekismus-introduction.md",
-    "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-3.md",
-    "documents/quickstart/pengakuan-iman-katolik-seksi-1-bab-2.md",
-    "study/bible/iban/Bible in Iban.md",
-    "study/bible/english/Bible in English.md",
     "documents/publish-your-docs/compass2.jpg",
     "documents/publish-your-docs/compass.jpg",
     "study/mandarin",
