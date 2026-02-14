@@ -105,7 +105,7 @@ Kan. 1248 §2	Jika tidak ada pelayan suci atau karena alasan berat lain tidak mu
 
 ---
 
-Kan. 230 §3	Bila kebutuhan Gereja memintanya karena kekurangan pelayan, juga kaum awam, meskipun bukan lektor atau akolit, dapat menjalankan beberapa tugas, yakni melakukan pelayanan sabda, memimpin doa-doa liturgis, menerimakan baptis dan membagikan Komuni Suci, menurut ketentuan-ketentuan hukum.
+Kan. 230 §3	Bila keperluan Gereja memintanya karena kekurangan pelayan, juga kaum awam, meskipun bukan lektor atau akolit, dapat menjalankan beberapa tugas, yakni melakukan pelayanan sabda, memimpin doa-doa liturgis, menerimakan baptis dan membagikan Komuni Suci, menurut ketentuan-ketentuan hukum.
 
 ---
 
