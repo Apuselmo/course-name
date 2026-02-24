@@ -1,7 +1,7 @@
 ## PENGIDUP TUAI SEMBIANG: Pemimpin Rohani dalam Gereja Katolik
 
 
-Kos Tuai Sembiang - St. Francis Xavier Parish - Kanowit - 13/10/2025
+Kos Tuai Sembiang 
 
 ---
 
@@ -45,8 +45,8 @@ Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pen
 
 ---
 
-![Servus Servorum](~/Downloads/servusservorum.JPG)
 
+![[servusservorum.jpg]]
 ---
 
   · Kangau tu, iya nya kangau ti nyadika kitai baka pengibun, ukai pangkat.
