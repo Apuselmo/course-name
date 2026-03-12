@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Terminal2K"
+  "cssTheme": "Terminal2K",
+  "interfaceFontFamily": "",
+  "theme": "system"
 }
