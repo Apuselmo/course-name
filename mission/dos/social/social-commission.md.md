@@ -24,3 +24,6 @@ There are so many un-efficient doing and action here in these diocese and parish
 
 
 
+As a result of many doing in our diocese, this is the time to reconsider all the activities and doing - since there is a danger that we just do the thing as a duty and to fulfill the job and sometimes lost the heart of doing.
+
+
