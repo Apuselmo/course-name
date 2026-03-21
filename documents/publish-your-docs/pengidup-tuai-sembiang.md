@@ -1,7 +1,7 @@
 ## PENGIDUP TUAI SEMBIANG: Pemimpin Rohani dalam Gereja Katolik
 
 
-Kos Tuai Sembiang - St. Francis Xavier Parish - Kanowit - 13/10/2025
+Kos Tuai Sembiang 
 
 ---
 
@@ -45,8 +45,8 @@ Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pen
 
 ---
 
-![Servus Servorum](~/Downloads/servusservorum.JPG)
 
+![[servusservorum.jpg]]
 ---
 
   · Kangau tu, iya nya kangau ti nyadika kitai baka pengibun, ukai pangkat.
@@ -105,7 +105,7 @@ Kan. 1248 §2	Jika tidak ada pelayan suci atau karena alasan berat lain tidak mu
 
 ---
 
-Kan. 230 §3	Bila kebutuhan Gereja memintanya karena kekurangan pelayan, juga kaum awam, meskipun bukan lektor atau akolit, dapat menjalankan beberapa tugas, yakni melakukan pelayanan sabda, memimpin doa-doa liturgis, menerimakan baptis dan membagikan Komuni Suci, menurut ketentuan-ketentuan hukum.
+Kan. 230 §3	Bila keperluan Gereja memintanya karena kekurangan pelayan, juga kaum awam, meskipun bukan lektor atau akolit, dapat menjalankan beberapa tugas, yakni melakukan pelayanan sabda, memimpin doa-doa liturgis, menerimakan baptis dan membagikan Komuni Suci, menurut ketentuan-ketentuan hukum.
 
 ---
 
