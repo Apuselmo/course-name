@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "129de43a2723f15a",
@@ -220,7 +221,7 @@
       "ledger-obsidian:Add to Ledger": false
     }
   },
-  "active": "dcfd70b1da2b3187",
+  "active": "8cfdcba8c20e8266",
   "lastOpenFiles": [
     "Senza nome.canvas",
     "documents/quickstart/pengantar-katekismus-introduction.md",
