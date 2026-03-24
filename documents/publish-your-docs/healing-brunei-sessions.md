@@ -235,15 +235,15 @@ lalu iring aku niti jalai ti meruan belama iya.
 
 ---
 
-Tuhan Yesus, melalui kuasa Roh Kudus Hadirlah pada masa laluku. Sembuhkanlah segala luka dalam batinku yang pernah kualami
+Tuhan Yesus, melalui kuasa Roh KudusHadirlah pada masa laluku.Sembuhkanlah segala luka dalam batinku yang pernah kualami
 
 ---
 
-Luka karena kurang kasih dari orang tua dan sesama Luka karena pengkhianatan Luka karena penolakan
+Luka karena kurang kasih dari orang tua dan sesamaLuka karena pengkhianatanLuka karena penolakan
 
 ---
 
-Luka karena pelecehan Luka karena penghinaan
+Luka karena pelecehanLuka karena penghinaan
 Biarlah dengan darah-Mu Kau jadikan aku utuh kembali
 
 ---
@@ -265,7 +265,7 @@ Bantulah aku ya Tuhan, supaya aku tidak mengambil akar pahit yang ada dalam hidu
 
 ---
 
- dan isilah hatiku dengan kasih-Mu hari ini. Terima kasih Tuhan dan berkatilah aku.
+ dan isilah hatiku dengan kasih-Mu hari ini.Terima kasih Tuhan dan berkatilah aku.
 
 ---
 
