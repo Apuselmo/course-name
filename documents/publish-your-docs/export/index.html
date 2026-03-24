@@ -1,0 +1,947 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>title</title>
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <!-- REVEAL CSS-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="libs/reveal.js/dist/reset.css">
+  <link rel="stylesheet" href="libs/reveal.js/dist/reveal.css">
+  
+  <link rel="stylesheet" href="libs/reveal.js/dist/theme/black.css" id="theme">
+  
+  
+  <!--
+  <link rel="stylesheet" href="libs/reveal.js/plugin/title-footer/title-footer-mod.css" />
+  -->
+
+  <!-- MERMAID-->
+  <!--
+  <script src="libs/reveal.js/plugin/mermaid/mermaid.min.js"></script>
+  <style>
+  .mermaid {
+    font-size: 0.5em;
+  }
+  </style>
+  -->
+  
+  <style>
+    [class*=task-list-item] {
+      min-height: 22px;
+      margin-top: 6px!important;
+      margin-bottom: 6px!important;
+      padding-left: 0;
+      list-style: none;
+    }
+
+    [class*=task-list-item]>input:first-child {
+      position: absolute!important;
+      opacity: 0;
+      margin: 0;
+    }
+
+    [class*=task-list-item]>label {
+      padding-left: 29px!important;
+      min-height: 22px;
+      line-height: 22px;
+      display: inline-block;
+      position: relative;
+      vertical-align: top;
+      margin-bottom: 0;
+      font-weight: 400;
+      cursor: pointer;
+    }
+
+    .task-list-item>input:first-child:checked+input[type=hidden]+label::before, .task-list-item>input:first-child:checked+label::before {
+      background-color: #ecf0f1;
+      border-color: #ecf0f1;
+    }
+
+    [class*=task-list-item]>input:first-child+input[type=hidden]+label::before, [class*=task-list-item]>input:first-child+label::before {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      width: 22px;
+      height: 22px;
+      border: 1px solid #D3CFC8;
+      border-radius: 0;
+      margin-left: -29px;
+    }
+
+    [class*=task-list-item]>input:first-child:checked+input[type=hidden]+label::after, [class*=task-list-item]>input:first-child:checked+label::after {
+      content: "";
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 7px;
+      height: 10px;
+      border: 2px solid #fff;
+      border-left: none;
+      border-top: none;
+      transform: translate(7.75px,4.5px) rotate(45deg);
+      -ms-transform: translate(7.75px,4.5px) rotate(45deg);
+    }
+
+    .task-list-item>input:first-child:checked+input[type=hidden]+label::after, .task-list-item>input:first-child:checked+label::after {
+      border-bottom-color: #95a5a6;
+      border-right-color: #95a5a6;
+    }
+  </style>
+
+  <!-- Theme used for syntax highlighting of code -->
+  
+  <link rel="stylesheet" href="libs/reveal.js/plugin/highlight/Zenburn.css">
+  
+
+  
+  
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'libs/reveal.js/dist/print/pdf.css' : 'libs/reveal.js/dist/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <style>
+     .line {
+      display: block;
+    }   
+
+    .line.focus {
+      background: #fdf6e3;
+      color: #657b83;
+    }
+
+    .reveal .slides section .fragment.current-only {
+      visibility: visible;
+      display: none;
+    }
+
+    .reveal .slides section .fragment.current-only.current-fragment {
+      display: block;
+    }
+
+    .line.focus {
+       opacity: 1.0;
+    } 
+
+    @media (device-width: 100vw) and (device-height: 100vh) {
+      .reveal pre code {
+        max-height: 50vh !important;
+      }
+    }
+
+    #logo img {
+      max-height: 3.5em;
+      max-width: none;
+      min-width: 50px;
+    }
+
+    .reveal .slides section .code-presenting-annotation {
+      color: white;
+      background: black;
+      padding: 0px 15px;
+      border-radius: 15px;
+      opacity: 0.75 !important;
+      font-size: 50% !important;
+    }
+  </style>
+  <script>
+    if (window.location.search.match(/print-pdf-now/gi)) {
+      window.print();
+    }
+  </script>
+</head>
+
+<body>
+  
+
+  <div class="reveal">
+
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+
+      
+  
+    <section >
+      <h1><a id="user-content-presentasi-tujuh-sakramen-dalam-gereja-katolik" class="anchor" href="#presentasi-tujuh-sakramen-dalam-gereja-katolik" aria-hidden="true"></a><strong>Presentasi: Tujuh Sakramen dalam Gereja Katolik</strong></h1>
+<p><strong>(Ngitihka Katekismus Gereja Katolik - KGK)</strong></p>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-1-judul" class="anchor" href="#slide-1-judul" aria-hidden="true"></a><strong>Slide 1: Judul</strong></h3>
+<ul>
+<li><strong>Judul:</strong> Tujuh Sakramen: Pengasi Allah ti Negu Pengidup Mensia</li>
+<li><strong>Subjudul:</strong> Nemu &amp; Ngasaika Sakramen dalam Gereja Katolik ngitihka Katekismus Gereja Katolik</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-2-pengelalu-nama-sakramen-kgk-1131" class="anchor" href="#slide-2-pengelalu-nama-sakramen-kgk-1131" aria-hidden="true"></a><strong>Slide 2: Pengelalu: Nama Sakramen? (KGK 1131)</strong></h3>
+<ul>
+<li><strong>Penerang:</strong> “Sakramen siti tanda ti dipeda sereta ulih ngasilka Pengasi ti enda dipeda, ti diberi Jesus Kristus kena nguduska kitai.”</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Inti Sakramen:</strong>
+<ul>
+<li><strong>Tanda Kudus:</strong> Ngena utai ti dipeda (ai, minyak, roti, anggur [Materia])  enggau jako (forma).</li>
+<li><strong>Diberi Jesus Kristus:</strong> Datai ari Jesus Empu.</li>
+<li><strong>Digaga Gereja:</strong> Diberi ngagai Gereja kena digaga ketegal nyelamatka mensia.</li>
+<li><strong>Meri Pengasi:</strong> Ngasilka utai ti ditandaka (Pengasi sakramen) enti diterima enggau ati ti terbuka.</li>
+</ul>
+</li>
+<li><strong>Tuju:</strong> Nguduska mensia, ngeringka Tubuh Kristus (Gereja), meri puji ngagai Allah Taala.</li>
+<li><strong>KGK Penting:</strong> 774, 1084, 1113-1134.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-3-tiga-bagi-sakramen-kgk-1211" class="anchor" href="#slide-3-tiga-bagi-sakramen-kgk-1211" aria-hidden="true"></a><strong>Slide 3: Tiga Bagi Sakramen (KGK 1211)</strong></h3>
+<ol>
+<li><strong>Sakramen Inisiasi:</strong>
+<ul>
+<li>Baptisa/Basu Pala</li>
+<li>Pengentap (Penguatan)</li>
+<li>Ekaristia</li>
+</ul>
+</li>
+<li><strong>Sakramen Pengerao:</strong>
+<ul>
+<li>Ngaku Dosa</li>
+<li>Ngunsut orang ti tabin</li>
+</ul>
+</li>
+<li><strong>Sakramen Pemela &amp; Pengibun:</strong>
+<ul>
+<li>Dichiri nyadi Paderi (Tahbisan)</li>
+<li>Sabung Jadi</li>
+</ul>
+</li>
+</ol>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-4-sakramen-baptisa-kgk-1213-1284" class="anchor" href="#slide-4-sakramen-baptisa-kgk-1213-1284" aria-hidden="true"></a><strong>Slide 4: Sakramen Baptisa (KGK 1213-1284)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Ai</li>
+<li><strong>Forma:</strong> “Aku baptisa nuan dalam nama Apai, Anak, sereta Roh Kudus.”</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Biskop, Paderi, Diakon. Enti dalam bahaya, sapa-sapa ulih maptisa enti bisi niat ti betul.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Dosa Asal &amp; semua dosa diri diampun.</li>
+<li>Diadaka baru nyadi anak Allah, diserakup enggau Kristus &amp; Gereja.</li>
+<li>Diberi tanda rohani ti enda lenyau.</li>
+<li>Diberi Pengasi kena idup nyadi murid Kristus.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1279-1280.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-5-sakramen-krisma--pengentap-kgk-1285-1321" class="anchor" href="#slide-5-sakramen-krisma--pengentap-kgk-1285-1321" aria-hidden="true"></a><strong>Slide 5: Sakramen Krisma / Pengentap (KGK 1285-1321)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Minyak Krisma (minyak dikuduska Biskop).</li>
+<li><strong>Forma:</strong> “Awakka diberi tanda Pengasi Allah, Roh Kudus.”</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Biskop (tauka Paderi ti diberi kuasa).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Ngukuhka pengasi nimet Baptisa.</li>
+<li>Meri Roh Kudus kena ngeringka pengarap.</li>
+<li>Meri tanda rohani ti enda ilang.</li>
+<li>Ngikat agi rapit enggau Gereja.</li>
+<li>Ngering kena nyadi saksi Kristus.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1302-1305.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-6-sakramen-ekaristi-kgk-1322-1419" class="anchor" href="#slide-6-sakramen-ekaristi-kgk-1322-1419" aria-hidden="true"></a><strong>Slide 6: Sakramen Ekaristi (KGK 1322-1419)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Roti gandum &amp; Anggur.</li>
+<li><strong>Forma:</strong> Jako Konsekrasi ari Paderi: “Tu Tubuh-Ku… Tu Darah-Ku…”</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Paderi (tauka Biskop).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li><strong>Puncak Pengidup Kristen:</strong> Ngikat kitai enggau Kristus.</li>
+<li><strong>Makai Rohani:</strong> Nguduska, ngelaban dosa, ngeringka pengerindu.</li>
+<li><strong>Ngeringka Gereja:</strong> Nunjukka &amp; ngayanka pengelikun nembiak Allah Taala.</li>
+<li><strong>Jamin Pengidup Selama-lama:</strong> Bekal pengidup ti meruan.</li>
+</ul>
+</li>
+<li><strong>Kristus Betul-betul Ada:</strong> Roti &amp; anggur betul-betul nyadi Tubuh &amp; Darah Kristus (Transubstansiasi - KGK 1376).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1324, 1356-1372, 1407.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-7-sakramen-tobat--ngaku-dosa-kgk-1422-1498" class="anchor" href="#slide-7-sakramen-tobat--ngaku-dosa-kgk-1422-1498" aria-hidden="true"></a><strong>Slide 7: Sakramen Tobat / Ngaku Dosa (KGK 1422-1498)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Pengawa orang ti bechara (sesal, ngaku dosa, penitensi).</li>
+<li><strong>Forma:</strong> Jako Pengampun ari Paderi: “Awakka Allah Taala ngampun penyalah nuan…”</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Biskop tauka Paderi.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Dosa berat &amp; ringan diampun.</li>
+<li>Pulai baru pengelikun enggau kaul ti manah enggau Allah Taala &amp; Gereja.</li>
+<li>Meri Pengasi pengudus baru enti udah lenyau laban dosa ti udu balat.</li>
+<li>Meri pemadu &amp; pemaik ati.</li>
+<li>Ngering kena ngalahka penguji.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1440-1442, 1450, 1496.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-8-sakramen-pengunsut-orang-ti-tabin-kgk-1499-1532" class="anchor" href="#slide-8-sakramen-pengunsut-orang-ti-tabin-kgk-1499-1532" aria-hidden="true"></a><strong>Slide 8: Sakramen Pengunsut orang ti tabin (KGK 1499-1532)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Minyak Orang Tabin (dikuduska Biskop).</li>
+<li><strong>Forma:</strong> Sampi Gereja kena minta Pengasi ngagai orang ti tabin.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Paderi tauka Biskop.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Meri semengat, pemaik, &amp; berani kena ngalahka penyait.</li>
+<li>Nyerakup enggau Penderitaan Kristus.</li>
+<li>Ngampun dosa enti orang sakit enda ulih ngaku.</li>
+<li>Ngeringka tubuh enti tu peneka Allah.</li>
+<li>Nyadi bekengau kematian.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Enda Sakramen “Pengujung” Saja:</strong> Bisi diterima mayuh kali enti sakit berat.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1520-1523.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-9-sakramen-kepaderian--tahbisan-kgk-1536-1600" class="anchor" href="#slide-9-sakramen-kepaderian--tahbisan-kgk-1536-1600" aria-hidden="true"></a><strong>Slide 9: Sakramen Kepaderian / Tahbisan (KGK 1536-1600)</strong></h3>
+<ul>
+<li><strong>Materi:</strong> Jari ti diengkah Biskop atas pala.</li>
+<li><strong>Forma:</strong> Sampi Penyiri kena tiap darjat (Diakon, Paderi, Biskop).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Biskop.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Meri tanda rohani ti enda lenyau kena ngereja pengawa <em>in persona Christi Capitis</em> (dalam pribadi Kristus).</li>
+<li>Meri Pengasi Roh Kudus kena ngibun.</li>
+<li>Kuasa nguduska: Meri Sakramen, ngeraika Ekaristi, ngaku dosa.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Tiga Darjat:</strong>
+<ul>
+<li><strong>Biskop:</strong> Paderi ti penuh; pengganti Rasul; pengibun keuskupan.</li>
+<li><strong>Paderi:</strong> Penulung Biskop; pengajar &amp; pemberi Sakramen.</li>
+<li><strong>Diakon:</strong> Penulung Paderi; pengajar &amp; pengibun pengidup.</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1547-1553, 1592.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-10-sakramen-perkawinan-kgk-1601-1666" class="anchor" href="#slide-10-sakramen-perkawinan-kgk-1601-1666" aria-hidden="true"></a><strong>Slide 10: Sakramen Perkawinan (KGK 1601-1666)</strong></h3>
+<ul>
+<li><strong>Materi &amp; Forma:</strong> Sempekat seduai pengantin (lelaki &amp; indu).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Ti Mela/Ngulu:</strong> Pengantin empu (saling Meri &amp; nerima). Paderi/Biskop/Diakon nyadi saksi resmi Gereja.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Nimet (Pengasi):</strong>
+<ul>
+<li>Ngaga ikatan kudus &amp; enda putus.</li>
+<li>Meri Pengasi kena rindu baka Kristus, setia, &amp; besemengatka anak.</li>
+<li>Nunjukka pengelikun Kristus &amp; Gereja.</li>
+<li>Ngeringka “Gereja ti Mit” (keluarga).</li>
+</ul>
+</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>Sifat:</strong> Siti, setia, terbuka kena besemengatka anak, saling rindu.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li><strong>KGK Penting:</strong> 1638-1642, 1659-1660.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-11-penyimpul-sakramen-dalam-pengidup-kgk-1113-1131" class="anchor" href="#slide-11-penyimpul-sakramen-dalam-pengidup-kgk-1113-1131" aria-hidden="true"></a><strong>Slide 11: Penyimpul: Sakramen dalam Pengidup (KGK 1113, 1131)</strong></h3>
+<ul>
+<li>Sakramen jako pengawa Kristus Empu ti bekereja dalam Gereja.</li>
+<li>Iya nyadi punca pengidup ilahi &amp; Pengasi ti diperluka.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <ul>
+<li>Tiap sakramen negu tahap penting pengidup mensia (didiadaka, mansang besai, bulih pemakai, maya sakit/tabin, ngibun, rindu, deka parai).</li>
+<li>Iya ngeringka Gereja &amp; ngukuhka pengelikun enggau Allah Taala.</li>
+<li>Kena ngasaika sakramen, kitai perlu bisi pengarap &amp; ati ti terbuka.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-12-tanya--bicara" class="anchor" href="#slide-12-tanya--bicara" aria-hidden="true"></a><strong>Slide 12: Tanya &amp; Bicara</strong></h3>
+<ul>
+<li>Nama utai ti enda terang?</li>
+<li>Kongsi pengasai pasal sakramen.</li>
+<li>Kerandauka pemayuh sakramen dalam pengidup sehari-hari.</li>
+<li>Sumber: Katekismus Gereja Katolik (Bahagian II: Perayaan Misteri Kristen, Art. 1210 dst).</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-slide-13-terima-kasih" class="anchor" href="#slide-13-terima-kasih" aria-hidden="true"></a><strong>Slide 13: Terima Kasih</strong></h3>
+<ul>
+<li>“Sakramen baka kuasa ti datai ari Tubuh Kristus ti idup &amp; ngidupka; iya baka pengawa Roh Kudus dalam Gereja.” (KGK 1116)</li>
+<li><strong>Referensi:</strong> Katekismus Gereja Katolik (KGK)</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <h3><a id="user-content-tips-penyajian" class="anchor" href="#tips-penyajian" aria-hidden="true"></a><strong>Tips Penyajian:</strong></h3>
+<ol>
+<li><strong>Visual:</strong> Guna gambar/ikon sakramen (contoh: Baptisa - ai, Krisma - burung ruai, Ekaristi - roti-anggur).</li>
+<li><strong>Interaktif:</strong> Kangau orang bejako pasal sakramen ti udah diterima.</li>
+</ol>
+
+    </section>
+  
+
+  
+    <section >
+      <ol start="3">
+<li><strong>Jako:</strong> Guna jako ti mudah dimeretika.</li>
+<li><strong>Referensi:</strong> Nyendia ayat-ayat KGK enti deka ditanya.</li>
+<li><strong>Fokus Rohani:</strong> Sakramen ukai jako sihir, tang perjumpaan enggau Kristus.</li>
+<li><strong>Masa:</strong> Lebih mayuh agi kena Ekaristi &amp; Pengakuan Dosa.</li>
+</ol>
+
+    </section>
+  
+
+  
+    <section >
+      <p><strong>Materi Tambah (Enti Dipeda):</strong></p>
+<ul>
+<li><strong>Jadual Ringkas:</strong> Sakramen, Materi, Forma, Ti Ngulu/Mela, Nimet, KGK.</li>
+<li><strong>Ayat Kitab Kudus:</strong> Ayat pendukung tiap sakramen.</li>
+<li><strong>Dokumen Gerija:</strong> Sebut dokumen ti bukai baka Sacrosanctum Concilium.</li>
+</ul>
+
+    </section>
+  
+
+  
+    <section >
+      <p><strong>Presentasi tu meri penemu teologi ti kukuh. Kena penemu lebih dalam, guna teks KGK ti asal.</strong></p>
+
+    </section>
+  
+
+  
+    <section >
+      
+    </section>
+  
+
+
+
+    </div>
+
+  </div>
+
+  <script src="libs/reveal.js/dist/reveal.js"></script>
+
+<script src="libs/reveal.js/plugin/zoom/zoom.js"></script>
+
+<script src="libs/reveal.js/plugin/notes/notes.js"></script>
+<script src="libs/reveal.js/plugin/search/search.js"></script>
+<script src="libs/reveal.js/plugin/markdown/markdown.js"></script>
+<script src="libs/reveal.js/plugin/highlight/highlight.js"></script>
+<script src="libs/reveal.js/plugin/math/math.js"></script>
+<script>
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+
+        controls: true,
+        controlsTutorial: true,
+        controlsLayout: 'bottom-right',
+        controlsBackArrows: 'faded',
+        progress: true,
+        slideNumber: false,
+        history: true,
+        keyboard: true,
+        overview: true,
+        center: true,
+        touch: true,
+        loop: false,
+        rtl: false,
+        shuffle: false,
+        fragments: true,
+        fragmentInURL: false,
+        embedded: false,
+        help: true,
+        showNotes: false,
+        autoPlayMedia: false,
+        autoSlide: 0,
+        autoSlideStoppable: true,
+        autoSlideMethod: Reveal.navigateNext,
+        defaultTiming: 120,
+        mouseWheel: false,
+        hideAddressBar: true,
+        previewLinks: false,
+        transition: 'default',
+        transitionSpeed: 'default',
+        backgroundTransition: 'default',
+        viewDistance: 3,
+        parallaxBackgroundImage: '',
+        parallaxBackgroundSize: '',
+        parallaxBackgroundHorizontal: 0,
+        parallaxBackgroundVertical: 0,
+        display: 'block',
+
+        plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight, RevealMath],
+        
+        math: {
+            mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+            config: 'TeX-AMS_HTML-full',
+            TeX: { Macros: { RR: "{\\bf R}" } }
+        },
+        /*
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [
+            
+            { src: 'libs/reveal.js/3.8.0/plugin/search/search.js', async: true },
+            
+
+            
+            { src: 'libs/reveal.js-plugins/3.8.0/plugin/chalkboard/chalkboard.js' },
+                
+
+            
+            { src: 'libs/reveal.js/3.8.0/plugin/menu/menu.js' },
+            
+
+            
+            { src: 'libs/reveal.js/3.8.0/plugin/title-footer/title-footer.js', async: true, callback: function () { title_footer.initialize(); } },
+            
+            {
+                src: 'libs/highlight.js/9.15.10/reveal-code-focus-1.0.0-mod.js',
+                async: true,
+                callback: function () {
+                    RevealCodeFocus();
+                }
+            },
+            // {src: 'libs/reveal.js/3.8.0/plugin/line-numbers/line-numbers.js'}
+        ],
+        keyboard: {
+            67: function () { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+            66: function () { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+            46: function () { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+            8: function () { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+            68: function () { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+        },
+        chart: {
+            defaults: {
+                global: {
+                    title: { fontColor: "#FFF" },
+                    legend: {
+                        position: "bottom",
+                            labels: { fontColor: "#FFF" },
+                    },
+                    tooltips: {
+                        labels: { fontColor: "#FFF" },
+                    },
+                },
+                scale: {
+                    scaleLabel: { fontColor: "#FFF" },
+                    gridLines: { color: "#FFF", zeroLineColor: "#FFF" },
+                    ticks: { fontColor: "#FFF" },
+                }
+            },
+            line: { borderColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"], "borderDash": [[5, 10], [0, 0]] },
+            bar: { backgroundColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"] },
+            pie: { backgroundColor: [["rgba(0,0,0,.8)", "rgba(220,20,20,.8)", "rgba(20,220,20,.8)", "rgba(220,220,20,.8)", "rgba(20,20,220,.8)"]] },
+            radar: { borderColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"] },
+        },
+        anything: [ 
+            {
+                className: "mermaid"
+            },
+            // ...
+        ],
+        menu: {
+            // Specifies which side of the presentation the menu will 
+            // be shown. Use 'left' or 'right'.
+            side: 'left',
+
+                // Specifies the width of the menu.
+                // Can be one of the following:
+                // 'normal', 'wide', 'third', 'half', 'full', or
+                // any valid css length value
+                width: 'normal',
+
+                    // Add slide numbers to the titles in the slide list.
+                    // Use 'true' or format string (same as reveal.js slide numbers)
+                    numbers: false,
+
+                        // Specifies which slide elements will be used for generating
+                        // the slide titles in the menu. The default selects the first
+                        // heading element found in the slide, but you can specify any
+                        // valid css selector and the text from the first matching
+                        // element will be used.
+                        // Note: that a section data-menu-title attribute or an element
+                        // with a menu-title class will take precedence over this option
+                        titleSelector: 'h1, h2, h3, h4, h5, h6',
+
+                            // If slides do not have a matching title, attempt to use the
+                            // start of the text content as the title instead
+                            useTextContentForMissingTitles: false,
+
+                                // Hide slides from the menu that do not have a title.
+                                // Set to 'true' to only list slides with titles.
+                                hideMissingTitles: false,
+
+                                    // Adds markers to the slide titles to indicate the 
+                                    // progress through the presentation. Set to 'false'
+                                    // to hide the markers.
+                                    markers: true,
+
+                                        // Specify custom panels to be included in the menu, by
+                                        // providing an array of objects with 'title', 'icon'
+                                        // properties, and either a 'src' or 'content' property.
+                                        // custom: false,
+                                        custom: [],
+                                            // Specifies the themes that will be available in the themes
+                                            // menu panel. Set to 'true' to show the themes menu panel
+                                            // with the default themes list. Alternatively, provide an
+                                            // array to specify the themes to make available in the
+                                            // themes menu panel, for example...
+                                            // [
+                                            //     { name: 'Black', theme: 'css/theme/black.css' },
+                                            //     { name: 'White', theme: 'css/theme/white.css' },
+                                            //     { name: 'League', theme: 'css/theme/league.css' }
+                                            // ]
+                                            themes: false,
+
+                                                // Specifies the path to the default theme files. If your
+                                                // presentation uses a different path to the standard reveal
+                                                // layout then you need to provide this option, but only
+                                                // when 'themes' is set to 'true'. If you provide your own 
+                                                // list of themes or 'themes' is set to 'false' the 
+                                                // 'themesPath' option is ignored.
+                                                themesPath: 'css/theme/',
+
+                                                    // Specifies if the transitions menu panel will be shown.
+                                                    // Set to 'true' to show the transitions menu panel with
+                                                    // the default transitions list. Alternatively, provide an
+                                                    // array to specify the transitions to make available in
+                                                    // the transitions panel, for example...
+                                                    // ['None', 'Fade', 'Slide']
+                                                    transitions: false,
+
+                                                        // Adds a menu button to the slides to open the menu panel.
+                                                        // Set to 'false' to hide the button.
+                                                        openButton: true,
+
+                                                            // If 'true' allows the slide number in the presentation to
+                                                            // open the menu panel. The reveal.js slideNumber option must 
+                                                            // be displayed for this to take effect
+                                                            openSlideNumber: false,
+
+                                                                // If true allows the user to open and navigate the menu using
+                                                                // the keyboard. Standard keyboard interaction with reveal
+                                                                // will be disabled while the menu is open.
+                                                                keyboard: true,
+
+                                                                    // Normally the menu will close on user actions such as
+                                                                    // selecting a menu item, or clicking the presentation area.
+                                                                    // If 'true', the sticky option will leave the menu open
+                                                                    // until it is explicitly closed, that is, using the close
+                                                                    // button or pressing the ESC or m key (when the keyboard 
+                                                                    // interaction option is enabled).
+                                                                    sticky: false,
+
+                                                                        // If 'true' standard menu items will be automatically opened
+                                                                        // when navigating using the keyboard. Note: this only takes 
+                                                                        // effect when both the 'keyboard' and 'sticky' options are enabled.
+                                                                        autoOpen: true,
+
+                                                                            // If 'true' the menu will not be created until it is explicitly
+                                                                            // requested by calling RevealMenu.init(). Note this will delay
+                                                                            // the creation of all menu panels, including custom panels, and
+                                                                            // the menu button.
+                                                                            delayInit: false,
+
+                                                                                // If 'true' the menu will be shown when the menu is initialised.
+                                                                                openOnInit: false,
+
+                                                                                    // By default the menu will load it's own font-awesome library
+                                                                                    // icons. If your presentation needs to load a different
+                                                                                    // font-awesome library the 'loadIcons' option can be set to false
+                                                                                    // and the menu will not attempt to load the font-awesome library.
+                                                                                    loadIcons: false
+        },
+        chalkboard: {
+            toggleChalkboardButton: { left: "60px", bottom: "30px", top: "auto", right: "auto" },
+            toggleNotesButton: { left: "90px", bottom: "30px", top: "auto", right: "auto" },
+
+        }
+        */
+    });
+
+</script>
+
+
+</body>
+
+</html>
