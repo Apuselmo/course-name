@@ -13,7 +13,7 @@ revealOptions:
 
 <!--s-->
 
-#### The metaphor of *“Hope as the Compass of the Catechist”* offers a profound theological and pastoral insight into the mission of catechesis.
+### The metaphor of *“Hope as the Compass of the Catechist”* offers a profound theological and pastoral insight into the mission of catechesis.
 
 <!--s-->
 
@@ -55,7 +55,7 @@ To understand its theological foundation, we must explore its biblical basis, it
 
 <!--s-->
 
-#### Hope in Scripture is not passive but an active trust in God’s faithfulness.
+### Hope in Scripture is not passive but an active trust in God’s faithfulness.
 
 <!--s-->
 
@@ -75,6 +75,7 @@ To understand its theological foundation, we must explore its biblical basis, it
 <!--s-->
 
 ## **2. The Object of Hope: God’s Character and Promises**
+
 Christian hope is not based on circumstances but on the unchanging nature of God:
 
 <!--v-->
@@ -93,19 +94,19 @@ Unlike secular hope, which may be uncertain, Christian hope is secure because it
 
 <!--s-->
 
-#### Paul highlights hope alongside faith and love (1 Corinthians 13:13), showing its vital role in the Christian life:
+### Paul highlights hope alongside faith and love (1 Corinthians 13:13), showing its vital role in the Christian life:
 
 <!--v-->
 
-#### - **Faith looks back** (trusting in Christ’s finished work).
+#### - **Faith looks back** (trusting in Christ’s finished work)
 
 <!--v-->
 
-#### - **Hope looks forward** (anticipating His return and eternal glory).
+#### - **Hope looks forward** (anticipating His return and eternal glory)
 
 <!--v-->
 
-#### - **Love operates in the present** (expressing God’s grace to others).
+#### - **Love operates in the present** (expressing God’s grace to others)
 
 <!--v-->
 
@@ -117,7 +118,7 @@ Unlike secular hope, which may be uncertain, Christian hope is secure because it
 
 <!--s-->
 
-##### Hope is *eschatological*—it points toward the fulfillment of God’s Kingdom while empowering believers to live with purpose in the present. It is also *communal*—the Church, as a pilgrim people, journeys toward the fullness of redemption (Heb 11:1; Rom 8:24-25).
+### Hope is *eschatological*—it points toward the fulfillment of God’s Kingdom while empowering believers to live with purpose in the present. It is also *communal*—the Church, as a pilgrim people, journeys toward the fullness of redemption (Heb 11:1; Rom 8:24-25)
 
 <!--s-->
 
@@ -145,19 +146,19 @@ Unlike secular hope, which may be uncertain, Christian hope is secure because it
 
 <!--s-->
 
-#### Theological hope transforms how believers live:
+### Theological hope transforms how believers live:
 
 <!--s-->
 
-#### - **Perseverance in Trials (Romans 5:3-5)** – Suffering produces endurance, character, and hope.
+#### - **Perseverance in Trials (Romans 5:3-5)** – Suffering produces endurance, character, and hope
 
 <!--s-->
 
-#### - **Motivation for Holiness (1 John 3:2-3)** – The hope of Christ’s return inspires purity.
+#### - **Motivation for Holiness (1 John 3:2-3)** – The hope of Christ’s return inspires purity
 
 <!--s-->
 
-#### - **Evangelistic Urgency (Colossians 1:27)** – Christ in us is "the hope of glory," compelling us to share the Gospel.
+#### - **Evangelistic Urgency (Colossians 1:27)** – Christ in us is "the hope of glory," compelling us to share the Gospel
 
 <!--s-->
 
@@ -165,17 +166,19 @@ Unlike secular hope, which may be uncertain, Christian hope is secure because it
 
 <!--s-->
 
-##### The theological foundation of hope is God Himself — His faithfulness, Christ’s resurrection, and the Spirit’s work in believers.
+#### The theological foundation of hope is God Himself — His faithfulness, Christ’s resurrection, and the Spirit’s work in believers
 
 <!--s-->
 
-#### It is not wishful thinking but a secure expectation grounded in divine promise.
+#### It is not wishful thinking but a secure expectation grounded in divine promise
 
 <!--s-->
 
-#### This hope sustains believers through suffering,
-#### fuels mission,
-#### and points toward the ultimate fulfillment of God’s kingdom.
+#### This hope sustains believers through suffering
+
+#### fuels mission
+
+#### and points toward the ultimate fulfillment of God’s kingdom
 
 <!--s-->
 
@@ -187,4 +190,4 @@ Unlike secular hope, which may be uncertain, Christian hope is secure because it
 
 <!--s-->
 
-#### — a confident waiting for God’s future while actively working for His purposes today.
+#### — a confident waiting for God’s future while actively working for His purposes today

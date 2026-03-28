@@ -1,4 +1,4 @@
-### **SESSION 3: SAKRAMEN-SAKRAMEN SEBAGAI SALURAN PENYEMBUHAN ILAHI**
+# **SESSION 3: SAKRAMEN-SAKRAMEN SEBAGAI SALURAN PENYEMBUHAN ILAHI**
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-#### **Mengapa Manusia Memerlukan Penyembuhan?**
+### **Mengapa Manusia Memerlukan Penyembuhan?**
 
 ---
 
@@ -39,7 +39,9 @@
 ---
 
 ### Sakramen Pengakuan Dosa (Ngaku Dosa)
+
 ### Pemulihan Relasi dengan ALLAH dan SESAMA
+
 ### Yohanes 20:22-23
 
 ---
@@ -52,7 +54,9 @@
 ---
 
 ### Sakramen Pengurapan Orang Sakit (Ngunsut Orang ti Tabin)
+
 ### Kekuatan Fisik dan Spiritual
+
 ### Yakobus 5:14-15
 
 ---
@@ -62,7 +66,9 @@
 ---
 
 ### Sakramen Ekaristi
+
 ### Penyatuan dengan Kristus, Sumber Hidup
+
 ### Yohanes 6:54-55
 
 ---
@@ -92,11 +98,11 @@
 
 ---
 
->   - **Pemulihan identitas** sebagai anak Allah (Luk 15:22-24).
+> - **Pemulihan identitas** sebagai anak Allah (Luk 15:22-24).
 
 ---
 
->   - **Pelepasan dari rasa bersalah** (Roma 8:1).
+> - **Pelepasan dari rasa bersalah** (Roma 8:1).
 
 ---
 
@@ -108,7 +114,7 @@
 
 ---
 
->   - Penderita sakit berat, lansia, sebelum operasi besar (KGK 1514-1515).
+> - Penderita sakit berat, lansia, sebelum operasi besar (KGK 1514-1515).
 
 ---
 
@@ -116,25 +122,25 @@
 
 ---
 
->   - Kekuatan, kedamaian, penyembuhan fisik/jika kehendak Allah (Yak 5:15).
+> - Kekuatan, kedamaian, penyembuhan fisik/jika kehendak Allah (Yak 5:15).
 
 ---
 
->   - Penyatuan dengan sengsara Kristus (Kol 1:24).
+> - Penyatuan dengan sengsara Kristus (Kol 1:24).
 
 ---
-
 
 #### **Refleksi & Sharing**
+
 > - *Pertanyaan:*
 
 ---
 
->   1. **Luka batin apa** yang paling sulit Anda serahkan kepada Tuhan?
+> 1.**Luka batin apa** yang paling sulit Anda serahkan kepada Tuhan?
 
 ---
 
->   2. **Sakramen mana** yang pernah membawa pengalaman penyembuhan bagi Anda?
+> 2.**Sakramen mana** yang pernah membawa pengalaman penyembuhan bagi Anda?
 
 ---
 
@@ -143,16 +149,21 @@
 ---
 
 ### **SESSION 2: INTEGRASI PENYEMBUHAN BATIN & SAKRAMEN DALAM KEHIDUPAN**
+
 **Tema:** *"Menjadi Manusia Baru dalam Kristus: Transformasi Total"*
 
 ---
+
 #### **"Dari Victim to Victor: Kisah-Kisah Penyembuhan Batin dalam Iman Katolik"**
+
 > *"Oleh bilur-bilur-Nya kamu telah sembuh" (1 Petrus 2:24)*
 
 ---
+
 #### **Model Penyembuhan Batin: Maria & Para Kudus**
 
 ---
+
 > - **Bunda Maria:**
 >   - Menyimpan *"segala perkara di dalam hatinya"* (Luk 2:51) → memproses luka dalam iman.
 
@@ -181,7 +192,7 @@
 
 ---
 
-###  **"4R" Model:**
+### **"4R" Model:**
 
 ---
 
@@ -194,14 +205,15 @@ lalu iring aku niti jalai ti meruan belama iya.
 
 ---
 
-> 2. **REPENTANCE** (Pertobatan): Lepaskan kepahitan, ampuni pelaku (Ef 4:31-32).
+> 2.**REPENTANCE** (Pertobatan): Lepaskan kepahitan, ampuni pelaku (Ef 4:31-32).
 
 ---
 
  > (31) Buai semua dengki, tebiat ngeransi, pengeringat, jaku laya, tebiat bejakuka orang, enggau semua ati ti begedi, (32) lalu nelap enggau pangan diri, siru enggau pangan diri, ngampun pangan diri, baka Allah Taala, dalam Kristus, ke udah ngampun kita.
 
 ---
-> 3. **RENUNCIATION** (Pelepasan): Putuskan ikatan dosa dengan otoritas dalam nama Yesus (Luk 10:19).
+
+> 3.**RENUNCIATION** (Pelepasan): Putuskan ikatan dosa dengan otoritas dalam nama Yesus (Luk 10:19).
 
 ---
 
@@ -209,13 +221,14 @@ lalu iring aku niti jalai ti meruan belama iya.
 
 ---
 
-> 4. **RESTORATION** (Pemulihan): Terima identitas baru sebagai "ciptaan baru" (2 Kor 5:17).
+> 4.**RESTORATION** (Pemulihan): Terima identitas baru sebagai "ciptaan baru" (2 Kor 5:17).
 
 ---
 
  > (17) Nya alai, enti orang nya dalam Kristus, iya nyadi mensia ti baru. Iya ke lama nadai agi, iya ke baru, udah datai!
 
 ---
+
 #### **Ekaristi: Makanan untuk Perjalanan Penyembuhan**
 
 ---
@@ -262,7 +275,6 @@ Hadirlah Engkau ya Tuhan, supaya aku bisa mengampuni diriku sendiri, mengampuni 
 
 Bantulah aku ya Tuhan, supaya aku tidak mengambil akar pahit yang ada dalam hidupku
 
-
 ---
 
  dan isilah hatiku dengan kasih-Mu hari ini.Terima kasih Tuhan dan berkatilah aku.
@@ -307,6 +319,7 @@ Dalam nama Bapa dan Putra dan Roh Kudus. Amin .
 ---
 
 ### **Panduan Visual & Metode**:
+
 1. **Simbol**:
    - **Minyak Suci** (pengurapan), **Air** (pembasuhan), **Hati** (penyembuhan batin).
 2. **Warna**:
