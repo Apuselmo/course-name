@@ -80,6 +80,7 @@ This role transcends mere instruction—it is a *prophetic witness* to the livin
 <!--s-->
 
 - **Joyful Perseverance:** Demonstrating that Christian hope is "a sure and steadfast anchor" (Hebrews 6:19) amid life’s storms.
+[ ]TO FIX
 
 <!--s-->
 
@@ -126,7 +127,7 @@ This role transcends mere instruction—it is a *prophetic witness* to the livin
 
 <!--s-->
 
-- **New Testament:** Christ’s assurance: "Take heart; I have overcome the world" (John 16:33).
+- **New Testament:** Christ’s assurance: "Take heart; I have overcome the world" (John 16:33). 
 
 <!--s-->
 
@@ -134,7 +135,8 @@ This role transcends mere instruction—it is a *prophetic witness* to the livin
 
 <!--s-->
 
-- **Against Cynicism:** Responding with the "joy of the Gospel" (Pope Francis).
+- **Against Cynicism:** Responding with the "joy of the Gospel" (Pope Francis). 
+  - [ ]TODO
 
 <!--s-->
 
