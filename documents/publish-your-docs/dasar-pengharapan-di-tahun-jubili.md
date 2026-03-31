@@ -1,4 +1,4 @@
-#### **SESI 1: DASAR PENGHARAPAN DALAM TAHUN JUBILI**  
+# **SESI 1: DASAR PENGHARAPAN DALAM TAHUN JUBILI**  
 
 **Tema:** *"Pengharapan yang Hidup dari Iman"*  
 
