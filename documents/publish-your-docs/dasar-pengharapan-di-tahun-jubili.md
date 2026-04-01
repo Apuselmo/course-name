@@ -3,13 +3,15 @@
 **Tema:** *"Pengharapan yang Hidup dari Iman"*  
 
 ---  
+
 **Slide 1: Judul**  
 
 - **Tahun Jubili: Pengharapan yang Tak Pernah Pudar**  
   *"Sebab dalam pengharapan kita telah diselamatkan" (Roma 8:24)*  
 - Gambar: Lambang Jubili (terompet, salib, dan pintu kudus).  
 
----  
+--- 
+
 **Slide 2: Apa Itu Tahun Jubili?**  
 
 - **Definisi**:  
@@ -20,6 +22,7 @@
   - **Harapan**: Allah setia pada janji-Nya.  
 
 ---  
+
 **Slide 3: Fondasi Pengharapan dalam Kitab Suci** 
 
 - **Perjanjian Lama**:  
@@ -29,6 +32,7 @@
   - *Lukas 4:18–19*: Yesus menggenapi nubuat Jubili sebagai "tahun rahmat Tuhan."  
 
 ---  
+
 **Slide 4: Pengharapan dalam Teologi Katolik** 
 
 - **Pengharapan (Spes)**: Salah satu dari 3 kebajikan teologal (1 Kor 13:13).  
@@ -38,6 +42,7 @@
 - **Bukan sekadar optimisme**, tetapi keyakinan akan penyertaan Allah.  
 
 ---  
+
 **Slide 5: Krisis Pengharapan di Zaman Modern**  
 
 - **Tantangan**:  
@@ -46,7 +51,8 @@
   - Allah lebih besar dari kegelapan (Yoh 1:5).  
   - *"Pengharapan tidak mengecewakan" (Roma 5:5).*  
 
----  
+--- 
+
 **Slide 6: Refleksi & Diskusi Kelompok**  
 
 - **Pertanyaan**:  
@@ -61,6 +67,7 @@
 **Tema:** *"Pengharapan yang Bertindak melalui Kasih" (Gal 5:6)*  
 
 ---  
+
 **Slide 1: Judul**  
 
 - **Dari Pengharapan ke Tindakan: Menjadi Terang Jubili**  
@@ -68,6 +75,7 @@
 - Gambar: Komunitas berdoa/tangan saling berpegangan.  
 
 ---  
+
 **Slide 2: Model Pengharapan: Maria & Para Kudus**  
 
 - **Maria**:  
@@ -77,6 +85,7 @@
 - **Santo Fransiskus**: Pembaruan Gereja di tengah krisis.  
 
 ---  
+
 **Slide 3: Sakramen-Sakramen: Sumber Kekuatan Pengharapan** 
 
 - **Ekaristi**: Kenangan akan kemenangan Kristus (1 Kor 11:26).  
@@ -84,6 +93,7 @@
 - **Pintu Kudus Jubili**: Simbol peralihan dari kegelapan ke terang.  
 
 ---  
+
 **Slide 4: Aksi Nyata Pengharapan Jubili** 
 
 - **3 Langkah Konkret**:  
@@ -93,6 +103,7 @@
 - **Contoh**: Proyek "Jubilee Hope" — donasi untuk pendidikan anak miskin.  
 
 ---  
+
 **Slide 5: Pengharapan untuk Dunia**  
 
 - **Doa Bapa Kami**: *"Datanglah Kerajaan-Mu"* — kerinduan akan tatanan baru.  
@@ -101,6 +112,7 @@
   - *"Hidupilah pengharapanmu dengan lemah lembut dan hormat" (1 Pet 3:15).*  
 
 ---  
+
 **Slide 6: Penutup & Komitmen**  
 
 - **Pesan Final**:  
