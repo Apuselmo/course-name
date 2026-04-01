@@ -26,7 +26,7 @@
 **Slide 3: Fondasi Pengharapan dalam Kitab Suci** 
 
 - **Perjanjian Lama**:  
-  - *Imamat 25:10*: "Kuduskanlah tahun yang ke-50... itulah tahun jubili."  
+  - *Imamat 25:10*: "Kuduskanlah tahun yang ke-50... itulah tahun jubili.  
   - Pembebasan budak, pengembalian tanah, istirahat bagi bumi.  
 - **Perjanjian Baru**:  
   - *Lukas 4:18–19*: Yesus menggenapi nubuat Jubili sebagai "tahun rahmat Tuhan."  
