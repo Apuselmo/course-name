@@ -56,7 +56,7 @@
 
 ---
 
-#### **SESI 2: MENGHIDUPI PENGHARAPAN JUBILI DALAM AKSI**  
+## **SESI 2: MENGHIDUPI PENGHARAPAN JUBILI DALAM AKSI**  
 
 **Tema:** *"Pengharapan yang Bertindak melalui Kasih" (Gal 5:6)*  
 
