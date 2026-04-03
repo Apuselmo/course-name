@@ -7,4 +7,3 @@ Dalam banyak versi interpretasi, terutama yang bernuansa spiritual, dikatakan ba
 ## Membaca pemaknaan dari Injil Yohanes
 
 Dalam Injil Yohanes, peristiwa penyaliban Tuhan Yesus memiliki makna tersendiri.
-
