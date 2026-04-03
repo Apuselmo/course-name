@@ -35,14 +35,16 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 <!--s-->
 
 # **The Compass Prevents Getting Lost:**
+
 <!-- .element: style="float: left; width: 50%;" -->
 
 ![](./compass.jpg)
+
 <!-- .element: style="float: right; width: 50%;" -->
 
 <!--s-->
 
-**Amidst Challenges:** Catechists face discouragement: apathy, difficult questions, societal pressures, personal doubts, slow progress. Hope acts as the compass needle cutting through this "fog." It reminds them that the final victory belongs to Christ, and their labor is not in vain (1 Cor. 15:58). They work *for* eternity, not just **immediate results**.
+**Amidst Challenges:** Catechists face discouragement: apathy, difficult questions, societal pressures, personal doubts, slow progress. Hope acts as the compass needle cutting through this "fog." It reminds them that the final victory belongs to Christ, and their labor is not in vain (1 Cor. 15:58). They work *for* eternity, not just immediate results.
 
 <!--s-->
 
@@ -122,23 +124,23 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-*   **Theological, Not Mere Optimism:** It's rooted in God's revelation and faithfulness, not positive thinking or ignoring suffering.
+* **Theological, Not Mere Optimism:** It's rooted in God's revelation and faithfulness, not positive thinking or ignoring suffering.
 
 <!--s-->
 
-*   **Christocentric:** Its foundation is the Resurrection of Jesus – the guarantee of God's promises (1 Cor. 15:20).
+- **Christocentric:** Its foundation is the Resurrection of Jesus – the guarantee of God's promises (1 Cor. 15:20).
 
 <!--s-->
 
-*   **Communal:** It's the hope of the *entire* Church journeying together.
+- **Communal:** It's the hope of the *entire* Church journeying together.
 
 <!--s-->
 
-*   **Active, Not Passive:** It inspires action, perseverance, and commitment to the mission of catechesis.
+- **Active, Not Passive:** It inspires action, perseverance, and commitment to the mission of catechesis.
 
 <!--s-->
 
-*   **Realistic:** It acknowledges present struggles and suffering but views them in light of the promised future glory (Romans 8:18).
+- **Realistic:** It acknowledges present struggles and suffering but views them in light of the promised future glory (Romans 8:18).
 
 <!--s-->
 
