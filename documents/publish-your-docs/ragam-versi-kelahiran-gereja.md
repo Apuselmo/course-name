@@ -4,3 +4,7 @@ Sekilas mengusik sebuah tanya, mengapa begitu penting monolog Tuhan Yesus dalam 
 
 Dalam banyak versi interpretasi terutama yang bernuansa spiritual, dikatakan bahwa peristiwa monolog di salib ini menjadi moment penting penyerahan bunda Maria kepada Gereja dan Gereja sebagai anak-anak Bunda Maria. Persoalannya adalah, tiada ungkapan jelas Gereja dalam peristiwa itu, sebagaimana ada disebutkan dalam peristiwa penyerahan kunci kepada Petrus: "engkaulah Petrus, dan di atas batu karang ini aku akan mendirikan Gereja-Ku".
 
+## Membaca pemaknaan dari Injil Yohanes
+
+Dalam Injil Yohanes, peristiwa penyaliban Tuhan Yesus memiliki makna tersendiri.
+
