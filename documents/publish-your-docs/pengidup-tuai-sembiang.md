@@ -1,11 +1,11 @@
-## PENGIDUP TUAI SEMBIANG: Pemimpin Rohani dalam Gereja Katolik
-
+# PENGIDUP TUAI SEMBIANG: Pemimpin Rohani dalam Gereja Katolik
 
 Kos Tuai Sembiang 
 
 ---
 
-# Penama
+## Penama
+
 ## Bekelala enggau Tuai Sembiang
 
 ---
@@ -15,6 +15,7 @@ Kos Tuai Sembiang
 Sapa Tuai Sembiang dalam Gerija Katolik?
 
 ---
+
 Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pengawa bala paderi mela komuniti orang Kristian, kelebih agi nguluka sembiang lebuh nadai Padri.
 
 ---
@@ -22,7 +23,6 @@ Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pen
 · Bup Ukum Gerija (KHK 230 § 3): "Sida orang awam ti bisi pengeluru ti manah, ulih diangkatka ngambika nguluka sembiang, meri Komuni, sereta ngereja pengawa bukai ti ditetapka dalam bup ukum Gerija."
 
 ---
-
 
 ## Beselasar ke Bup Kudus (1)
 
@@ -45,8 +45,8 @@ Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pen
 
 ---
 
-
 ![[servusservorum.jpg]]
+
 ---
 
   · Kangau tu, iya nya kangau ti nyadika kitai baka pengibun, ukai pangkat.
@@ -71,11 +71,11 @@ Tuai Sembiang meh orang ti dipilih sereta diangkatka nyadi pengulu ti nulung pen
 
 ---
 
-# ἐπισκοπῆς = Episkopos
+### ἐπισκοπῆς = Episkopos
 
 ---
 
-# Shepherd
+## Shepherd
 
 ---
 
@@ -96,7 +96,6 @@ Pengawa Ti Diberi Ngitihka atur Hukum
 
 ---
 
-
 Kan. 1248 §2	Jika tidak ada pelayan suci atau karena alasan berat lain tidak mungkin ambil bagian dalam perayaan Ekaristi, sangat dianjurkan agar kaum beriman ambil bagian dalam liturgi Sabda, jika hal itu ada di gereja paroki atau di tempat suci lain, yang dirayakan menurut ketentuan Uskup diosesan; atau hendaknya secara perorangan atau dalam keluarga atau jika mungkin beberapa keluarga bersama, meluangkan waktu untuk berdoa selama waktu yang pantas.
 
 ---
@@ -113,7 +112,7 @@ Kan. 230 §3	Bila keperluan Gereja memintanya karena kekurangan pelayan, juga ka
 
 ---
 
-Kan. 766	Kaum awam dapat diperkenankan untuk berkhotbah di dalam gereja atau ruang doa, jika dalam situasi tertentu kebutuhan menuntutnya atau dalam kasus-kasus khusus manfaat menganjurkan- nya demikian, menurut ketentuan-ketentuan Konferensi para Uskup dengan tetap mengindahkan kan. 767, � 1.
+Kan. 766 Kaum awam dapat diperkenankan untuk berkhotbah di dalam gereja atau ruang doa, jika dalam situasi tertentu kebutuhan menuntutnya atau dalam kasus-kasus khusus manfaat menganjurkan- nya demikian, menurut ketentuan-ketentuan Konferensi para Uskup dengan tetap mengindahkan kan. 767, � 1.
 
 ---
 
@@ -139,7 +138,7 @@ Pengulu Ti Pemadu Penting
 
 ---
 
-898.	"Berdasarkan panggilan mereka yang khas, kaum awam waiib mencari Kerajaan Allah, dengan mengurus hal-hal yang fana dan mengatumya seturut kehendak Allah... Tugas mereka yang istimewa yakni: menyinari dan mengatur semua hal fana, yang erat-erat melibatkan mereka, sedemikian rupa, sehingga itu semua selalu terlaksana dan berkembang menurut kehendak Kristus, demi kemuliaan Sang Pencipta dan Penebus" (LG 31).
+898. "Berdasarkan panggilan mereka yang khas, kaum awam waiib mencari Kerajaan Allah, dengan mengurus hal-hal yang fana dan mengatumya seturut kehendak Allah... Tugas mereka yang istimewa yakni: menyinari dan mengatur semua hal fana, yang erat-erat melibatkan mereka, sedemikian rupa, sehingga itu semua selalu terlaksana dan berkembang menurut kehendak Kristus, demi kemuliaan Sang Pencipta dan Penebus" (LG 31).
 
 ---
 
@@ -201,8 +200,7 @@ Pengulu Ti Pemadu Penting
 
 ---
 
-
-#### Tuai Sembiang ukai semina pengawa, tang kangau ari Tuhan sereta Gerija. Tuai Sembiang enda tau enda mesti idup dalam pengerindu, pengarap, sereta pengandal ka Tuhan.
+### Tuai Sembiang ukai semina pengawa, tang kangau ari Tuhan sereta Gerija. Tuai Sembiang enda tau enda mesti idup dalam pengerindu, pengarap, sereta pengandal ka Tuhan.
 
 ---
 
@@ -210,8 +208,8 @@ Pengulu Ti Pemadu Penting
 
 ---
 
-# Agi idup agi ngelaban!
+## Agi idup agi ngelaban!
 
 ---
 
-# Tanya & Saut
+## Tanya & Saut
