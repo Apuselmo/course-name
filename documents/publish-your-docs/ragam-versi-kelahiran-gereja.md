@@ -6,4 +6,4 @@ Dalam banyak versi interpretasi, terutama yang bernuansa spiritual, dikatakan ba
 
 ## Membaca pemaknaan dari Injil Yohanes
 
-Dalam Injil Yohanes, peristiwa penyaliban Tuhan Yesus memiliki makna tersendiri. [[catechist-as-a-herald-of-hope]] Untuk referensi tambahan.
+Dalam Injil Yohanes, peristiwa penyaliban Tuhan Yesus memiliki makna tersendiri. [[catechist-as-a-herald-of-hope]] Untuk referensi tambahan. Seolah, peristiwa penyaliban menjadi puncak keseluruhan kisah dalam Injil Yohanes.
