@@ -19,7 +19,7 @@ This theme encourages catechists to deepen their relationship with God through p
 "The Gift of Mercy":
 This theme explores the concept of mercy and how catechists can share God's mercy with others, suggests Amazing Catechists.
 "Fruits of the Spirit":
-This theme explores the gifts of the Holy Spirit and how they can be cultivated in the lives of catechists and those they teach.
+This theme explores the gifts of the Holy Spirit and how the catechists can cultivate these gifts in their lives and witnessing in their teachings.
 
 "Discovering God's Purpose":
 This theme helps catechists reflect on God's plan for their lives and their role in His mission.
