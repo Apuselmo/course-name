@@ -4,10 +4,9 @@
 
 Pasca Konsili Vatikan II (1962-1965) ‘inkulturasi’ menjadi salah satu istilah yang populer dalam lingkungan Gereja Katolik. Dan, lebih dari itu, inkulturasi diajukan sebagai suatu tugas bagi Gereja. Di banyak tempat orang berbicara dan mengupayakan inkulturasi. Agar upaya tersebut tidak melenceng, sungguh diperlukan pemahaman yang tepat mengenai apa itu ‘inkulturasi’. Pemahaman yang tepat mengenai inkulturasi akan membantu kita menjalankan upaya tersebut secara benar.
 
-
 ---
 
-# I. APA ITU ‘INKULTURASI’
+## I. APA ITU ‘INKULTURASI’
 
 ---
 
@@ -146,7 +145,6 @@ Yustinus (meninggal sebagai martir antara 163-167 AD) dan Clemens dari Alexandri
 ---
 
 Dan ini semua, menurut Eusebius dari Kaisarea, benar-benar dapat melandaskan suatu “persiapan untuk Injil” (praeparatio evangelica).
-
 
 ---
 
@@ -357,7 +355,6 @@ Oleh karena itulah diperlukan penelaahan **antropologis dan sosiologis** setempa
 
 Perlu jelas pula seberapa jauh nilai-nilai asli itu masih menjiwai hidup masyarakat setempat sekarang ini, bagaimana melestarikannya dan membuatnya tetap relevan di tengah arus perubahan dan perkembangan teknologis yang semakin cepat.
 
-
 ---
 
 Dalam refleksi teologis, manifestasi-manifestasi budaya dan keagamaan, khususnya nilai-nilai yang terkandung di dalamnya, harus ditafsirkan dalam terang Kitab Suci dan tradisi Gereja.
@@ -384,7 +381,7 @@ Ekspresi khas pengalaman Kristiani ini pada gilirannya memperkaya, baik eksisten
 
 ---
 
-# PENUTUP
+## PENUTUP
 
 ---
 
