@@ -10,7 +10,7 @@ Pasca Konsili Vatikan II (1962-1965) ‘inkulturasi’ menjadi salah satu istila
 
 ---
 
-## Asal-Usul dan Arti Istilah
+### Asal-Usul dan Arti Istilah
 
 ---
 
@@ -70,7 +70,7 @@ Sebab yang dimaksud dengan **‘inkulturasi’** ialah proses yang dengannya **G
 
 ---
 
-## Definisi ‘Inkulturasi’
+### Definisi ‘Inkulturasi’
 
 ---
 
