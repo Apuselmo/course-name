@@ -57,9 +57,11 @@ Perbedaan itu pertama-tama terletak di sini, bahwa hubungan antara Gereja dan se
 Sebab Gereja “berkaitan dengan misi dan hakekatnya, tidak terikat pada suatu bentuk budaya tertentu” (GS, 42).
 
 ---
+
 Kecuali itu, **proses inkulturasi itu bukan sekedar suatu jenis ‘kontak’**, melainkan sebuah **penyisipan mendalam**, yang dengannya **Gereja menjadi bagian dari sebuah masyarakat tertentu** (bdk. AG, 10).
 
 ---
+
 Demikian juga ‘inkulturasi’ berbeda dari ‘enkulturasi’.
 
 ---
@@ -76,11 +78,11 @@ Sebab yang dimaksud dengan **‘inkulturasi’** ialah proses yang dengannya **G
 
 ---
 
-# II. DASAR KITAB SUCI DAN AJARAN GEREJA
+## II. DASAR KITAB SUCI DAN AJARAN GEREJA
 
 ---
 
-## Landasan Biblis Inkulturasi
+### Landasan Biblis Inkulturasi
 
 ---
 
@@ -132,7 +134,7 @@ Paulus menemukan tanda kehadiran Allah secara tersembunyi dalam budaya-religius 
 
 ---
 
-## Ajaran Gereja
+### Ajaran Gereja
 
 ---
 
@@ -181,7 +183,7 @@ Dalam Ajakan Apostolik Evangelii Nuntiandi (8 Des. 1975), Paus Paulus VI kembali
 
 ---
 
-# III. TAHAP-TAHAP INKULTURASI
+## III. TAHAP-TAHAP INKULTURASI
 
 ---
 
@@ -201,7 +203,7 @@ Dalam proses menuju integrasi bersisi-dua tersebut dapatlah dibedakan **tiga tah
 
 ---
 
-## 1.Tahap Terjemahan
+### 1.Tahap Terjemahan
 
 ---
 
@@ -249,7 +251,7 @@ Dan ini tentu mempunyai dampak luas dalam kehidupan sosio-religius masyarakat Ti
 
 ---
 
-## 2. Tahap Asimilasi
+### 2. Tahap Asimilasi
 
 ---
 
@@ -273,7 +275,7 @@ Karena itu diperlukan pedoman umum praksis berikut:
 
 ---
 
-### a. Metode Tiga (3) Langkah
+#### a. Metode Tiga (3) Langkah
 
 ---
 
@@ -313,7 +315,7 @@ Pada langkah pertama, hari besar 25 Desember dibersihkan dari unsur takhyul (mat
 
 ---
 
-### b. Diperlukan Telaah Sosiologis-Antropologis dan Teologis
+#### b. Diperlukan Telaah Sosiologis-Antropologis dan Teologis
 
 ---
 
@@ -361,7 +363,7 @@ Dalam refleksi teologis, manifestasi-manifestasi budaya dan keagamaan, khususnya
 
 ---
 
-## 3. Tahap Transformasi
+### 3. Tahap Transformasi
 
 ---
 
