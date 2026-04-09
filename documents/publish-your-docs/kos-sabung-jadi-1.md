@@ -1,16 +1,19 @@
 # Sakramen Sabung Jadi
+
 ## Sakramen Perkawinan Katolik
 
 ---
 
 ### **PENGANTAR PERKAWINAN KATOLIK**
+
 #### **Tujuan Khusus**:
+
 Memahami perkawinan sebagai **panggilan ilahi** dan **sakramen**, serta membedakannya dari perkawinan sipil.
 
 ---
 
-**PENDAHULU PASAL PERKAWINAN KATOLIK**
 #### **Tuju Besai**:
+
 Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka enggau perkawinan sitil.
 
 ---
@@ -18,6 +21,7 @@ Nemu reti perkawinan baka **panggil Allah** enggau **sakramen**, lalu beda ka en
 ### **Sesi 1: Hakikat Perkawinan sebagai Panggilan & Sakramen**
 
 ---
+
 ### **Sesi 1: Reti Perkawinan baka Kangau & Sakramen**
 
 ---
