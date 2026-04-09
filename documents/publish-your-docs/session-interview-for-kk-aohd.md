@@ -17,7 +17,7 @@
 - How does this principle challenge our pastoral priorities?
 - What does “*preferential*” look like in liturgy, outreach, or resource allocation?
 - What symbolic gestures or liturgical practices help communities embody this principle?
-- How can this principle be expressed visually or symbolically in parish materials?
-- How does this principle challenge the Church to prioritize the needs of the vulnerable?
+- How can this principle expressed visually or symbolically in parish materials?
+- How does this principle challenge the Church to prioritise the needs of the vulnerable?
 - What does a “*preferential option*” look like in your local context?
 - How do we make the poor the heart of our pastoral vision and mission?
