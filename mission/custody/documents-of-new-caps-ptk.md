@@ -9,3 +9,6 @@ They already responded 'ok' to this new assignment of mission in helping Malaysi
 For the moment waiting for the documents (supporting documents) to be sent by Diocese of Sanggau Kapuas, West Kalimantan.
 
 
+
+
+
