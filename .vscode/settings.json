@@ -1,5 +1,6 @@
 {
     "calendar.google.credentialsFile": "971859831181-el4rhi9lnn6gsi48455fj3ui7vcb1ee5.apps.googleusercontent.com",
     "markdown.extension.completion.enabled": false,
-    "markdown.extension.tableFormatter.enabled": false
+    "markdown.extension.tableFormatter.enabled": false,
+    "markdown.validate.enabled": true
 }
