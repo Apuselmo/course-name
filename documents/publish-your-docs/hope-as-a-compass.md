@@ -10,7 +10,7 @@ revealOptions:
 ---
 <!-- .slide: data-background="./compass2.jpg" -->
 
-# Hope as the Compass for Catechist
+## Hope as the Compass for Catechist
 
 <!--s-->
 
