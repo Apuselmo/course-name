@@ -1,7 +1,10 @@
+# Re-New A Thing
+
 New and needed to have a practice constantly. Never forget to redo the things that must be done.
 
 Starting with the simple things: conversations and dialogue.
 
+## Material to learn
 
 For starting the conversation or greetings:
 
