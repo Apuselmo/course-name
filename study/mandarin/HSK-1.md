@@ -2,7 +2,7 @@
 
 New and needed to have a practice constantly. Never forget to redo the matters that must to do.
 
-Starting with the simple matter: conversations and dialogue.
+Starting with the simple matters: conversations and dialogue.
 
 ## Material to learn
 
