@@ -80,7 +80,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-**Guiding Daily Choices:** This ultimate horizon shapes *how* the catechist teaches. Every lesson, activity, and interaction is oriented towards helping learners encounter Christ and journey towards this ultimate hope. It answers the "why" behind the "what" and "how" of teaching the faith.
+**Guiding Daily Choices:** This ultimate horizon shapes *how* the catechist teaches. Every lesson, activity, and interaction oriented towards helping learners encounter Christ and journey towards this ultimate hope. It answers the "why" behind the "what" and "how" of teaching the faith.
 
 <!--s-->
 
@@ -116,7 +116,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 - **Abraham** (Rom 4:18) – "Hoping against hope," he trusted God’s promise, becoming a model for believers.
 - **The Early Church** (1 Pet 3:15) – Called to "give a reason for your hope," Christians were catechists by their joyful endurance in persecution.
-- **St. Augustine** – Taught that hope distinguishes Christians from those who live only for the present (*City of God*).
+- **St. Augustine** – Taught that hope distinguishes Christians from those who live merely for the present (*City of God*).
 
 <!--s-->
 
