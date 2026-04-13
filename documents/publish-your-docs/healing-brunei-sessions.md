@@ -81,7 +81,6 @@
 
 ---
 
-
 #### **Kuasa Rekonsiliasi: Membebaskan Hati yang Terbelenggu**
 
 ---
@@ -90,7 +89,7 @@
 
 ---
 
->   1. *Pengakuan jujur* (Mzm 32:5) → 2. *Penyesalan tulus* → 3. *Absolusi* → 4. *Satisfaksi*
+> 1. *Pengakuan jujur* (Mzm 32:5) → 2. *Penyesalan tulus* → 3. *Absolusi* → 4. *Satisfaksi*
 
 ---
 
@@ -173,9 +172,7 @@
 
 49 Iya lalu nyaut, "Nama kebuah seduai begigaka Aku? Kati seduai enda nemu Aku endang enda tau enda diau dalam rumah Apai Aku?"
 
-
 51 Iya lalu mupuk enggau seduai iya lalu datai di Nasaret. Iya ngasika seduai iya, lalu indai Iya nyimpan semua utai nya dalam ati diri.
-
 
 ---
 
@@ -318,7 +315,7 @@ Dalam nama Bapa dan Putra dan Roh Kudus. Amin .
 
 ---
 
-### **Panduan Visual & Metode**:
+### **Panduan Visual & Metode**
 
 1. **Simbol**:
    - **Minyak Suci** (pengurapan), **Air** (pembasuhan), **Hati** (penyembuhan batin).
