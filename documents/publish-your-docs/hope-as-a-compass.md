@@ -18,7 +18,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-#### **a) The Compass Provides Orientation & Direction: Guiding the Catechist’s Own Journey**
+## **a) The Compass Provides Orientation & Direction: Guiding the Catechist’s Own Journey**
 
 <!--s-->
 
@@ -34,7 +34,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-# **The Compass Prevents Getting Lost:**
+**The Compass Prevents Getting Lost:**
 
 <!-- .element: style="float: left; width: 50%;" -->
 
@@ -56,7 +56,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-#### **b) Directing the Content of Catechesis**
+## **b) Directing the Content of Catechesis**
 
 <!--s-->
 
@@ -84,7 +84,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-#### **c) The Compass Sustains the Journey: Sustaining the Community in Faith**
+## **c) The Compass Sustains the Journey: Sustaining the Community in Faith**
 
 <!--s-->
 
@@ -108,7 +108,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-### 4. Biblical and Patristic Roots
+## **Biblical and Patristic Roots**
 
 [**Patristic** = The Fathers of the Church: relating to Christian Teologians]
 
@@ -120,7 +120,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-### **5. Key Characteristics of this "Hope-Compass":**
+## **Key Characteristics of this "Hope-Compass":**
 
 <!--s-->
 
@@ -144,7 +144,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-### **6. Practical Implications for Catechists**
+## **Practical Implications for Catechists**
 
 <!--s-->
 
@@ -189,7 +189,7 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-### **Conclusion**
+## **Conclusion**
 
 <!--s-->
 
