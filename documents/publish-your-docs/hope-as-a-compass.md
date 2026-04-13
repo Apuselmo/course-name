@@ -104,13 +104,13 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-**Foundation for Patience:** Hope allows the catechist to be patient with learners' journeys, understanding that growth in faith is a lifelong process guided by the Holy Spirit, not just the catechist's efforts.
+**Foundation for Patience:** Hope allows the catechist to be patient with learners' journeys, understanding that growth in faith is a lifelong process guided by the Holy Spirit, not merely the catechist's efforts.
 
 <!--s-->
 
 ### 4. Biblical and Patristic Roots
 
-[**Patristic** = The Fathers of the Church: relating to the early Christian Teologians]
+[**Patristic** = The Fathers of the Church: relating to Christian Teologians]
 
 <!--s-->
 
@@ -164,27 +164,27 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-*   **Hope is the WHY:** The ultimate reason for teaching the faith is to lead others to the hope of eternal life.
+- **Hope is the WHY:** The ultimate reason for teaching the faith is to lead others to the hope of eternal life.
 
 <!--s-->
 
-*   **Hope is the HOW:** It shapes the attitude, methods, and perseverance needed – teaching with joy, conviction, patience, and resilience.
+- **Hope is the HOW:** It shapes the attitude, methods, and perseverance needed – teaching with joy, conviction, patience, and resilience.
 
 <!--s-->
 
-*   **Hope is the ANCHOR:** It provides stability and direction amidst the storms of doubt, difficulty, and discouragement.
+- **Hope is the ANCHOR:** It provides stability and direction amidst the storms of doubt, difficulty, and discouragement.
 
 <!--s-->
 
 **Without this compass of Hope,** catechesis risks becoming:
 <!-- .element class="fragment" -->
-*   A dry transmission of information.
+- A dry transmission of information.
 <!-- .element class="fragment" -->
-*   Focused solely on moralism or rules.
+- Focused solely on moralism or rules.
 <!-- .element class="fragment" -->
-*   Overwhelmed by challenges and prone to burnout.
+- Overwhelmed by challenges and prone to burnout.
 <!-- .element class="fragment" -->
-*   Losing sight of the transformative power and ultimate goal of the Gospel.
+- Losing sight of the transformative power and ultimate goal of the Gospel.
 <!-- .element class="fragment" -->
 
 <!--s-->
@@ -193,13 +193,13 @@ A compass provides *direction* and *orientation*, especially in uncertain terrai
 
 <!--s-->
 
-"Hope as the compass of the catechist" means that every lesson, every encounter, and every struggle is oriented toward the *certainty of Christ’s victory*. The catechist does not merely teach about hope—they *embody* it, guiding others toward the light of the Resurrection.
+"Hope as the compass of the catechist" means that every lesson, every encounter, and every struggle oriented toward the *certainty of Christ’s victory*. The catechist does not merely teach about hope—they *embody* it, guiding others toward the light of the Resurrection.
 
 <!--s-->
 
 As Pope Benedict XVI wrote in *Spe Salvi*:
 > *"The one who has hope lives differently."*
 
-For the catechist, hope is not just a virtue—it is the very *direction* of their mission.
+For the catechist, hope is not just a virtue — it is the very *direction* of their mission.
 
 <!--s-->
