@@ -1,6 +1,6 @@
 # Re-New A Thing
 
-New and needed to have a practice constantly. Never forget to redo the matters that must to do.
+New and needed to have a practice constantly. Never forget redoing the matters that must to do.
 
 Starting with the simple matters: conversations and dialogue.
 
